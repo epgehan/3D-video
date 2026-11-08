@@ -48,13 +48,13 @@
       "file": "images/Salme_008.png",
       "width": 1920,
       "height": 1080,
-      "sha256": "31cb3cee6997bdf4bab3a217a09fad0a41dd5a182600398fffe5320b57189400"
+      "sha256": "ba04060b342e45f8821d550dd6e18d5c0fafc621d585c5bf61f31050bc74744a"
     },
     {
       "file": "images/Salme_009.png",
       "width": 1920,
       "height": 1080,
-      "sha256": "c995531eb7630dd22d1e8ca6f4f2fabe7a8727bc27d94fb9d738d2feaa4c631b"
+      "sha256": "9fb57343994034297daff0c3a52a8ca00104449c6bd5b8f32d7ce53e68a9a56e"
     },
     {
       "file": "images/Salme_010.png",
@@ -156,7 +156,7 @@
       "file": "images/Salme_026.png",
       "width": 1920,
       "height": 1080,
-      "sha256": "7707d1d9adce505e9059907abc698c41e29fce3a721b6b7bc5b4a2c25d937c7a"
+      "sha256": "df008324e4be6e1f84dadfbbd30b99013e3cb2e951d98d73b27bb2a54f08c5b0"
     },
     {
       "file": "images/Salme_027.png",
@@ -168,7 +168,7 @@
       "file": "images/Salme_028.png",
       "width": 1920,
       "height": 1080,
-      "sha256": "1129903f8719b41fa8a88a91350e61a421b0cf24073f5943c067b32fd921c1ec"
+      "sha256": "a5d958f1f0ca9b18c2586ed57f5b4d74375f7af5f978116cd2614f5efa5ecd68"
     },
     {
       "file": "images/Salme_029.png",
@@ -234,7 +234,7 @@
       "file": "images/Salme_039.png",
       "width": 1920,
       "height": 1080,
-      "sha256": "b2cdd885edc4f6b1e49585fb2141847ee8614bb7f95f68685210d19b8cc42b1f"
+      "sha256": "073fb9e442a95c06291bc4256d232a2e5c74b7665a3872ba698b624b700eeb19"
     },
     {
       "file": "images/Salme_040.png",
@@ -312,7 +312,7 @@
       "file": "images/Salme_052.png",
       "width": 1920,
       "height": 1080,
-      "sha256": "767466eac3600697207ac610475dac624e378be017ed7c492bd3a5f1bac4ac0e"
+      "sha256": "962af38a28d6093d7d6b83b7d0263bc18d9f12faf66278d0e8c8f5a8ba5c4c0e"
     },
     {
       "file": "images/Salme_053.png",
@@ -414,7 +414,7 @@
       "file": "images/Salme_069.png",
       "width": 1920,
       "height": 1080,
-      "sha256": "51ada26b164c789dbaff9f982e0f80412981971a66581605f208b223962d7936"
+      "sha256": "59522831c042da78fc7126fc2455505d1c0af38252c8391e1506e5a91ed7e837"
     },
     {
       "file": "images/Salme_070.png",
@@ -522,7 +522,7 @@
       "file": "images/Salme_087.png",
       "width": 1920,
       "height": 1080,
-      "sha256": "af7eeb0ac2f49bdf9c38544585a5da946f7a410f359550b764de151933cc7434"
+      "sha256": "b375c4ed6508644d4c55959dadb2d3d36cf55320b77b20cf8b2349f945acc492"
     },
     {
       "file": "images/Salme_088.png",
@@ -540,7 +540,7 @@
       "file": "images/Salme_090.png",
       "width": 1920,
       "height": 1080,
-      "sha256": "272539adbee8a5b23928215f0d1ab6991a613b3aff98874914263cdfb1195938"
+      "sha256": "f2e6601f998d98495057eff1bf700bd25bcbb21b1c4eefd73a4daed4478a4c60"
     }
   ]
 }

@@ -109,3 +109,7 @@ Checks covered flat cartoon character construction where visible, simple facial 
 - Historical scenes and artifacts are stylized interpretations. The grave schematics are not measured plans, and the helmet/sword/Buddha/shoe images are not authenticated replicas of specific museum photographs.
 - The Helgö reference description was checked against the Swedish History Museum page: https://historiska.se/press/helgo-buddhan-fran-historiska-museet-visas-i-ny-utstallning-pa-british-museum/
 - Original style-reference frames and rejected drafts are excluded from the delivery.
+
+## Revisions — 2026-11-08
+
+Images 008, 009, 026, 028, 039, 052, 069, 087 and 090 were revised and individually reviewed. See [REVISIONS.md](REVISIONS.md) for details, corrections and map-source notes. All exports are 1920 × 1080; all other 81 PNG files are unchanged.

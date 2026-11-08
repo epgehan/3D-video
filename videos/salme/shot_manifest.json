@@ -45,13 +45,31 @@
     "id": "008",
     "title": "00:20–00:24 · The famous date in the record",
     "prompt": "Landscape 16:9 illustration for a 1920 × 1080 animated history video.\n\nTop-down desk view of an early medieval parchment manuscript with a large open patch on the\nright half of the page. Use faint, indistinct pen marks near the edges and the shape of a\nquill at the top. A shadow like a small roofline falls across the upper margin. Candle-amber\non the paper falls away sharply into a burgundy and blue-black room.\n\nUse flat 2D cel shading, thick near-black contours, simple rounded faces, small eyes,\nexpressive brows and slim dark limbs where people appear. Stage clean foreground, middle and\nbackground shapes with believable perspective. Use lightly painted texture and crisp shadow\nedges. Keep the lower centre quiet for captions and the right edge clear of essential detail.\nExclude lettering, captions, logos, watermarks, interface elements, photorealism, 3D\nrendering, gore, fantasy armour and horned helmets.",
-    "notes": "**Edit** Set the editor title Lindisfarne, 793 into the open area. Use a brief reveal as the narrator mentions the raid."
+    "notes": "**Edit** Set the editor title Lindisfarne, 793 into the open area. Use a brief reveal as the narrator mentions the raid.",
+    "revision": {
+      "date": "2026-11-08",
+      "details": "Lindisfarne chapel, huts and shore miniature; manuscript pen marks, binding and candlewax. Clear date area retained.",
+      "visual_review": "Accepted: consistent ink-drawn 2D background treatment, series palette, warm/cool lighting, no readable text. No characters appear; character anatomy checks not applicable.",
+      "output_resolution": [
+        1920,
+        1080
+      ]
+    }
   },
   {
     "id": "009",
     "title": "00:24–00:29 · An older story under the page",
     "prompt": "Landscape 16:9 illustration for a 1920 × 1080 animated history video.\n\nGraphic match composition in which the curled bottom edge of a manuscript crosses the upper\nhalf and a curved line of rivets sits beneath it in exposed soil. Align the curves on the same\ndiagonal, giving equal weight to cream parchment and deep blue earth. A restrained amber rim\nconnects the surfaces. Leave the lower field dark so the image reads as a page giving way to a\nburied outline.\n\nUse flat 2D cel shading, thick near-black contours, simple rounded faces, small eyes,\nexpressive brows and slim dark limbs where people appear. Stage clean foreground, middle and\nbackground shapes with believable perspective. Use lightly painted texture and crisp shadow\nedges. Keep the lower centre quiet for captions and the right edge clear of essential detail.\nExclude lettering, captions, logos, watermarks, interface elements, photorealism, 3D\nrendering, gore, fantasy armour and horned helmets.",
-    "notes": "**Edit** Slide the page layer upward a short distance to reveal the rivet curve. Keep this as a visual comparison until the date reveal."
+    "notes": "**Edit** Slide the page layer upward a short distance to reveal the rivet curve. Keep this as a visual comparison until the date reveal.",
+    "revision": {
+      "date": "2026-11-08",
+      "details": "Matching manuscript miniature; second rivet line, decayed timber stain, roots and soil strata clarify the buried boat.",
+      "visual_review": "Accepted: consistent ink-drawn 2D background treatment, series palette, warm/cool lighting, no readable text. No characters appear; character anatomy checks not applicable.",
+      "output_resolution": [
+        1920,
+        1080
+      ]
+    }
   },
   {
     "id": "010",
@@ -153,7 +171,16 @@
     "id": "026",
     "title": "02:06–02:14 · Raids along the coasts",
     "prompt": "Landscape 16:9 illustration for a 1920 × 1080 animated history video.\n\nA dark indigo atlas plate with an unobstructed central field for a real outline of Britain and\nIreland to be placed later. Texture is matte and subtle. Put a tiny amber boat silhouette and\ntwo soft concentric wave marks low at the left edge, with a thin parchment frame high and\nright. The middle stays blue and clean for coastal markers.\n\nUse flat 2D cel shading, thick near-black contours, simple rounded faces, small eyes,\nexpressive brows and slim dark limbs where people appear. Stage clean foreground, middle and\nbackground shapes with believable perspective. Use lightly painted texture and crisp shadow\nedges. Keep the lower centre quiet for captions and the right edge clear of essential detail.\nExclude lettering, captions, logos, watermarks, interface elements, photorealism, 3D\nrendering, gore, fantasy armour and horned helmets.",
-    "notes": "**Edit** Overlay a verified coastline and add a few illustrative coastal pulses. Keep the markers general as the narration describes spread."
+    "notes": "**Edit** Overlay a verified coastline and add a few illustrative coastal pulses. Keep the markers general as the narration describes spread.",
+    "revision": {
+      "date": "2026-11-08",
+      "details": "Britain and Ireland coastline map with coastal dots and schematic raid-route marks. Original boat and atlas corner retained.",
+      "visual_review": "Accepted: consistent ink-drawn 2D background treatment, series palette, warm/cool lighting, no readable text. No characters appear; character anatomy checks not applicable.",
+      "output_resolution": [
+        1920,
+        1080
+      ]
+    }
   },
   {
     "id": "027",
@@ -165,7 +192,16 @@
     "id": "028",
     "title": "02:23–02:30 · A date on the page",
     "prompt": "Landscape 16:9 illustration for a 1920 × 1080 animated history video.\n\nGraphic overhead view of a cream parchment strip on a burgundy tabletop. Leave its central\nupper area unmarked and large. One short shadow of a quill crosses from the top left and a\nsmall amber light pool isolates the date-card area. Give the sheet coarse edge fibres and\ncrisp graphic edges in the same style as image 008.\n\nUse flat 2D cel shading, thick near-black contours, simple rounded faces, small eyes,\nexpressive brows and slim dark limbs where people appear. Stage clean foreground, middle and\nbackground shapes with believable perspective. Use lightly painted texture and crisp shadow\nedges. Keep the lower centre quiet for captions and the right edge clear of essential detail.\nExclude lettering, captions, logos, watermarks, interface elements, photorealism, 3D\nrendering, gore, fantasy armour and horned helmets.",
-    "notes": "**Edit** Place 793 on the parchment in the editor. Keep the earlier date outside this frame and cut from paper grain to sand."
+    "notes": "**Edit** Place 793 on the parchment in the editor. Keep the earlier date outside this frame and cut from paper grain to sand.",
+    "revision": {
+      "date": "2026-11-08",
+      "details": "Matching chapel vignette, annal pen marks, binding pricks, page tab and folds. Clear central date area retained.",
+      "visual_review": "Accepted: consistent ink-drawn 2D background treatment, series palette, warm/cool lighting, no readable text. No characters appear; character anatomy checks not applicable.",
+      "output_resolution": [
+        1920,
+        1080
+      ]
+    }
   },
   {
     "id": "029",
@@ -231,7 +267,16 @@
     "id": "039",
     "title": "03:21–03:30 · Around 750 and 793",
     "prompt": "Landscape 16:9 illustration for a 1920 × 1080 animated history video.\n\nA clean landscape background for a two-date timeline. The upper half is amber parchment with an\nindistinct manuscript curl at its edge. The lower half is cobalt soil texture with one small\npale rivet at the edge. Leave a wide, uncluttered band from the top third into the middle for\na manually drawn timeline and two date labels. Keep decorative marks far from that band.\n\nUse flat 2D cel shading, thick near-black contours, simple rounded faces, small eyes,\nexpressive brows and slim dark limbs where people appear. Stage clean foreground, middle and\nbackground shapes with believable perspective. Use lightly painted texture and crisp shadow\nedges. Keep the lower centre quiet for captions and the right edge clear of essential detail.\nExclude lettering, captions, logos, watermarks, interface elements, photorealism, 3D\nrendering, gore, fantasy armour and horned helmets.",
-    "notes": "**Edit** Draw the timeline in the editor. Place Salme, around 750 at left and Lindisfarne, 793 at right. Reveal the earlier date first."
+    "notes": "**Edit** Draw the timeline in the editor. Place Salme, around 750 at left and Lindisfarne, 793 at right. Reveal the earlier date first.",
+    "revision": {
+      "date": "2026-11-08",
+      "details": "Burial evidence vignette with rivets, timber and gaming pieces contrasts with chapel vignette. Central timeline area remains clear.",
+      "visual_review": "Accepted: consistent ink-drawn 2D background treatment, series palette, warm/cool lighting, no readable text. No characters appear; character anatomy checks not applicable.",
+      "output_resolution": [
+        1920,
+        1080
+      ]
+    }
   },
   {
     "id": "040",
@@ -309,7 +354,16 @@
     "id": "052",
     "title": "04:49–04:56 · Back across the Baltic",
     "prompt": "Landscape 16:9 illustration for a 1920 × 1080 animated history video.\n\nA clean dark navy atlas plate with open central space for an accurate Baltic map from the\neditor. Along the bottom-left edge, show a very small cream tooth silhouette and a worn gaming\npiece lit in amber. Along the upper edge, a matte light-blue haze suggests water. Make both\nsides quiet enough for two geographic markers and an animated route line.\n\nUse flat 2D cel shading, thick near-black contours, simple rounded faces, small eyes,\nexpressive brows and slim dark limbs where people appear. Stage clean foreground, middle and\nbackground shapes with believable perspective. Use lightly painted texture and crisp shadow\nedges. Keep the lower centre quiet for captions and the right edge clear of essential detail.\nExclude lettering, captions, logos, watermarks, interface elements, photorealism, 3D\nrendering, gore, fantasy armour and horned helmets.",
-    "notes": "**Edit** Overlay a verified Baltic outline. Mark Salme on Saaremaa and shade central Sweden as a region. Trace from Salme toward that region."
+    "notes": "**Edit** Overlay a verified Baltic outline. Mark Salme on Saaremaa and shade central Sweden as a region. Trace from Salme toward that region.",
+    "revision": {
+      "date": "2026-11-08",
+      "details": "Baltic map with Salme on southwest Saaremaa linked to a highlighted central Sweden region. Tooth and gaming piece retained.",
+      "visual_review": "Accepted: consistent ink-drawn 2D background treatment, series palette, warm/cool lighting, no readable text. No characters appear; character anatomy checks not applicable.",
+      "output_resolution": [
+        1920,
+        1080
+      ]
+    }
   },
   {
     "id": "053",
@@ -411,7 +465,16 @@
     "id": "069",
     "title": "06:35–06:41 · The Volga route",
     "prompt": "Landscape 16:9 illustration for a 1920 × 1080 animated history video.\n\nLandscape atlas background in rich matte indigo with a narrow warm border and tiny painted\nwater ripples at the corners. Reserve a broad, open vertical field from upper left to\nmid-right for an editor-supplied map from the Baltic towards the Caspian. Put a small amber\ntrading-boat icon in a far corner only. Keep geographic features, place names and routes out\nof the artwork.\n\nUse flat 2D cel shading, thick near-black contours, simple rounded faces, small eyes,\nexpressive brows and slim dark limbs where people appear. Stage clean foreground, middle and\nbackground shapes with believable perspective. Use lightly painted texture and crisp shadow\nedges. Keep the lower centre quiet for captions and the right edge clear of essential detail.\nExclude lettering, captions, logos, watermarks, interface elements, photorealism, 3D\nrendering, gore, fantasy armour and horned helmets.",
-    "notes": "**Edit** Use a verified basemap. Trace a simplified eastern route via the Volga toward the Caspian and label the waterways manually."
+    "notes": "**Edit** Use a verified basemap. Trace a simplified eastern route via the Volga toward the Caspian and label the waterways manually.",
+    "revision": {
+      "date": "2026-11-08",
+      "details": "Baltic-to-Volga-to-Caspian atlas. Solid Volga course and dashed schematic connecting sections are distinct.",
+      "visual_review": "Accepted: consistent ink-drawn 2D background treatment, series palette, warm/cool lighting, no readable text. No characters appear; character anatomy checks not applicable.",
+      "output_resolution": [
+        1920,
+        1080
+      ]
+    }
   },
   {
     "id": "070",
@@ -519,7 +582,16 @@
     "id": "087",
     "title": "08:27–08:34 · Words left by Lindisfarne",
     "prompt": "Landscape 16:9 illustration for a 1920 × 1080 animated history video.\n\nExtreme close view of the manuscript from the hook, curling at the upper edge on a dark table.\nIndistinct ink marks sit well away from the main field. A candle outside the frame gives the\nparchment one warm edge as the right side sinks into blue-violet shadow. The page's curve\nresembles the rim of a buried boat.\n\nUse flat 2D cel shading, thick near-black contours, simple rounded faces, small eyes,\nexpressive brows and slim dark limbs where people appear. Stage clean foreground, middle and\nbackground shapes with believable perspective. Use lightly painted texture and crisp shadow\nedges. Keep the lower centre quiet for captions and the right edge clear of essential detail.\nExclude lettering, captions, logos, watermarks, interface elements, photorealism, 3D\nrendering, gore, fantasy armour and horned helmets.",
-    "notes": "**Edit** Match the river reflection to the parchment light. Dissolve the curved page edge into the curve of the Salme burial plan."
+    "notes": "**Edit** Match the river reflection to the parchment light. Dissolve the curved page edge into the curve of the Salme burial plan.",
+    "revision": {
+      "date": "2026-11-08",
+      "details": "Matching chapel and huts manuscript miniature, binding holes, ink marks and natural cut-tip feather quill. Modern metal nib rejected and replaced.",
+      "visual_review": "Accepted: consistent ink-drawn 2D background treatment, series palette, warm/cool lighting, no readable text. No characters appear; character anatomy checks not applicable.",
+      "output_resolution": [
+        1920,
+        1080
+      ]
+    }
   },
   {
     "id": "088",
@@ -537,6 +609,15 @@
     "id": "090",
     "title": "08:52–09:00 · The shore holds the story",
     "prompt": "Landscape 16:9 illustration for a 1920 × 1080 animated history video.\n\nWide, empty Salme shoreline at blue hour, with dark grass at the lower left, a low distant\nbank and a narrow amber line over the Baltic. Frame it close to image 029 but softer and more\nopen, as though the viewer has returned after learning the story. Use cobalt, deep violet and\na single pale-gold reflection. Keep the horizon and centre clean.\n\nUse flat 2D cel shading, thick near-black contours, simple rounded faces, small eyes,\nexpressive brows and slim dark limbs where people appear. Stage clean foreground, middle and\nbackground shapes with believable perspective. Use lightly painted texture and crisp shadow\nedges. Keep the lower centre quiet for captions and the right edge clear of essential detail.\nExclude lettering, captions, logos, watermarks, interface elements, photorealism, 3D\nrendering, gore, fantasy armour and horned helmets.",
-    "notes": "**Edit** Hold through the last line. Let the water move subtly and give the last beat to waves before the fade.\n\n## Historical and map references\n\n- The two Salme burials, the date and burial objects. [Uppsala University](https://www.uu.se/en/research/the-viking-phenomenon/themes/boat-grave-culture/salme) and [Price et al. in Antiquity](https://doi.org/10.15184/aqy.2016.106)\n- The four brothers. [Margaryan et al. in Nature](https://doi.org/10.1038/s41586-020-2688-8)\n- Boat graves and helmet references for Valsgärde. [Gustavianum, Uppsala University](https://www.uu.se/en/gustavianum/about-the-museum/our-collections/the-historical-collections/nordic-archeology/valsgarde)\n- Lindisfarne and Stamford Bridge. [English Heritage on Lindisfarne](https://www.english-heritage.org.uk/visit/places/lindisfarne-priory/history/viking-raid/) and [the northern battles of 1066](https://www.english-heritage.org.uk/learn/histories/1066-and-the-norman-conquest/northern-battles-1066/)\n- Plank overlap and vessel shapes for the shipbuilding sequence. [The Viking Ship Museum on the hull](https://www.vikingeskibsmuseet.dk/en/professions/education/all-about-the-viking-ship/the-hull-of-the-ship) and [the five Viking ships](https://www.vikingeskibsmuseet.dk/en/visit-the-museum/exhibitions/the-five-viking-ships)\n- Eastern journeys and the Dnieper route. [National Museum of Denmark](https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/expeditions-and-raids/dangerous-journeys-to-eastern-europe-and-russia/) and [The Viking Ship Museum](https://www.vikingeskibsmuseet.dk/en/visit-the-museum/exhibitions/previous-exhibitions/heart-and-soul-50-years-with-the-ships-of-the-vikings-2012-13/exhibition-text/ship-over-land)\n- The Helgö Buddha for the artefact close-up. [Swedish History Museum](https://historiska.se/en/visit/see-real-viking-objects-at-the-swedish-history-museum/)\n- Coppergate excavation and finds. [JORVIK Viking Centre](https://www.jorvikvikingcentre.co.uk/about/jorvik-story/coppergate-dig/)\n- Coastline data for editor-drawn maps. [Natural Earth](https://www.naturalearthdata.com/downloads/50m-physical-vectors/)"
+    "notes": "**Edit** Hold through the last line. Let the water move subtly and give the last beat to waves before the fade.\n\n## Historical and map references\n\n- The two Salme burials, the date and burial objects. [Uppsala University](https://www.uu.se/en/research/the-viking-phenomenon/themes/boat-grave-culture/salme) and [Price et al. in Antiquity](https://doi.org/10.15184/aqy.2016.106)\n- The four brothers. [Margaryan et al. in Nature](https://doi.org/10.1038/s41586-020-2688-8)\n- Boat graves and helmet references for Valsgärde. [Gustavianum, Uppsala University](https://www.uu.se/en/gustavianum/about-the-museum/our-collections/the-historical-collections/nordic-archeology/valsgarde)\n- Lindisfarne and Stamford Bridge. [English Heritage on Lindisfarne](https://www.english-heritage.org.uk/visit/places/lindisfarne-priory/history/viking-raid/) and [the northern battles of 1066](https://www.english-heritage.org.uk/learn/histories/1066-and-the-norman-conquest/northern-battles-1066/)\n- Plank overlap and vessel shapes for the shipbuilding sequence. [The Viking Ship Museum on the hull](https://www.vikingeskibsmuseet.dk/en/professions/education/all-about-the-viking-ship/the-hull-of-the-ship) and [the five Viking ships](https://www.vikingeskibsmuseet.dk/en/visit-the-museum/exhibitions/the-five-viking-ships)\n- Eastern journeys and the Dnieper route. [National Museum of Denmark](https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/expeditions-and-raids/dangerous-journeys-to-eastern-europe-and-russia/) and [The Viking Ship Museum](https://www.vikingeskibsmuseet.dk/en/visit-the-museum/exhibitions/previous-exhibitions/heart-and-soul-50-years-with-the-ships-of-the-vikings-2012-13/exhibition-text/ship-over-land)\n- The Helgö Buddha for the artefact close-up. [Swedish History Museum](https://historiska.se/en/visit/see-real-viking-objects-at-the-swedish-history-museum/)\n- Coppergate excavation and finds. [JORVIK Viking Centre](https://www.jorvikvikingcentre.co.uk/about/jorvik-story/coppergate-dig/)\n- Coastline data for editor-drawn maps. [Natural Earth](https://www.naturalearthdata.com/downloads/50m-physical-vectors/)",
+    "revision": {
+      "date": "2026-11-08",
+      "details": "Empty Salme shore enriched with pebbles, shells, seaweed wrack, reeds, sand ripples and layered wavelets. Open horizon retained.",
+      "visual_review": "Accepted: consistent ink-drawn 2D background treatment, series palette, warm/cool lighting, no readable text. No characters appear; character anatomy checks not applicable.",
+      "output_resolution": [
+        1920,
+        1080
+      ]
+    }
   }
 ]
