@@ -3,541 +3,541 @@
   "unique_images": 90,
   "images": [
     {
-      "file": "images/001_00-00–00-02.png",
+      "file": "images/001_duration 1s_00-00-00-01.png",
       "width": 1920,
       "height": 1080,
       "sha256": "763bcecc218efb5d46db28e45259ca54385c9afce2b34bbec8dabd428d10dabe"
     },
     {
-      "file": "images/002_00-02–00-05.png",
+      "file": "images/002_duration 1s_00-01-00-02.png",
       "width": 1920,
       "height": 1080,
       "sha256": "035ff11a8f5091cc532af1f7c5579a5431cfe702a983de219f2b084e155004b9"
     },
     {
-      "file": "images/003_00-05–00-08.png",
+      "file": "images/003_duration 3s_00-02-00-05.png",
       "width": 1920,
       "height": 1080,
       "sha256": "c0247099705d88cec29680a1b6dc6846b2f706275b100780feb847aa01f3b35d"
     },
     {
-      "file": "images/004_00-08–00-11.png",
+      "file": "images/004_duration 3s_00-05-00-08.png",
       "width": 1920,
       "height": 1080,
       "sha256": "e8b4d1d69555c65225f9db57d10bcc5c29c3deb564e22fe9ac1eab9cca3f63ba"
     },
     {
-      "file": "images/005_00-11–00-14.png",
+      "file": "images/005_duration 4s_00-08-00-12.png",
       "width": 1920,
       "height": 1080,
       "sha256": "f265bef32f1b7bf01e1ad5324c57a7661b84ec4e850d0bec4aa58b72b3228ec5"
     },
     {
-      "file": "images/006_00-14–00-17.png",
+      "file": "images/006_duration 5s_00-12-00-17.png",
       "width": 1920,
       "height": 1080,
       "sha256": "ee7be176a9677b34a85931aa86445a4d2c4827e0d105857123deaf3571e66f0a"
     },
     {
-      "file": "images/007_00-17–00-20.png",
+      "file": "images/007_duration 1s_00-17-00-18.png",
       "width": 1920,
       "height": 1080,
       "sha256": "1ec55e1b35e7d23ca7f6e2faea82c5762fb21ce86f2da5d9801181c99c72064f"
     },
     {
-      "file": "images/008_00-20–00-24.png",
+      "file": "images/008_duration 6s_00-18-00-24.png",
       "width": 1920,
       "height": 1080,
       "sha256": "ba04060b342e45f8821d550dd6e18d5c0fafc621d585c5bf61f31050bc74744a"
     },
     {
-      "file": "images/009_00-24–00-29.png",
+      "file": "images/009_duration 5s_00-24-00-29.png",
       "width": 1920,
       "height": 1080,
       "sha256": "9fb57343994034297daff0c3a52a8ca00104449c6bd5b8f32d7ce53e68a9a56e"
     },
     {
-      "file": "images/010_00-29–00-34.png",
+      "file": "images/010_duration 3s_00-29-00-32.png",
       "width": 1920,
       "height": 1080,
       "sha256": "2170831c941dd622303c6db5907d3ede1cb10ca73de0f7f1905130a87dea5d73"
     },
     {
-      "file": "images/011_00-34–00-40.png",
+      "file": "images/011_duration 5s_00-32-00-37.png",
       "width": 1920,
       "height": 1080,
       "sha256": "8f9eb5a0d66f03ab9fc46c0f7c18cf30ac368cf2029d5302162a1104341947e8"
     },
     {
-      "file": "images/012_00-40–00-47.png",
+      "file": "images/012_duration 8s_00-37-00-45.png",
       "width": 1920,
       "height": 1080,
       "sha256": "92cce2695af681aae972d19d649fa35f4e4265a9232f2351c49aa8b57e5d43af"
     },
     {
-      "file": "images/013_00-47–00-53.png",
+      "file": "images/013_duration 7s_00-45-00-52.png",
       "width": 1920,
       "height": 1080,
       "sha256": "614bf9aa1d713fdfe872ea4551cb15719663ad4e41728ad07efcbe46c8f91f90"
     },
     {
-      "file": "images/014_00-53–01-00.png",
+      "file": "images/014_duration 7s_00-52-00-59.png",
       "width": 1920,
       "height": 1080,
       "sha256": "6db02691027093b1f0b94d7192eb4da8fc8c12be7638aee491e4ca81119b25d9"
     },
     {
-      "file": "images/015_01-00–01-06.png",
+      "file": "images/015_duration 6s_00-59-01-05.png",
       "width": 1920,
       "height": 1080,
       "sha256": "a5f23170c4cdd63e463dc3ecae59137ad1dec2677fa654991afec6fe450860c2"
     },
     {
-      "file": "images/016_01-06–01-13.png",
+      "file": "images/016_duration 7s_01-05-01-12.png",
       "width": 1920,
       "height": 1080,
       "sha256": "af3340b562fc95c3b22e498f74b4c86b8dac38fdc681f5f33a0c6592d74b4f1f"
     },
     {
-      "file": "images/017_01-13–01-21.png",
+      "file": "images/017_duration 9s_01-12-01-21.png",
       "width": 1920,
       "height": 1080,
       "sha256": "5d74cf93b9cf5fddae23c8c963556703593942f48fa5ccc1626de081812a3812"
     },
     {
-      "file": "images/018_01-21–01-28.png",
+      "file": "images/018_duration 5s_01-21-01-26.png",
       "width": 1920,
       "height": 1080,
       "sha256": "1cff449b58dd2b544ed15a91f4c9f864f94c26ece725720a3b9b448b16b7f53c"
     },
     {
-      "file": "images/019_01-28–01-34.png",
+      "file": "images/019_duration 7s_01-26-01-33.png",
       "width": 1920,
       "height": 1080,
       "sha256": "de1642ba977a2e0c818d2293ca103fdee8bc30fad61751fd5b5c7cc4e7b44ab9"
     },
     {
-      "file": "images/020_01-34–01-38.png",
+      "file": "images/020_duration 3s_01-33-01-36.png",
       "width": 1920,
       "height": 1080,
       "sha256": "8cb2a3246abc6e257d5cbf00d5b9567ed83925d8928646dc34d1188ea7ce62d3"
     },
     {
-      "file": "images/021_01-38–01-42.png",
+      "file": "images/021_duration 3s_01-36-01-39.png",
       "width": 1920,
       "height": 1080,
       "sha256": "d7ab7649db690813eadde2bf06c482f0df239227c3b69b765fbe429090dab5c6"
     },
     {
-      "file": "images/022_01-42–01-45.png",
+      "file": "images/022_duration 3s_01-39-01-42.png",
       "width": 1920,
       "height": 1080,
       "sha256": "df1caae69fa3b92cf4db14ecf70b7183843306efea74aa913a6f91ac75fcdae4"
     },
     {
-      "file": "images/023_01-45–01-49.png",
+      "file": "images/023_duration 6s_01-42-01-48.png",
       "width": 1920,
       "height": 1080,
       "sha256": "33b4c79d1cc4eb437618f3595afb87c341c68ad7044bbfae381b733e41c79310"
     },
     {
-      "file": "images/024_01-49–01-55.png",
+      "file": "images/024_duration 7s_01-48-01-55.png",
       "width": 1920,
       "height": 1080,
       "sha256": "72210a91ab98feda60d41957d7e0b7a8596836f1ecd88a7fad1a479229314aab"
     },
     {
-      "file": "images/025_01-55–02-06.png",
+      "file": "images/025_duration 12s_01-55-02-07.png",
       "width": 1920,
       "height": 1080,
       "sha256": "6763b16952a6cfb41f5bf477deb0d46d21391b4fe779cf8e6567d8241039b40a"
     },
     {
-      "file": "images/026_02-06–02-14.png",
+      "file": "images/026_duration 9s_02-07-02-16.png",
       "width": 1920,
       "height": 1080,
       "sha256": "df008324e4be6e1f84dadfbbd30b99013e3cb2e951d98d73b27bb2a54f08c5b0"
     },
     {
-      "file": "images/027_02-14–02-23.png",
+      "file": "images/027_duration 10s_02-16-02-26.png",
       "width": 1920,
       "height": 1080,
       "sha256": "ee275fff5dbb529ade8293d6064fa4506035ffc7c7899ea568e24570a483a1a8"
     },
     {
-      "file": "images/028_02-23–02-30.png",
+      "file": "images/028_duration 7s_02-26-02-33.png",
       "width": 1920,
       "height": 1080,
       "sha256": "a5d958f1f0ca9b18c2586ed57f5b4d74375f7af5f978116cd2614f5efa5ecd68"
     },
     {
-      "file": "images/029_02-30–02-36.png",
+      "file": "images/029_duration 5s_02-33-02-38.png",
       "width": 1920,
       "height": 1080,
       "sha256": "eb71cd3d0b7d70d22d1aa6bc77e7da244691346b209f63168ababffda25f0c6c"
     },
     {
-      "file": "images/030_02-36–02-43.png",
+      "file": "images/030_duration 7s_02-38-02-45.png",
       "width": 1920,
       "height": 1080,
       "sha256": "dd6a600c7ac2eb3db2fd0c97bfe366ee60075111b9179fa76c3b1e8a82096477"
     },
     {
-      "file": "images/031_02-43–02-49.png",
+      "file": "images/031_duration 7s_02-45-02-52.png",
       "width": 1920,
       "height": 1080,
       "sha256": "0c528f20aae71e2143c6fdd07418ea64ead8ee6cce2fffe6f231fe9b5a74d082"
     },
     {
-      "file": "images/032_02-49–02-53.png",
+      "file": "images/032_duration 6s_02-52-02-58.png",
       "width": 1920,
       "height": 1080,
       "sha256": "0c82caff055b2eb17a0e5f6d29da308f52e18de1cecf3c8fec5477781ca0cda2"
     },
     {
-      "file": "images/033_02-53–02-57.png",
+      "file": "images/033_duration 2s_02-58-03-00.png",
       "width": 1920,
       "height": 1080,
       "sha256": "16fb80be072f7abd3dded63ca47a21ab77a0347d2e1afef2154e417fb01deaf1"
     },
     {
-      "file": "images/034_02-57–03-02.png",
+      "file": "images/034_duration 7s_03-00-03-07.png",
       "width": 1920,
       "height": 1080,
       "sha256": "9919f39ac6e762d3e27e68b0d0498533216d5129d8f6767764e4c8d2632973dd"
     },
     {
-      "file": "images/035_03-02–03-07.png",
+      "file": "images/035_duration 5s_03-07-03-12.png",
       "width": 1920,
       "height": 1080,
       "sha256": "7c93b58261ef36b8edb4466238aa1c2d66bec83549cc6b6099aefc32298ed6d0"
     },
     {
-      "file": "images/036_03-07–03-13.png",
+      "file": "images/036_duration 6s_03-12-03-18.png",
       "width": 1920,
       "height": 1080,
       "sha256": "f0da9b25366a8a039576a2e0b6c0e2df2d91b5edc0a3ad9bcc7384bbd62774ec"
     },
     {
-      "file": "images/037_03-13–03-17.png",
+      "file": "images/037_duration 4s_03-18-03-22.png",
       "width": 1920,
       "height": 1080,
       "sha256": "dc60855093a577e2b81f6e069a788c948abdf6f80fe94b2b964552b69e571753"
     },
     {
-      "file": "images/038_03-17–03-21.png",
+      "file": "images/038_duration 4s_03-22-03-26.png",
       "width": 1920,
       "height": 1080,
       "sha256": "3be5a3c019da32edde693acc5177b891f37578fad9c1ffd0e921eec6185f0050"
     },
     {
-      "file": "images/039_03-21–03-30.png",
+      "file": "images/039_duration 8s_03-26-03-34.png",
       "width": 1920,
       "height": 1080,
       "sha256": "073fb9e442a95c06291bc4256d232a2e5c74b7665a3872ba698b624b700eeb19"
     },
     {
-      "file": "images/040_03-30–03-40.png",
+      "file": "images/040_duration 11s_03-34-03-45.png",
       "width": 1920,
       "height": 1080,
       "sha256": "56dd80048b414bdc3be4fd5a7cfad09aef9f7dcedaab37c5eba0d5cc685b8190"
     },
     {
-      "file": "images/041_03-40–03-46.png",
+      "file": "images/041_duration 4s_03-45-03-49.png",
       "width": 1920,
       "height": 1080,
       "sha256": "1e278fa46adff4e1c013da57e50c2e598cb2068093a576f66593fb8db5a92798"
     },
     {
-      "file": "images/042_03-46–03-51.png",
+      "file": "images/042_duration 6s_03-49-03-55.png",
       "width": 1920,
       "height": 1080,
       "sha256": "fc39cc4fea2a4086777e12b8ea6962ffc4b36b476eaae4599f5c6ce74295eae1"
     },
     {
-      "file": "images/043_03-51–03-56.png",
+      "file": "images/043_duration 5s_03-55-04-00.png",
       "width": 1920,
       "height": 1080,
       "sha256": "fe3b6feda622573e363dcd367c2ba49d3b5339be641f2efd23cd8cbd077d989d"
     },
     {
-      "file": "images/044_03-56–04-00.png",
+      "file": "images/044_duration 5s_04-00-04-05.png",
       "width": 1920,
       "height": 1080,
       "sha256": "66d35448477c4adcf32c159b5881c330c11e5c5162685633bc7de51f7d164819"
     },
     {
-      "file": "images/045_04-00–04-06.png",
+      "file": "images/045_duration 4s_04-05-04-09.png",
       "width": 1920,
       "height": 1080,
       "sha256": "ae02c60247bc2a32adfe0b790c21d5c2355d5c24630286c4aca72fab4cd2af59"
     },
     {
-      "file": "images/046_04-06–04-13.png",
+      "file": "images/046_duration 10s_04-09-04-19.png",
       "width": 1920,
       "height": 1080,
       "sha256": "ef0a861093abfbc60eb592876e4e639a360b6e518358e13cba64538037592806"
     },
     {
-      "file": "images/047_04-13–04-20.png",
+      "file": "images/047_duration 7s_04-19-04-26.png",
       "width": 1920,
       "height": 1080,
       "sha256": "98402e64cf9dc36a831bc2f06a6fff2f22a541044fc3bafdbbbc44c72a824340"
     },
     {
-      "file": "images/048_04-20–04-28.png",
+      "file": "images/048_duration 9s_04-26-04-35.png",
       "width": 1920,
       "height": 1080,
       "sha256": "8a50e1ed42a08de333c805f7f97a8d4f7a64215f8376b18e8624e7d6ba836892"
     },
     {
-      "file": "images/049_04-28–04-36.png",
+      "file": "images/049_duration 6s_04-35-04-41.png",
       "width": 1920,
       "height": 1080,
       "sha256": "175d230a9b8f5bd962e1859ec415f68dfc2af47b4dbd651bc93fe84ae3f90eed"
     },
     {
-      "file": "images/050_04-36–04-42.png",
+      "file": "images/050_duration 7s_04-41-04-48.png",
       "width": 1920,
       "height": 1080,
       "sha256": "9751575d6066fea35a69e580bd3664767fcb0b17017d81b9d0276cc2271c4097"
     },
     {
-      "file": "images/051_04-42–04-49.png",
+      "file": "images/051_duration 6s_04-48-04-54.png",
       "width": 1920,
       "height": 1080,
       "sha256": "0e1f00143c7ac23f16c9c26c3f49781415713d208e082a99dde3f2b4707a0645"
     },
     {
-      "file": "images/052_04-49–04-56.png",
+      "file": "images/052_duration 7s_04-54-05-01.png",
       "width": 1920,
       "height": 1080,
       "sha256": "962af38a28d6093d7d6b83b7d0263bc18d9f12faf66278d0e8c8f5a8ba5c4c0e"
     },
     {
-      "file": "images/053_04-56–05-03.png",
+      "file": "images/053_duration 6s_05-01-05-07.png",
       "width": 1920,
       "height": 1080,
       "sha256": "fb15b48c7da1cefd0c05a860aaf96b455f3b2eb0fd84ede31367057a4c90e6ac"
     },
     {
-      "file": "images/054_05-03–05-10.png",
+      "file": "images/054_duration 7s_05-07-05-14.png",
       "width": 1920,
       "height": 1080,
       "sha256": "eab093ca632687220eb5d7b52b6c6c883987fb338908664000ec4aac2a6dfee3"
     },
     {
-      "file": "images/055_05-10–05-15.png",
+      "file": "images/055_duration 4s_05-14-05-18.png",
       "width": 1920,
       "height": 1080,
       "sha256": "79be30342d069d69b00b7d3c556fd6e63a0c3ecd96406f34b9570d080fdedb53"
     },
     {
-      "file": "images/056_05-15–05-21.png",
+      "file": "images/056_duration 10s_05-18-05-28.png",
       "width": 1920,
       "height": 1080,
       "sha256": "badd67ea6c8b3231c6c55ba701e74fc960ea0d8e55d5f68e3c2c4fd1924a10f1"
     },
     {
-      "file": "images/057_05-21–05-26.png",
+      "file": "images/057_duration 6s_05-28-05-34.png",
       "width": 1920,
       "height": 1080,
       "sha256": "0a513d93dd92fead0884feb901e426c241fd8677f90f0ddd381e7031133623f1"
     },
     {
-      "file": "images/058_05-26–05-32.png",
+      "file": "images/058_duration 5s_05-34-05-39.png",
       "width": 1920,
       "height": 1080,
       "sha256": "7863e1aaaa97864875e05edac78fd77e5c3212f0167bfdba48b8868536714797"
     },
     {
-      "file": "images/059_05-32–05-36.png",
+      "file": "images/059_duration 1s_05-39-05-40.png",
       "width": 1920,
       "height": 1080,
       "sha256": "da281009a8102ad62c5aaa56c68e2448acee659b81c553b6d92c15ee3212ec3b"
     },
     {
-      "file": "images/060_05-36–05-41.png",
+      "file": "images/060_duration 6s_05-40-05-46.png",
       "width": 1920,
       "height": 1080,
       "sha256": "f3731079eb6a0cfe1a1eb5ed364306b27147a22ac66b7c80432802ccdbb431aa"
     },
     {
-      "file": "images/061_05-41–05-47.png",
+      "file": "images/061_duration 6s_05-46-05-52.png",
       "width": 1920,
       "height": 1080,
       "sha256": "3a65a46709f5e58502723b3becf27f31dfb28560b863b5f9cedb50161dabca8b"
     },
     {
-      "file": "images/062_05-47–05-54.png",
+      "file": "images/062_duration 8s_05-52-06-00.png",
       "width": 1920,
       "height": 1080,
       "sha256": "a8c6273697cbf704d7625067029fd7cc41f3636175bf79639ba68f5ce93edf6b"
     },
     {
-      "file": "images/063_05-54–06-01.png",
+      "file": "images/063_duration 6s_06-00-06-06.png",
       "width": 1920,
       "height": 1080,
       "sha256": "d375a337e40f2ddd969055601670e0e682ed0c0c3d2eaf3359bd9b416cbc2d2a"
     },
     {
-      "file": "images/064_06-01–06-07.png",
+      "file": "images/064_duration 7s_06-06-06-13.png",
       "width": 1920,
       "height": 1080,
       "sha256": "d1ab4976c1f46f569d8dae5a8e97a9f9b7fa901aa110c1e709ab539f5a2ec851"
     },
     {
-      "file": "images/065_06-07–06-13.png",
+      "file": "images/065_duration 7s_06-13-06-20.png",
       "width": 1920,
       "height": 1080,
       "sha256": "5aa13469253ded9d08d66cbc2078a91ec5781136231eb3d2ecbfb251b9017adf"
     },
     {
-      "file": "images/066_06-13–06-21.png",
+      "file": "images/066_duration 8s_06-20-06-28.png",
       "width": 1920,
       "height": 1080,
       "sha256": "ac212eff93adc6014ef6f52b4fd859112263caf84ab73a2b667b7698abe0dd18"
     },
     {
-      "file": "images/067_06-21–06-28.png",
+      "file": "images/067_duration 6s_06-28-06-34.png",
       "width": 1920,
       "height": 1080,
       "sha256": "617be7e48045bbb78c258cfbe1dc80db68c731d208c26dd13e1332ec2c761dd3"
     },
     {
-      "file": "images/068_06-28–06-35.png",
+      "file": "images/068_duration 8s_06-34-06-42.png",
       "width": 1920,
       "height": 1080,
       "sha256": "a002e4e4e9196cf6316dc007a4ea4dfd3ad04dd6f7a8717e1ec4d6029485c8cc"
     },
     {
-      "file": "images/069_06-35–06-41.png",
+      "file": "images/069_duration 8s_06-42-06-50.png",
       "width": 1920,
       "height": 1080,
       "sha256": "59522831c042da78fc7126fc2455505d1c0af38252c8391e1506e5a91ed7e837"
     },
     {
-      "file": "images/070_06-41–06-47.png",
+      "file": "images/070_duration 5s_06-50-06-55.png",
       "width": 1920,
       "height": 1080,
       "sha256": "fd7da6b91e06313368832d9ab249e7bac33e9e9955a5f0bbe9d42263f16a37c8"
     },
     {
-      "file": "images/071_06-47–06-53.png",
+      "file": "images/071_duration 6s_06-55-07-01.png",
       "width": 1920,
       "height": 1080,
       "sha256": "6b2bc15b5c707970de145d75fa2f2375933db71700c8986250c4d5c44f186e1e"
     },
     {
-      "file": "images/072_06-53–07-00.png",
+      "file": "images/072_duration 9s_07-01-07-10.png",
       "width": 1920,
       "height": 1080,
       "sha256": "35568f2fe2db624f4aa983529a7743d4b29348daa1ff1615707ac78f2a838f64"
     },
     {
-      "file": "images/073_07-00–07-08.png",
+      "file": "images/073_duration 7s_07-10-07-17.png",
       "width": 1920,
       "height": 1080,
       "sha256": "a3c7ee922d9f2059c471ca5e4daf13e0bef319ab1f3549e150c75243ff17135c"
     },
     {
-      "file": "images/074_07-08–07-15.png",
+      "file": "images/074_duration 5s_07-17-07-22.png",
       "width": 1920,
       "height": 1080,
       "sha256": "860805f8ade7de4c3382068fff76cc6204e37e4a9518beb89499194e38a710bc"
     },
     {
-      "file": "images/075_07-15–07-22.png",
+      "file": "images/075_duration 7s_07-22-07-29.png",
       "width": 1920,
       "height": 1080,
       "sha256": "f3446d685c62e2028e3047ee458434001930c4cfd6b7607877dd4687270b0592"
     },
     {
-      "file": "images/076_07-22–07-27.png",
+      "file": "images/076_duration 7s_07-29-07-36.png",
       "width": 1920,
       "height": 1080,
       "sha256": "695160e8fdc679226ffd6ff2601d3d35b748662b28983a942a062a5950a4237d"
     },
     {
-      "file": "images/077_07-27–07-32.png",
+      "file": "images/077_duration 5s_07-36-07-41.png",
       "width": 1920,
       "height": 1080,
       "sha256": "cee70c2424ec8c7657b6c68d5df85f5c5cbc2ec3aabe285303df9d4d00d5e73b"
     },
     {
-      "file": "images/078_07-32–07-38.png",
+      "file": "images/078_duration 9s_07-41-07-50.png",
       "width": 1920,
       "height": 1080,
       "sha256": "80e6a6ede82a906fd6c5b7330d6ede1ac923350f3f8b575f09bb3f0585609004"
     },
     {
-      "file": "images/079_07-38–07-44.png",
+      "file": "images/079_duration 4s_07-50-07-54.png",
       "width": 1920,
       "height": 1080,
       "sha256": "11f7104479334d25b029a3de297b50fe116dc954a581620be33ff2e366f56c86"
     },
     {
-      "file": "images/080_07-44–07-49.png",
+      "file": "images/080_duration 4s_07-54-07-58.png",
       "width": 1920,
       "height": 1080,
       "sha256": "daafb6667dd0f92f47eac243238390950c25e670bf81bab517dba16b0a8980ff"
     },
     {
-      "file": "images/081_07-49–07-55.png",
+      "file": "images/081_duration 5s_07-58-08-03.png",
       "width": 1920,
       "height": 1080,
       "sha256": "1d4d21e7c0078cfff3249df919c0b5b275f9bbfb8c8d44f70a212207f3266b3d"
     },
     {
-      "file": "images/082_07-55–08-00.png",
+      "file": "images/082_duration 9s_08-03-08-12.png",
       "width": 1920,
       "height": 1080,
       "sha256": "7538be96cd79eb8fe76af58e08ad6f2e0e44d583db827751d0e4a2626b4a3b29"
     },
     {
-      "file": "images/083_08-00–08-07.png",
+      "file": "images/083_duration 8s_08-12-08-20.png",
       "width": 1920,
       "height": 1080,
       "sha256": "ac18848cb624253bfb0c7855abefab64c0d844fc293a1df545e0396d37972077"
     },
     {
-      "file": "images/084_08-07–08-14.png",
+      "file": "images/084_duration 7s_08-20-08-27.png",
       "width": 1920,
       "height": 1080,
       "sha256": "4e73478694b74568c1ad85bd652ce3337b987c260c94bb299dee9d30382a909c"
     },
     {
-      "file": "images/085_08-14–08-20.png",
+      "file": "images/085_duration 5s_08-27-08-32.png",
       "width": 1920,
       "height": 1080,
       "sha256": "dfbc5494cc676ab8fb3e96e815f1ad804d698bb9770b847de0399d286575342f"
     },
     {
-      "file": "images/086_08-20–08-27.png",
+      "file": "images/086_duration 7s_08-32-08-39.png",
       "width": 1920,
       "height": 1080,
       "sha256": "8404549f8c4d659318a11ea5325650842a44aa6532a4a2f9ee8db6491c9206bb"
     },
     {
-      "file": "images/087_08-27–08-34.png",
+      "file": "images/087_duration 10s_08-39-08-49.png",
       "width": 1920,
       "height": 1080,
       "sha256": "b375c4ed6508644d4c55959dadb2d3d36cf55320b77b20cf8b2349f945acc492"
     },
     {
-      "file": "images/088_08-34–08-43.png",
+      "file": "images/088_duration 9s_08-49-08-58.png",
       "width": 1920,
       "height": 1080,
       "sha256": "2921fe4465acaa59ff01efcb3e580b406a632045dd19405a65e108a8ccb91a7e"
     },
     {
-      "file": "images/089_08-43–08-52.png",
+      "file": "images/089_duration 10s_08-58-09-08.png",
       "width": 1920,
       "height": 1080,
       "sha256": "717e527ad71826c0ed6cc28c41d8bc2aa2688e7b0296590149979d46f4a6261a"
     },
     {
-      "file": "images/090_08-52–09-00.png",
+      "file": "images/090_duration 5.404s_09-08-09-13.404.png",
       "width": 1920,
       "height": 1080,
       "sha256": "f2e6601f998d98495057eff1bf700bd25bcbb21b1c4eefd73a4daed4478a4c60"

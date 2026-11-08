@@ -1,6 +1,6 @@
 # The Viking Ships Beneath Salme
 
-90 original landscape PNG exports for the Salme history video, numbered `001_00-00–00-02.png` through `090_08-52–09-00.png`. Every image is **1920 × 1080 pixels (16:9)**. Nine images were revised on 2026-11-08; the other 81 original exports are unchanged.
+90 original landscape PNG exports for the Salme history video, numbered `001_duration 1s_00-00-00-01.png` through `090_duration 5.404s_09-08-09-13.404.png`. Every image is **1920 × 1080 pixels (16:9)**. Nine images were revised on 2026-11-08; the other 81 original exports are unchanged.
 
 - [Video preview player](preview/) — see its README to watch locally or open HyperFrames Studio.
 - [Images](images/)
@@ -17,6 +17,8 @@ The imagery uses the cartoon short skill and the reference-based design guide. C
 
 See [delivery notes](README-delivery.md) for export details.
 
-## Image filenames
+## Image filenames and corrected audio timing
 
-The 90 scene images use `number_start–end` names copied from the image prompt brief. For example, prompt 001 is `00:00–00:02`, so its filename is `001_00-00–00-02.png`. Colons are replaced with hyphens for Windows compatibility. See [image-durations.csv](image-durations.csv) for the exact original time ranges, filenames, and durations.
+The scene filenames now use `number_duration Xs_start-end`, for example `005_duration 4s_00-08-00-12.png`. The time ranges follow the supplied narration transcript rather than the original nine-minute edit plan. Colons are replaced with hyphens for Windows compatibility.
+
+See [image-durations.csv](image-durations.csv), [the timing review](TIMING_REVIEW.md), and [full image/transcript matches](transcript-image-timing.json). The original audio runs to 09:13.404; the first three images use documented opening inserts. The previous nine-minute preview and rendered MP4 have not been retimed by this rename.

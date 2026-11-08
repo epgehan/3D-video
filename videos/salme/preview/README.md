@@ -1,5 +1,7 @@
 # Salme video preview
 
+**Timing version:** This player and MP4 retain the earlier nine-minute fitted-audio edit. Image filenames now describe the original-narration transcript timing; renaming assets does not retime this player. For the new editing schedule, use [the timing review](../TIMING_REVIEW.md) and [image-durations.csv](../image-durations.csv).
+
 A portable browser player and editable HyperFrames project for the nine-minute Salme documentary. All 90 image boundaries match the supplied `Image_Prompts.md`; the revised PNGs are read from the existing `../images/` folder.
 
 ## Watch locally

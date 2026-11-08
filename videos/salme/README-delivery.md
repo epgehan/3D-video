@@ -1,6 +1,6 @@
 # The Viking Ships Beneath Salme
 
-90 numbered landscape PNG illustrations, 001_00-00–00-02.png through 090_08-52–09-00.png.
+90 numbered landscape PNG illustrations, 001_duration 1s_00-00-00-01.png through 090_duration 5.404s_09-08-09-13.404.png.
 
 Every exported image is exactly 1920 × 1080 pixels (16:9). Native generated images were 1672 × 941 and were resampled with Lanczos to the requested size. Open index.html locally to browse, and see REVIEW.md for per-image visual checks, corrections and assembly notes. shot_manifest.json retains the 90 source prompts and edit notes.
 
