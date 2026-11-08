@@ -1,0 +1,11 @@
+{
+  "canvas": [
+    800,
+    800
+  ],
+  "text": "CS",
+  "palette": "navy ivory gold",
+  "circular_crop_safe": true,
+  "max_wordmark_radius_px": 258.39,
+  "crop_radius_px": 400
+}
