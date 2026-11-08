@@ -1,6 +1,6 @@
 # The Viking Ships Beneath Salme
 
-90 original landscape PNG exports for the Salme history video, numbered `Salme_001.png` through `Salme_090.png`. Every image is **1920 × 1080 pixels (16:9)**. Nine images were revised on 2026-11-08; the other 81 original exports are unchanged.
+90 original landscape PNG exports for the Salme history video, numbered `001_2s.png` through `090_8s.png`. Every image is **1920 × 1080 pixels (16:9)**. Nine images were revised on 2026-11-08; the other 81 original exports are unchanged.
 
 - [Video preview player](preview/) — see its README to watch locally or open HyperFrames Studio.
 - [Images](images/)
@@ -16,3 +16,7 @@
 The imagery uses the cartoon short skill and the reference-based design guide. Captions, dates, counts and hypothetical-scene labels are left for video assembly. At the user’s request, maps and schematic route marks are now included in 026, 052 and 069. The 082–083 shoe transition requires crop alignment. Historical images are illustrative reconstructions; the archaeological schematics are not measured plans.
 
 See [delivery notes](README-delivery.md) for export details.
+
+## Image filenames
+
+The 90 scene images use `number_duration` names, with duration in seconds: `001_2s.png`, `002_3s.png`, and so on. Durations match the exact video schedule. See [image-durations.csv](image-durations.csv) for all filenames, durations, and start/end times.
