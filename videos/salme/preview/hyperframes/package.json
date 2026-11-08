@@ -1,0 +1,15 @@
+{
+  "name": "salme-video",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npx --yes hyperframes@0.9.21 preview",
+    "check": "npx --yes hyperframes@0.9.21 check",
+    "render": "npx --yes hyperframes@0.9.21 render",
+    "publish": "npx --yes hyperframes@0.9.21 publish",
+    "prepare": "node prepare.mjs",
+    "predev": "node prepare.mjs",
+    "precheck": "node prepare.mjs",
+    "prerender": "node prepare.mjs"
+  }
+}

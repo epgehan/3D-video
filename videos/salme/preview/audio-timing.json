@@ -1,0 +1,7 @@
+{
+  "source_duration": 553.4040833333333,
+  "output_duration": 540,
+  "source_start_in_video": 2,
+  "pitch_preserving_speed": 1.0305476412166357,
+  "method": "FFmpeg atempo; 2 second lead-in, 1 second final hold; no spoken content removed"
+}

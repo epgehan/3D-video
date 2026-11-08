@@ -2,6 +2,7 @@
 
 90 original landscape PNG exports for the Salme history video, numbered `Salme_001.png` through `Salme_090.png`. Every image is **1920 × 1080 pixels (16:9)**. Nine images were revised on 2026-11-08; the other 81 original exports are unchanged.
 
+- [Video preview player](preview/) — see its README to watch locally or open HyperFrames Studio.
 - [Images](images/)
 - [Nine revised images — ZIP download](Salme_9_Revisions_1920x1080.zip)
 - [Revision details and individual design reviews](REVISIONS.md)
