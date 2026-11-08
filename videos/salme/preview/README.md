@@ -29,8 +29,13 @@ The browser player is static and can be hosted by GitHub Pages or any static HTT
 ## Timing and production notes
 
 - Canvas: 1920 × 1080 (16:9), duration: 09:00, 90 images. Image 083 begins at 08:00.
-- The uploaded 553.404-second narration is sped up approximately 3.055% with pitch preserved, with a two-second opening reveal and end padding. The full speech is retained. `assets/narration-timed.mp3` is a browser-friendly 192 kb/s encoding of that timed audio.
+- The full narration is fitted in sections, with pitch preserved, so all 89 spoken cues land within their assigned image slots. The image starts, ends and durations remain exactly as specified. `assets/narration-timed.mp3` is a browser-friendly 192 kb/s encoding of the fitted audio. See `captions/narration-alignment.json`.
+- Captions are ALL CAPS, bold Arial at the user-confirmed readable reference size (72 px at 1080p), white with the current spoken word yellow, with a black outline. All other editorial titles, dates, counts, hypothesis labels and map labels have been removed. Captions were transcribed locally with Whisper and DTW word timings, then reviewed for historical names. The caption SRT is in `captions/Salme_Captions.srt`.
 - `shot-schedule.json` contains the exact starts/ends and edit notes. `audio-timing.json` describes the timing adjustment. `verification.json` records the source-image audit and prior Studio checks.
-- Sparse dates, counts, hypothesis labels, map overlays and camera motion follow the brief. The Dnieper overlay uses public-domain Natural Earth reference geometry; route connectors are schematic.
-- The reference MP4 could not be inspected because it exceeded the environment's 32 MiB transfer limit. This cut follows the brief's transition notes; individual spoken-word alignment was not independently verified.
+- Camera motion and the image slots follow the brief; outgoing-image backplates are removed so no previous image carries over beyond its allotted duration. The Dnieper overlay uses public-domain Natural Earth reference geometry; route connectors are schematic.
+- The reference MP4 could not be inspected because it exceeded the environment's 32 MiB transfer limit. This cut follows the brief's transition notes; the current caption word timings are mapped through the approved narration fitting.
 - `hyperframes/index.html` is the authoring source. `frame.html` and `player.js` provide the portable playback surface with the same shot schedule and animation timeline; they are not the HyperFrames editing application.
+
+## Download the finished MP4
+
+Use the Download 1080p MP4 button on the hosted preview. The full export is 1920 × 1080 at 24 fps, exactly 09:00. Its download is stored in verified parts to fit GitHub file limits. To reconstruct it locally, run `python download-render.py` in this directory; each part and the complete MP4 are checked with SHA-256. The parts are binary storage pieces, not individually playable videos.

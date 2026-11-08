@@ -1,0 +1,10745 @@
+[
+  {
+    "id": 0,
+    "start": 2.094,
+    "end": 3.361,
+    "words": [
+      {
+        "text": "UNDER",
+        "start": 2.094,
+        "end": 2.529
+      },
+      {
+        "text": "A",
+        "start": 2.583,
+        "end": 3.023
+      },
+      {
+        "text": "VILLAGE",
+        "start": 3.023,
+        "end": 3.371
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "start": 3.371,
+    "end": 4.839,
+    "words": [
+      {
+        "text": "IN",
+        "start": 3.371,
+        "end": 3.718
+      },
+      {
+        "text": "ESTONIA,",
+        "start": 3.718,
+        "end": 4.719
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "start": 5.04,
+    "end": 6.159,
+    "words": [
+      {
+        "text": "ARCHAEOLOGISTS",
+        "start": 5.04,
+        "end": 5.597
+      },
+      {
+        "text": "FOUND",
+        "start": 5.597,
+        "end": 5.883
+      },
+      {
+        "text": "TWO",
+        "start": 5.897,
+        "end": 6.169
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "start": 6.169,
+    "end": 7.431,
+    "words": [
+      {
+        "text": "SHIPS",
+        "start": 6.169,
+        "end": 6.44
+      },
+      {
+        "text": "BURIED",
+        "start": 6.454,
+        "end": 6.711
+      },
+      {
+        "text": "IN",
+        "start": 6.711,
+        "end": 6.897
+      },
+      {
+        "text": "THE",
+        "start": 6.897,
+        "end": 7.069
+      },
+      {
+        "text": "SAND.",
+        "start": 7.069,
+        "end": 7.311
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "start": 7.74,
+    "end": 8.38,
+    "words": [
+      {
+        "text": "INSIDE",
+        "start": 7.74,
+        "end": 8.004
+      },
+      {
+        "text": "THOSE",
+        "start": 8.004,
+        "end": 8.211
+      },
+      {
+        "text": "BOATS",
+        "start": 8.211,
+        "end": 8.39
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "start": 8.39,
+    "end": 9.119,
+    "words": [
+      {
+        "text": "WERE",
+        "start": 8.39,
+        "end": 8.54
+      },
+      {
+        "text": "THE",
+        "start": 8.54,
+        "end": 8.774
+      },
+      {
+        "text": "REMAINS",
+        "start": 8.774,
+        "end": 9.129
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "start": 9.129,
+    "end": 10.713,
+    "words": [
+      {
+        "text": "OF",
+        "start": 9.129,
+        "end": 9.536
+      },
+      {
+        "text": "41",
+        "start": 9.597,
+        "end": 10.003
+      },
+      {
+        "text": "MEN,",
+        "start": 10.186,
+        "end": 10.593
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "start": 11.04,
+    "end": 11.809,
+    "words": [
+      {
+        "text": "SOME",
+        "start": 11.04,
+        "end": 11.297
+      },
+      {
+        "text": "BONES",
+        "start": 11.297,
+        "end": 11.554
+      },
+      {
+        "text": "BORE",
+        "start": 11.569,
+        "end": 11.819
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "start": 11.819,
+    "end": 12.574,
+    "words": [
+      {
+        "text": "DEEP",
+        "start": 11.819,
+        "end": 12.069
+      },
+      {
+        "text": "CUTS.",
+        "start": 12.169,
+        "end": 12.454
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "start": 12.683,
+    "end": 13.316,
+    "words": [
+      {
+        "text": "BESIDE",
+        "start": 12.683,
+        "end": 12.94
+      },
+      {
+        "text": "THE",
+        "start": 12.94,
+        "end": 13.104
+      },
+      {
+        "text": "BODIES",
+        "start": 13.104,
+        "end": 13.326
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "start": 13.326,
+    "end": 14.359,
+    "words": [
+      {
+        "text": "LAY",
+        "start": 13.326,
+        "end": 13.611
+      },
+      {
+        "text": "SWORDS,",
+        "start": 13.654,
+        "end": 13.94
+      },
+      {
+        "text": "SHIELDS,",
+        "start": 14.083,
+        "end": 14.369
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "start": 14.369,
+    "end": 14.959,
+    "words": [
+      {
+        "text": "AND",
+        "start": 14.369,
+        "end": 14.604
+      },
+      {
+        "text": "PIECES",
+        "start": 14.604,
+        "end": 14.804
+      },
+      {
+        "text": "FROM",
+        "start": 14.804,
+        "end": 14.969
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "start": 14.969,
+    "end": 16.237,
+    "words": [
+      {
+        "text": "A",
+        "start": 14.969,
+        "end": 15.097
+      },
+      {
+        "text": "BOARD",
+        "start": 15.097,
+        "end": 15.311
+      },
+      {
+        "text": "GAME,",
+        "start": 15.397,
+        "end": 15.683
+      },
+      {
+        "text": "SMALL",
+        "start": 15.697,
+        "end": 15.926
+      },
+      {
+        "text": "ENOUGH",
+        "start": 15.926,
+        "end": 16.104
+      },
+      {
+        "text": "TO",
+        "start": 16.104,
+        "end": 16.247
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "start": 16.247,
+    "end": 17.131,
+    "words": [
+      {
+        "text": "HOLD",
+        "start": 16.247,
+        "end": 16.361
+      },
+      {
+        "text": "IN",
+        "start": 16.361,
+        "end": 16.511
+      },
+      {
+        "text": "ONE",
+        "start": 16.511,
+        "end": 16.733
+      },
+      {
+        "text": "HAND,",
+        "start": 16.733,
+        "end": 17.011
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "start": 17.297,
+    "end": 18.911,
+    "words": [
+      {
+        "text": "THEN",
+        "start": 17.297,
+        "end": 17.719
+      },
+      {
+        "text": "CAME",
+        "start": 17.719,
+        "end": 18.044
+      },
+      {
+        "text": "THE",
+        "start": 18.044,
+        "end": 18.37
+      },
+      {
+        "text": "DATE.",
+        "start": 18.37,
+        "end": 18.791
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "start": 19.201,
+    "end": 20.179,
+    "words": [
+      {
+        "text": "THESE",
+        "start": 19.201,
+        "end": 19.587
+      },
+      {
+        "text": "MEN",
+        "start": 19.587,
+        "end": 19.876
+      },
+      {
+        "text": "HAD",
+        "start": 19.876,
+        "end": 20.189
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "start": 20.189,
+    "end": 21.601,
+    "words": [
+      {
+        "text": "DIED",
+        "start": 20.189,
+        "end": 20.599
+      },
+      {
+        "text": "DECADES",
+        "start": 20.696,
+        "end": 21.178
+      },
+      {
+        "text": "BEFORE",
+        "start": 21.202,
+        "end": 21.611
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "start": 21.611,
+    "end": 22.801,
+    "words": [
+      {
+        "text": "THE",
+        "start": 21.611,
+        "end": 21.911
+      },
+      {
+        "text": "RAID",
+        "start": 21.911,
+        "end": 22.297
+      },
+      {
+        "text": "OFTEN",
+        "start": 22.297,
+        "end": 22.811
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "start": 22.811,
+    "end": 23.701,
+    "words": [
+      {
+        "text": "USED",
+        "start": 22.811,
+        "end": 23.154
+      },
+      {
+        "text": "TO",
+        "start": 23.154,
+        "end": 23.397
+      },
+      {
+        "text": "MARK",
+        "start": 23.397,
+        "end": 23.711
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "start": 23.711,
+    "end": 24.425,
+    "words": [
+      {
+        "text": "THE",
+        "start": 23.711,
+        "end": 24.04
+      },
+      {
+        "text": "START",
+        "start": 24.04,
+        "end": 24.269
+      },
+      {
+        "text": "OF",
+        "start": 24.269,
+        "end": 24.435
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "start": 24.435,
+    "end": 25.33,
+    "words": [
+      {
+        "text": "THE",
+        "start": 24.435,
+        "end": 24.591
+      },
+      {
+        "text": "VIKING",
+        "start": 24.591,
+        "end": 24.914
+      },
+      {
+        "text": "AGE.",
+        "start": 24.997,
+        "end": 25.34
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "start": 25.34,
+    "end": 26.402,
+    "words": [
+      {
+        "text": "THE",
+        "start": 25.34,
+        "end": 25.684
+      },
+      {
+        "text": "STORY",
+        "start": 25.933,
+        "end": 26.235
+      },
+      {
+        "text": "IN",
+        "start": 26.235,
+        "end": 26.412
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "start": 26.412,
+    "end": 27.401,
+    "words": [
+      {
+        "text": "THE",
+        "start": 26.412,
+        "end": 26.672
+      },
+      {
+        "text": "GROUND",
+        "start": 26.672,
+        "end": 27.036
+      },
+      {
+        "text": "WAS",
+        "start": 27.036,
+        "end": 27.411
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "start": 27.411,
+    "end": 28.191,
+    "words": [
+      {
+        "text": "OLDER",
+        "start": 27.411,
+        "end": 27.733
+      },
+      {
+        "text": "THAN",
+        "start": 27.733,
+        "end": 27.941
+      },
+      {
+        "text": "THE",
+        "start": 27.941,
+        "end": 28.201
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "start": 28.201,
+    "end": 29.044,
+    "words": [
+      {
+        "text": "FAMOUS",
+        "start": 28.201,
+        "end": 28.576
+      },
+      {
+        "text": "STORY",
+        "start": 28.576,
+        "end": 28.877
+      },
+      {
+        "text": "ON",
+        "start": 28.877,
+        "end": 29.054
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "start": 29.054,
+    "end": 29.965,
+    "words": [
+      {
+        "text": "THE",
+        "start": 29.054,
+        "end": 29.325
+      },
+      {
+        "text": "PAGE.",
+        "start": 29.429,
+        "end": 29.845
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "start": 30.011,
+    "end": 31.044,
+    "words": [
+      {
+        "text": "WHAT",
+        "start": 30.011,
+        "end": 30.454
+      },
+      {
+        "text": "HAD",
+        "start": 30.454,
+        "end": 30.754
+      },
+      {
+        "text": "BROUGHT",
+        "start": 30.754,
+        "end": 31.054
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "start": 31.054,
+    "end": 32.201,
+    "words": [
+      {
+        "text": "THEM",
+        "start": 31.054,
+        "end": 31.426
+      },
+      {
+        "text": "ACROSS",
+        "start": 31.426,
+        "end": 31.84
+      },
+      {
+        "text": "THE",
+        "start": 31.84,
+        "end": 32.211
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "start": 32.211,
+    "end": 33.989,
+    "words": [
+      {
+        "text": "BALTIC",
+        "start": 32.211,
+        "end": 32.697
+      },
+      {
+        "text": "SO",
+        "start": 32.697,
+        "end": 33.154
+      },
+      {
+        "text": "EARLY?",
+        "start": 33.297,
+        "end": 33.869
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "start": 34.04,
+    "end": 35.542,
+    "words": [
+      {
+        "text": "ON",
+        "start": 34.04,
+        "end": 34.397
+      },
+      {
+        "text": "THE",
+        "start": 34.397,
+        "end": 34.679
+      },
+      {
+        "text": "SCANDINAVIAN",
+        "start": 34.679,
+        "end": 35.552
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "start": 35.552,
+    "end": 36.391,
+    "words": [
+      {
+        "text": "COAST",
+        "start": 35.552,
+        "end": 35.933
+      },
+      {
+        "text": "IN",
+        "start": 35.933,
+        "end": 36.167
+      },
+      {
+        "text": "THE",
+        "start": 36.167,
+        "end": 36.401
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "start": 36.401,
+    "end": 37.78,
+    "words": [
+      {
+        "text": "8TH",
+        "start": 36.401,
+        "end": 36.794
+      },
+      {
+        "text": "CENTURY,",
+        "start": 36.917,
+        "end": 37.397
+      },
+      {
+        "text": "THE",
+        "start": 37.397,
+        "end": 37.79
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "start": 37.79,
+    "end": 38.665,
+    "words": [
+      {
+        "text": "WATER",
+        "start": 37.79,
+        "end": 38.097
+      },
+      {
+        "text": "WAS",
+        "start": 38.097,
+        "end": 38.405
+      },
+      {
+        "text": "PART",
+        "start": 38.405,
+        "end": 38.675
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "start": 38.675,
+    "end": 40.03,
+    "words": [
+      {
+        "text": "OF",
+        "start": 38.675,
+        "end": 38.909
+      },
+      {
+        "text": "DAILY",
+        "start": 38.909,
+        "end": 39.278
+      },
+      {
+        "text": "LIFE.",
+        "start": 39.474,
+        "end": 39.966
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "start": 40.04,
+    "end": 41.057,
+    "words": [
+      {
+        "text": "A",
+        "start": 40.04,
+        "end": 40.448
+      },
+      {
+        "text": "FAMILY",
+        "start": 40.448,
+        "end": 40.787
+      },
+      {
+        "text": "MIGHT",
+        "start": 40.787,
+        "end": 41.067
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "start": 41.067,
+    "end": 41.873,
+    "words": [
+      {
+        "text": "LIVE",
+        "start": 41.067,
+        "end": 41.288
+      },
+      {
+        "text": "FROM",
+        "start": 41.288,
+        "end": 41.533
+      },
+      {
+        "text": "ITS",
+        "start": 41.533,
+        "end": 41.883
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "start": 41.883,
+    "end": 42.865,
+    "words": [
+      {
+        "text": "FIELDS",
+        "start": 41.883,
+        "end": 42.303
+      },
+      {
+        "text": "AND",
+        "start": 42.303,
+        "end": 42.63
+      },
+      {
+        "text": "STILL",
+        "start": 42.63,
+        "end": 42.875
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "start": 42.875,
+    "end": 43.53,
+    "words": [
+      {
+        "text": "NEED",
+        "start": 42.875,
+        "end": 43.132
+      },
+      {
+        "text": "A",
+        "start": 43.132,
+        "end": 43.318
+      },
+      {
+        "text": "BOAT",
+        "start": 43.318,
+        "end": 43.54
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "start": 43.54,
+    "end": 44.883,
+    "words": [
+      {
+        "text": "TO",
+        "start": 43.54,
+        "end": 43.913
+      },
+      {
+        "text": "FISH,",
+        "start": 43.913,
+        "end": 44.357
+      },
+      {
+        "text": "CARRY",
+        "start": 44.427,
+        "end": 44.893
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "start": 44.893,
+    "end": 45.84,
+    "words": [
+      {
+        "text": "GOODS",
+        "start": 44.893,
+        "end": 45.255
+      },
+      {
+        "text": "OR",
+        "start": 45.255,
+        "end": 45.547
+      },
+      {
+        "text": "REACH",
+        "start": 45.547,
+        "end": 45.85
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "start": 45.85,
+    "end": 46.903,
+    "words": [
+      {
+        "text": "ANOTHER",
+        "start": 45.85,
+        "end": 46.223
+      },
+      {
+        "text": "SETTLEMENT.",
+        "start": 46.317,
+        "end": 46.783
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "start": 47.04,
+    "end": 47.921,
+    "words": [
+      {
+        "text": "A",
+        "start": 47.04,
+        "end": 47.309
+      },
+      {
+        "text": "SHELTERED",
+        "start": 47.309,
+        "end": 47.727
+      },
+      {
+        "text": "STRETCH",
+        "start": 47.727,
+        "end": 47.931
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "start": 47.931,
+    "end": 48.654,
+    "words": [
+      {
+        "text": "OF",
+        "start": 47.931,
+        "end": 48.19
+      },
+      {
+        "text": "WATER",
+        "start": 48.19,
+        "end": 48.46
+      },
+      {
+        "text": "COULD",
+        "start": 48.46,
+        "end": 48.664
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "start": 48.664,
+    "end": 49.721,
+    "words": [
+      {
+        "text": "SERVE",
+        "start": 48.664,
+        "end": 48.849
+      },
+      {
+        "text": "AS",
+        "start": 48.849,
+        "end": 49.081
+      },
+      {
+        "text": "A",
+        "start": 49.081,
+        "end": 49.332
+      },
+      {
+        "text": "ROAD.",
+        "start": 49.332,
+        "end": 49.638
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "start": 49.731,
+    "end": 50.593,
+    "words": [
+      {
+        "text": "A",
+        "start": 49.731,
+        "end": 50.055
+      },
+      {
+        "text": "CROSSING",
+        "start": 50.055,
+        "end": 50.352
+      },
+      {
+        "text": "COULD",
+        "start": 50.352,
+        "end": 50.603
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "start": 50.603,
+    "end": 51.242,
+    "words": [
+      {
+        "text": "SAVE",
+        "start": 50.603,
+        "end": 50.788
+      },
+      {
+        "text": "A",
+        "start": 50.788,
+        "end": 51.011
+      },
+      {
+        "text": "LONG",
+        "start": 51.011,
+        "end": 51.252
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "start": 51.252,
+    "end": 52.356,
+    "words": [
+      {
+        "text": "TRIP",
+        "start": 51.252,
+        "end": 51.493
+      },
+      {
+        "text": "ALONG",
+        "start": 51.493,
+        "end": 51.744
+      },
+      {
+        "text": "THE",
+        "start": 51.744,
+        "end": 52.013
+      },
+      {
+        "text": "SHORE.",
+        "start": 52.013,
+        "end": 52.347
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "start": 52.366,
+    "end": 53.71,
+    "words": [
+      {
+        "text": "ACROSS",
+        "start": 52.366,
+        "end": 52.737
+      },
+      {
+        "text": "THE",
+        "start": 52.904,
+        "end": 53.228
+      },
+      {
+        "text": "BALTIC",
+        "start": 53.228,
+        "end": 53.702
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "start": 53.72,
+    "end": 54.638,
+    "words": [
+      {
+        "text": "BOATS",
+        "start": 53.72,
+        "end": 54.026
+      },
+      {
+        "text": "TOOK",
+        "start": 54.026,
+        "end": 54.314
+      },
+      {
+        "text": "PEOPLE",
+        "start": 54.314,
+        "end": 54.648
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "start": 54.648,
+    "end": 55.659,
+    "words": [
+      {
+        "text": "FARTHER",
+        "start": 54.648,
+        "end": 54.963
+      },
+      {
+        "text": "FROM",
+        "start": 54.963,
+        "end": 55.297
+      },
+      {
+        "text": "HOME",
+        "start": 55.297,
+        "end": 55.669
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "start": 55.669,
+    "end": 56.787,
+    "words": [
+      {
+        "text": "TO",
+        "start": 55.669,
+        "end": 56.169
+      },
+      {
+        "text": "SHORES",
+        "start": 56.169,
+        "end": 56.554
+      },
+      {
+        "text": "WHERE",
+        "start": 56.554,
+        "end": 56.797
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "start": 56.797,
+    "end": 57.859,
+    "words": [
+      {
+        "text": "THEY",
+        "start": 56.797,
+        "end": 57.011
+      },
+      {
+        "text": "COULD",
+        "start": 57.011,
+        "end": 57.411
+      },
+      {
+        "text": "TRADE",
+        "start": 57.411,
+        "end": 57.869
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "start": 57.869,
+    "end": 58.817,
+    "words": [
+      {
+        "text": "AND",
+        "start": 57.869,
+        "end": 58.24
+      },
+      {
+        "text": "MEET",
+        "start": 58.24,
+        "end": 58.697
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "start": 58.983,
+    "end": 59.674,
+    "words": [
+      {
+        "text": "STRANGERS.",
+        "start": 58.983,
+        "end": 59.554
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "start": 60.04,
+    "end": 60.982,
+    "words": [
+      {
+        "text": "SHIPS",
+        "start": 60.04,
+        "end": 60.445
+      },
+      {
+        "text": "ALSO",
+        "start": 60.506,
+        "end": 60.81
+      },
+      {
+        "text": "HAD",
+        "start": 60.81,
+        "end": 60.992
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "start": 60.992,
+    "end": 61.61,
+    "words": [
+      {
+        "text": "A",
+        "start": 60.992,
+        "end": 61.205
+      },
+      {
+        "text": "PLACE",
+        "start": 61.205,
+        "end": 61.428
+      },
+      {
+        "text": "IN",
+        "start": 61.428,
+        "end": 61.62
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "start": 61.62,
+    "end": 62.654,
+    "words": [
+      {
+        "text": "HOW",
+        "start": 61.62,
+        "end": 61.884
+      },
+      {
+        "text": "SOME",
+        "start": 61.884,
+        "end": 62.248
+      },
+      {
+        "text": "COMMUNITIES",
+        "start": 62.269,
+        "end": 62.664
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "start": 62.664,
+    "end": 63.819,
+    "words": [
+      {
+        "text": "BURIED",
+        "start": 62.664,
+        "end": 63.039
+      },
+      {
+        "text": "THEIR",
+        "start": 63.039,
+        "end": 63.393
+      },
+      {
+        "text": "DEAD.",
+        "start": 63.393,
+        "end": 63.768
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "start": 63.829,
+    "end": 64.386,
+    "words": [
+      {
+        "text": "LOOK",
+        "start": 63.829,
+        "end": 64.102
+      },
+      {
+        "text": "AT",
+        "start": 64.102,
+        "end": 64.224
+      },
+      {
+        "text": "WHAT",
+        "start": 64.224,
+        "end": 64.396
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "start": 64.396,
+    "end": 65.549,
+    "words": [
+      {
+        "text": "WAS",
+        "start": 64.396,
+        "end": 64.629
+      },
+      {
+        "text": "LAID",
+        "start": 64.629,
+        "end": 64.943
+      },
+      {
+        "text": "INSIDE.",
+        "start": 65.024,
+        "end": 65.429
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "start": 65.754,
+    "end": 67.01,
+    "words": [
+      {
+        "text": "AT",
+        "start": 65.754,
+        "end": 66.118
+      },
+      {
+        "text": "VALSGÄRDE,",
+        "start": 66.118,
+        "end": 66.807
+      },
+      {
+        "text": "IN",
+        "start": 66.807,
+        "end": 67.02
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "start": 67.02,
+    "end": 68.204,
+    "words": [
+      {
+        "text": "WHAT",
+        "start": 67.02,
+        "end": 67.172
+      },
+      {
+        "text": "IS",
+        "start": 67.172,
+        "end": 67.374
+      },
+      {
+        "text": "NOW",
+        "start": 67.374,
+        "end": 67.688
+      },
+      {
+        "text": "SWEDEN,",
+        "start": 67.688,
+        "end": 68.084
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "start": 68.387,
+    "end": 70.016,
+    "words": [
+      {
+        "text": "ARCHAEOLOGISTS",
+        "start": 68.387,
+        "end": 69.198
+      },
+      {
+        "text": "FOUND",
+        "start": 69.218,
+        "end": 69.583
+      },
+      {
+        "text": "BOAT",
+        "start": 69.583,
+        "end": 70.026
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "start": 70.026,
+    "end": 71.473,
+    "words": [
+      {
+        "text": "GRAVES",
+        "start": 70.026,
+        "end": 70.511
+      },
+      {
+        "text": "WITH",
+        "start": 70.511,
+        "end": 70.997
+      },
+      {
+        "text": "FINELY",
+        "start": 70.997,
+        "end": 71.483
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "start": 71.483,
+    "end": 72.846,
+    "words": [
+      {
+        "text": "WORKED",
+        "start": 71.483,
+        "end": 72.04
+      },
+      {
+        "text": "HELMETS.",
+        "start": 72.154,
+        "end": 72.726
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "start": 73.04,
+    "end": 73.877,
+    "words": [
+      {
+        "text": "GIVING",
+        "start": 73.04,
+        "end": 73.389
+      },
+      {
+        "text": "UP",
+        "start": 73.389,
+        "end": 73.668
+      },
+      {
+        "text": "A",
+        "start": 73.668,
+        "end": 73.887
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "start": 73.887,
+    "end": 75.013,
+    "words": [
+      {
+        "text": "VESSEL",
+        "start": 73.887,
+        "end": 74.086
+      },
+      {
+        "text": "AND",
+        "start": 74.086,
+        "end": 74.295
+      },
+      {
+        "text": "PUTTING",
+        "start": 74.295,
+        "end": 74.505
+      },
+      {
+        "text": "IT",
+        "start": 74.505,
+        "end": 74.694
+      },
+      {
+        "text": "IN",
+        "start": 74.694,
+        "end": 74.823
+      },
+      {
+        "text": "A",
+        "start": 74.823,
+        "end": 75.023
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "start": 75.023,
+    "end": 75.899,
+    "words": [
+      {
+        "text": "GRAVE",
+        "start": 75.023,
+        "end": 75.371
+      },
+      {
+        "text": "COULD",
+        "start": 75.391,
+        "end": 75.69
+      },
+      {
+        "text": "SHOW",
+        "start": 75.69,
+        "end": 75.909
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "start": 75.909,
+    "end": 76.706,
+    "words": [
+      {
+        "text": "THE",
+        "start": 75.909,
+        "end": 76.168
+      },
+      {
+        "text": "STANDING",
+        "start": 76.168,
+        "end": 76.497
+      },
+      {
+        "text": "OF",
+        "start": 76.497,
+        "end": 76.716
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "start": 76.716,
+    "end": 78.261,
+    "words": [
+      {
+        "text": "THE",
+        "start": 76.716,
+        "end": 76.906
+      },
+      {
+        "text": "PERSON",
+        "start": 76.906,
+        "end": 77.195
+      },
+      {
+        "text": "BURIED",
+        "start": 77.195,
+        "end": 77.523
+      },
+      {
+        "text": "INSIDE.",
+        "start": 77.742,
+        "end": 78.141
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "start": 78.28,
+    "end": 79.277,
+    "words": [
+      {
+        "text": "A",
+        "start": 78.28,
+        "end": 78.649
+      },
+      {
+        "text": "USEFUL",
+        "start": 78.649,
+        "end": 78.998
+      },
+      {
+        "text": "BOAT",
+        "start": 78.998,
+        "end": 79.287
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "start": 79.287,
+    "end": 80.622,
+    "words": [
+      {
+        "text": "TOOK",
+        "start": 79.287,
+        "end": 79.566
+      },
+      {
+        "text": "WORK",
+        "start": 79.566,
+        "end": 79.805
+      },
+      {
+        "text": "TO",
+        "start": 79.805,
+        "end": 80.074
+      },
+      {
+        "text": "REPLACE.",
+        "start": 80.193,
+        "end": 80.592
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "start": 80.632,
+    "end": 81.787,
+    "words": [
+      {
+        "text": "THAT",
+        "start": 80.632,
+        "end": 81.03
+      },
+      {
+        "text": "CUSTOM",
+        "start": 81.23,
+        "end": 81.548
+      },
+      {
+        "text": "WOULD",
+        "start": 81.548,
+        "end": 81.797
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "start": 81.797,
+    "end": 82.804,
+    "words": [
+      {
+        "text": "HELP",
+        "start": 81.797,
+        "end": 82.126
+      },
+      {
+        "text": "EXPLAIN",
+        "start": 82.146,
+        "end": 82.505
+      },
+      {
+        "text": "WHAT",
+        "start": 82.505,
+        "end": 82.814
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "start": 82.814,
+    "end": 84.159,
+    "words": [
+      {
+        "text": "ARCHAEOLOGISTS",
+        "start": 82.814,
+        "end": 83.611
+      },
+      {
+        "text": "SAW",
+        "start": 83.611,
+        "end": 83.949
+      },
+      {
+        "text": "ON",
+        "start": 83.949,
+        "end": 84.169
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "start": 84.169,
+    "end": 85.344,
+    "words": [
+      {
+        "text": "A",
+        "start": 84.169,
+        "end": 84.426
+      },
+      {
+        "text": "SHORE",
+        "start": 84.426,
+        "end": 84.869
+      },
+      {
+        "text": "ACROSS",
+        "start": 84.926,
+        "end": 85.354
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "start": 85.354,
+    "end": 86.617,
+    "words": [
+      {
+        "text": "THE",
+        "start": 85.354,
+        "end": 85.711
+      },
+      {
+        "text": "BALTIC.",
+        "start": 85.711,
+        "end": 86.497
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "start": 86.64,
+    "end": 87.673,
+    "words": [
+      {
+        "text": "OFF",
+        "start": 86.64,
+        "end": 87.054
+      },
+      {
+        "text": "THE",
+        "start": 87.054,
+        "end": 87.369
+      },
+      {
+        "text": "COAST",
+        "start": 87.369,
+        "end": 87.683
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "start": 87.683,
+    "end": 89.516,
+    "words": [
+      {
+        "text": "OF",
+        "start": 87.683,
+        "end": 87.954
+      },
+      {
+        "text": "NORTHUMBRIA,",
+        "start": 87.954,
+        "end": 88.983
+      },
+      {
+        "text": "THE",
+        "start": 89.04,
+        "end": 89.526
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "start": 89.526,
+    "end": 91.159,
+    "words": [
+      {
+        "text": "ISLAND",
+        "start": 89.526,
+        "end": 89.883
+      },
+      {
+        "text": "OF",
+        "start": 89.883,
+        "end": 90.269
+      },
+      {
+        "text": "LINDISFARNE",
+        "start": 90.269,
+        "end": 91.169
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "start": 91.169,
+    "end": 92.016,
+    "words": [
+      {
+        "text": "WAS",
+        "start": 91.169,
+        "end": 91.54
+      },
+      {
+        "text": "HOME",
+        "start": 91.54,
+        "end": 91.854
+      },
+      {
+        "text": "TO",
+        "start": 91.854,
+        "end": 92.026
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "start": 92.026,
+    "end": 93.217,
+    "words": [
+      {
+        "text": "A",
+        "start": 92.026,
+        "end": 92.326
+      },
+      {
+        "text": "MONASTIC",
+        "start": 92.326,
+        "end": 93.097
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "start": 93.411,
+    "end": 94.103,
+    "words": [
+      {
+        "text": "COMMUNITY.",
+        "start": 93.411,
+        "end": 93.983
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "start": 94.183,
+    "end": 95.401,
+    "words": [
+      {
+        "text": "AT",
+        "start": 94.183,
+        "end": 94.64
+      },
+      {
+        "text": "ITS",
+        "start": 94.64,
+        "end": 95.04
+      },
+      {
+        "text": "HEART",
+        "start": 95.04,
+        "end": 95.411
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "start": 95.411,
+    "end": 96.473,
+    "words": [
+      {
+        "text": "STOOD",
+        "start": 95.411,
+        "end": 95.754
+      },
+      {
+        "text": "THE",
+        "start": 95.754,
+        "end": 96.126
+      },
+      {
+        "text": "SHRINE",
+        "start": 96.126,
+        "end": 96.483
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "start": 96.483,
+    "end": 97.13,
+    "words": [
+      {
+        "text": "OF",
+        "start": 96.483,
+        "end": 96.783
+      },
+      {
+        "text": "ST.",
+        "start": 96.783,
+        "end": 97.14
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "start": 97.14,
+    "end": 97.989,
+    "words": [
+      {
+        "text": "CUTHBERT.",
+        "start": 97.14,
+        "end": 97.869
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "start": 98.04,
+    "end": 98.734,
+    "words": [
+      {
+        "text": "IN",
+        "start": 98.04,
+        "end": 98.311
+      },
+      {
+        "text": "THE",
+        "start": 98.311,
+        "end": 98.5
+      },
+      {
+        "text": "YEAR",
+        "start": 98.5,
+        "end": 98.744
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "start": 98.744,
+    "end": 100.038,
+    "words": [
+      {
+        "text": "793,",
+        "start": 98.744,
+        "end": 99.918
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "start": 100.225,
+    "end": 101.073,
+    "words": [
+      {
+        "text": "BOATS",
+        "start": 100.225,
+        "end": 100.55
+      },
+      {
+        "text": "CAME",
+        "start": 100.55,
+        "end": 100.812
+      },
+      {
+        "text": "TOWARDS",
+        "start": 100.812,
+        "end": 101.083
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "start": 101.083,
+    "end": 101.768,
+    "words": [
+      {
+        "text": "THE",
+        "start": 101.083,
+        "end": 101.39
+      },
+      {
+        "text": "ISLAND.",
+        "start": 101.39,
+        "end": 101.724
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "start": 101.778,
+    "end": 102.735,
+    "words": [
+      {
+        "text": "THE",
+        "start": 101.778,
+        "end": 102.04
+      },
+      {
+        "text": "RAIDERS",
+        "start": 102.04,
+        "end": 102.408
+      },
+      {
+        "text": "CAME",
+        "start": 102.408,
+        "end": 102.745
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "start": 102.745,
+    "end": 103.977,
+    "words": [
+      {
+        "text": "ASHORE",
+        "start": 102.745,
+        "end": 103.251
+      },
+      {
+        "text": "AND",
+        "start": 103.251,
+        "end": 103.629
+      },
+      {
+        "text": "ATTACKED",
+        "start": 103.629,
+        "end": 103.987
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "start": 103.987,
+    "end": 104.844,
+    "words": [
+      {
+        "text": "THE",
+        "start": 103.987,
+        "end": 104.324
+      },
+      {
+        "text": "MONASTERY.",
+        "start": 104.324,
+        "end": 104.724
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "start": 105.04,
+    "end": 106.035,
+    "words": [
+      {
+        "text": "THEY",
+        "start": 105.04,
+        "end": 105.386
+      },
+      {
+        "text": "KILLED",
+        "start": 105.386,
+        "end": 105.721
+      },
+      {
+        "text": "MEMBERS",
+        "start": 105.721,
+        "end": 106.045
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "start": 106.045,
+    "end": 106.873,
+    "words": [
+      {
+        "text": "OF",
+        "start": 106.045,
+        "end": 106.244
+      },
+      {
+        "text": "THE",
+        "start": 106.244,
+        "end": 106.506
+      },
+      {
+        "text": "COMMUNITY",
+        "start": 106.506,
+        "end": 106.883
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "start": 106.883,
+    "end": 107.721,
+    "words": [
+      {
+        "text": "AND",
+        "start": 106.883,
+        "end": 107.187
+      },
+      {
+        "text": "STRIPPED",
+        "start": 107.187,
+        "end": 107.417
+      },
+      {
+        "text": "THE",
+        "start": 107.417,
+        "end": 107.731
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "start": 107.731,
+    "end": 109.57,
+    "words": [
+      {
+        "text": "MONASTERY",
+        "start": 107.731,
+        "end": 108.139
+      },
+      {
+        "text": "OF",
+        "start": 108.139,
+        "end": 108.443
+      },
+      {
+        "text": "VALUABLES.",
+        "start": 108.443,
+        "end": 108.893
+      },
+      {
+        "text": "NEWS",
+        "start": 109.04,
+        "end": 109.45
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "start": 109.757,
+    "end": 111.078,
+    "words": [
+      {
+        "text": "REACHED",
+        "start": 109.757,
+        "end": 110.146
+      },
+      {
+        "text": "ALCUIN,",
+        "start": 110.146,
+        "end": 110.74
+      },
+      {
+        "text": "AN",
+        "start": 110.74,
+        "end": 111.088
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "start": 111.088,
+    "end": 111.887,
+    "words": [
+      {
+        "text": "ENGLISH",
+        "start": 111.088,
+        "end": 111.426
+      },
+      {
+        "text": "SCHOLAR",
+        "start": 111.426,
+        "end": 111.723
+      },
+      {
+        "text": "AT",
+        "start": 111.723,
+        "end": 111.897
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "start": 111.897,
+    "end": 112.45,
+    "words": [
+      {
+        "text": "THE",
+        "start": 111.897,
+        "end": 112.03
+      },
+      {
+        "text": "COURT",
+        "start": 112.03,
+        "end": 112.204
+      },
+      {
+        "text": "OF",
+        "start": 112.204,
+        "end": 112.46
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "start": 112.46,
+    "end": 113.832,
+    "words": [
+      {
+        "text": "CHARLEMAGNE",
+        "start": 112.46,
+        "end": 113.095
+      },
+      {
+        "text": "ACROSS",
+        "start": 113.217,
+        "end": 113.586
+      },
+      {
+        "text": "THE",
+        "start": 113.586,
+        "end": 113.842
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "start": 113.842,
+    "end": 115.03,
+    "words": [
+      {
+        "text": "SEA",
+        "start": 113.842,
+        "end": 114.037
+      },
+      {
+        "text": "FROM",
+        "start": 114.037,
+        "end": 114.241
+      },
+      {
+        "text": "NORTHUMBRIA.",
+        "start": 114.241,
+        "end": 114.999
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "start": 115.04,
+    "end": 115.743,
+    "words": [
+      {
+        "text": "HE",
+        "start": 115.04,
+        "end": 115.322
+      },
+      {
+        "text": "WROTE",
+        "start": 115.322,
+        "end": 115.533
+      },
+      {
+        "text": "ABOUT",
+        "start": 115.533,
+        "end": 115.753
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "start": 115.753,
+    "end": 116.658,
+    "words": [
+      {
+        "text": "A",
+        "start": 115.753,
+        "end": 116.034
+      },
+      {
+        "text": "CHURCH",
+        "start": 116.034,
+        "end": 116.369
+      },
+      {
+        "text": "STAINED",
+        "start": 116.369,
+        "end": 116.668
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "start": 116.668,
+    "end": 117.652,
+    "words": [
+      {
+        "text": "WITH",
+        "start": 116.668,
+        "end": 116.958
+      },
+      {
+        "text": "BLOOD",
+        "start": 116.958,
+        "end": 117.293
+      },
+      {
+        "text": "AND",
+        "start": 117.363,
+        "end": 117.662
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "start": 117.662,
+    "end": 118.612,
+    "words": [
+      {
+        "text": "WONDERED",
+        "start": 117.662,
+        "end": 117.909
+      },
+      {
+        "text": "WHAT",
+        "start": 117.909,
+        "end": 118.208
+      },
+      {
+        "text": "WRONGS",
+        "start": 118.208,
+        "end": 118.622
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "start": 118.622,
+    "end": 119.245,
+    "words": [
+      {
+        "text": "HIS",
+        "start": 118.622,
+        "end": 118.833
+      },
+      {
+        "text": "OWN",
+        "start": 118.833,
+        "end": 119.044
+      },
+      {
+        "text": "PEOPLE",
+        "start": 119.044,
+        "end": 119.255
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "start": 119.255,
+    "end": 119.94,
+    "words": [
+      {
+        "text": "MIGHT",
+        "start": 119.255,
+        "end": 119.422
+      },
+      {
+        "text": "HAVE",
+        "start": 119.422,
+        "end": 119.625
+      },
+      {
+        "text": "COMMITTED",
+        "start": 119.625,
+        "end": 119.933
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "start": 119.95,
+    "end": 120.653,
+    "words": [
+      {
+        "text": "TO",
+        "start": 119.95,
+        "end": 120.25
+      },
+      {
+        "text": "BRING",
+        "start": 120.25,
+        "end": 120.47
+      },
+      {
+        "text": "SUCH",
+        "start": 120.47,
+        "end": 120.663
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "start": 120.663,
+    "end": 121.956,
+    "words": [
+      {
+        "text": "A",
+        "start": 120.663,
+        "end": 120.927
+      },
+      {
+        "text": "DISASTER",
+        "start": 120.927,
+        "end": 121.27
+      },
+      {
+        "text": "UPON",
+        "start": 121.27,
+        "end": 121.622
+      },
+      {
+        "text": "THEM.",
+        "start": 121.622,
+        "end": 121.966
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "start": 121.966,
+    "end": 122.985,
+    "words": [
+      {
+        "text": "HIS",
+        "start": 121.966,
+        "end": 122.309
+      },
+      {
+        "text": "QUESTION",
+        "start": 122.326,
+        "end": 122.652
+      },
+      {
+        "text": "SHOWS",
+        "start": 122.652,
+        "end": 122.978
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "start": 122.995,
+    "end": 123.786,
+    "words": [
+      {
+        "text": "HOW",
+        "start": 122.995,
+        "end": 123.286
+      },
+      {
+        "text": "DEEPLY",
+        "start": 123.286,
+        "end": 123.532
+      },
+      {
+        "text": "THE",
+        "start": 123.532,
+        "end": 123.796
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "start": 123.796,
+    "end": 124.552,
+    "words": [
+      {
+        "text": "NEWS",
+        "start": 123.796,
+        "end": 124.016
+      },
+      {
+        "text": "SHOOK",
+        "start": 124.016,
+        "end": 124.262
+      },
+      {
+        "text": "HIM.",
+        "start": 124.262,
+        "end": 124.562
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "start": 124.562,
+    "end": 125.264,
+    "words": [
+      {
+        "text": "IN",
+        "start": 124.562,
+        "end": 124.782
+      },
+      {
+        "text": "THE",
+        "start": 124.782,
+        "end": 124.993
+      },
+      {
+        "text": "DECADES",
+        "start": 124.993,
+        "end": 125.274
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "start": 125.274,
+    "end": 126.473,
+    "words": [
+      {
+        "text": "THAT",
+        "start": 125.274,
+        "end": 125.565
+      },
+      {
+        "text": "FOLLOWED,",
+        "start": 125.565,
+        "end": 125.882
+      },
+      {
+        "text": "RAIDS",
+        "start": 126.04,
+        "end": 126.41
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "start": 126.483,
+    "end": 127.222,
+    "words": [
+      {
+        "text": "SPREAD",
+        "start": 126.483,
+        "end": 126.798
+      },
+      {
+        "text": "ALONG",
+        "start": 126.798,
+        "end": 127.01
+      },
+      {
+        "text": "THE",
+        "start": 127.01,
+        "end": 127.232
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "start": 127.232,
+    "end": 127.988,
+    "words": [
+      {
+        "text": "COASTS",
+        "start": 127.232,
+        "end": 127.583
+      },
+      {
+        "text": "OF",
+        "start": 127.583,
+        "end": 127.731
+      },
+      {
+        "text": "BRITAIN",
+        "start": 127.731,
+        "end": 127.998
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "start": 127.998,
+    "end": 128.765,
+    "words": [
+      {
+        "text": "AND",
+        "start": 127.998,
+        "end": 128.303
+      },
+      {
+        "text": "IRELAND.",
+        "start": 128.303,
+        "end": 128.645
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "start": 128.811,
+    "end": 129.901,
+    "words": [
+      {
+        "text": "OTHER",
+        "start": 128.811,
+        "end": 129.181
+      },
+      {
+        "text": "COMMUNITIES",
+        "start": 129.181,
+        "end": 129.55
+      },
+      {
+        "text": "FACED",
+        "start": 129.587,
+        "end": 129.911
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "start": 129.911,
+    "end": 130.584,
+    "words": [
+      {
+        "text": "THAT",
+        "start": 129.911,
+        "end": 130.179
+      },
+      {
+        "text": "DANGER",
+        "start": 130.179,
+        "end": 130.41
+      },
+      {
+        "text": "FROM",
+        "start": 130.41,
+        "end": 130.594
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "start": 130.594,
+    "end": 131.352,
+    "words": [
+      {
+        "text": "THE",
+        "start": 130.594,
+        "end": 130.862
+      },
+      {
+        "text": "WATER.",
+        "start": 130.862,
+        "end": 131.232
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "start": 131.416,
+    "end": 132.099,
+    "words": [
+      {
+        "text": "CREWS",
+        "start": 131.416,
+        "end": 131.712
+      },
+      {
+        "text": "COULD",
+        "start": 131.712,
+        "end": 131.888
+      },
+      {
+        "text": "COME",
+        "start": 131.888,
+        "end": 132.109
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "start": 132.109,
+    "end": 133.115,
+    "words": [
+      {
+        "text": "ASHORE,",
+        "start": 132.109,
+        "end": 132.682
+      },
+      {
+        "text": "SEIZE",
+        "start": 132.682,
+        "end": 132.931
+      },
+      {
+        "text": "WHAT",
+        "start": 132.931,
+        "end": 133.125
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "start": 133.125,
+    "end": 133.808,
+    "words": [
+      {
+        "text": "THEY",
+        "start": 133.125,
+        "end": 133.264
+      },
+      {
+        "text": "COULD",
+        "start": 133.264,
+        "end": 133.495
+      },
+      {
+        "text": "CARRY,",
+        "start": 133.495,
+        "end": 133.818
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "start": 133.818,
+    "end": 134.604,
+    "words": [
+      {
+        "text": "AND",
+        "start": 133.818,
+        "end": 134.04
+      },
+      {
+        "text": "BE",
+        "start": 134.04,
+        "end": 134.327
+      },
+      {
+        "text": "BACK",
+        "start": 134.327,
+        "end": 134.614
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "start": 134.614,
+    "end": 135.439,
+    "words": [
+      {
+        "text": "ON",
+        "start": 134.614,
+        "end": 134.806
+      },
+      {
+        "text": "THE",
+        "start": 134.806,
+        "end": 135.093
+      },
+      {
+        "text": "WATER",
+        "start": 135.093,
+        "end": 135.449
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "start": 135.449,
+    "end": 136.704,
+    "words": [
+      {
+        "text": "BEFORE",
+        "start": 135.449,
+        "end": 135.873
+      },
+      {
+        "text": "HELP",
+        "start": 135.928,
+        "end": 136.242
+      },
+      {
+        "text": "ARRIVED.",
+        "start": 136.242,
+        "end": 136.297
+      },
+      {
+        "text": "THE",
+        "start": 136.297,
+        "end": 136.584
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "start": 137.678,
+    "end": 139.063,
+    "words": [
+      {
+        "text": "COAST",
+        "start": 137.678,
+        "end": 138.184
+      },
+      {
+        "text": "GAVE",
+        "start": 138.184,
+        "end": 138.663
+      },
+      {
+        "text": "THEM",
+        "start": 138.663,
+        "end": 139.073
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "start": 139.073,
+    "end": 140.896,
+    "words": [
+      {
+        "text": "MANY",
+        "start": 139.073,
+        "end": 139.484
+      },
+      {
+        "text": "PLACES",
+        "start": 139.484,
+        "end": 139.921
+      },
+      {
+        "text": "TO",
+        "start": 139.921,
+        "end": 140.359
+      },
+      {
+        "text": "LAND.",
+        "start": 140.359,
+        "end": 140.879
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "start": 140.906,
+    "end": 142.168,
+    "words": [
+      {
+        "text": "THE",
+        "start": 140.906,
+        "end": 141.426
+      },
+      {
+        "text": "ACCOUNTS",
+        "start": 141.426,
+        "end": 141.823
+      },
+      {
+        "text": "OF",
+        "start": 141.823,
+        "end": 142.178
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "start": 142.178,
+    "end": 144.046,
+    "words": [
+      {
+        "text": "LINDISFARNE",
+        "start": 142.178,
+        "end": 143.04
+      },
+      {
+        "text": "GAVE",
+        "start": 143.04,
+        "end": 143.407
+      },
+      {
+        "text": "HISTORIANS",
+        "start": 143.578,
+        "end": 144.056
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "start": 144.056,
+    "end": 144.792,
+    "words": [
+      {
+        "text": "A",
+        "start": 144.056,
+        "end": 144.398
+      },
+      {
+        "text": "DATE",
+        "start": 144.398,
+        "end": 144.606
+      },
+      {
+        "text": "TO",
+        "start": 144.606,
+        "end": 144.802
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "start": 144.802,
+    "end": 145.514,
+    "words": [
+      {
+        "text": "PUT",
+        "start": 144.802,
+        "end": 145.035
+      },
+      {
+        "text": "ON",
+        "start": 145.035,
+        "end": 145.231
+      },
+      {
+        "text": "A",
+        "start": 145.231,
+        "end": 145.524
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "start": 145.524,
+    "end": 146.122,
+    "words": [
+      {
+        "text": "TIMELINE.",
+        "start": 145.524,
+        "end": 146.002
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "start": 146.295,
+    "end": 147.57,
+    "words": [
+      {
+        "text": "FROM",
+        "start": 146.295,
+        "end": 146.748
+      },
+      {
+        "text": "THAT",
+        "start": 146.748,
+        "end": 147.164
+      },
+      {
+        "text": "DATE,",
+        "start": 147.164,
+        "end": 147.58
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "start": 147.58,
+    "end": 149.112,
+    "words": [
+      {
+        "text": "A",
+        "start": 147.58,
+        "end": 147.996
+      },
+      {
+        "text": "FAMILIAR",
+        "start": 147.996,
+        "end": 148.449
+      },
+      {
+        "text": "STORY",
+        "start": 148.645,
+        "end": 149.122
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "start": 149.122,
+    "end": 149.719,
+    "words": [
+      {
+        "text": "BEGINS.",
+        "start": 149.122,
+        "end": 149.599
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "start": 150.04,
+    "end": 151.354,
+    "words": [
+      {
+        "text": "THE",
+        "start": 150.04,
+        "end": 150.544
+      },
+      {
+        "text": "EVIDENCE",
+        "start": 150.595,
+        "end": 151.036
+      },
+      {
+        "text": "FOR",
+        "start": 151.036,
+        "end": 151.364
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "start": 151.364,
+    "end": 152.828,
+    "words": [
+      {
+        "text": "WHAT",
+        "start": 151.364,
+        "end": 151.679
+      },
+      {
+        "text": "CAME",
+        "start": 151.679,
+        "end": 152.107
+      },
+      {
+        "text": "BEFORE",
+        "start": 152.309,
+        "end": 152.813
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "start": 152.838,
+    "end": 153.82,
+    "words": [
+      {
+        "text": "LAY",
+        "start": 152.838,
+        "end": 153.242
+      },
+      {
+        "text": "ON",
+        "start": 153.242,
+        "end": 153.611
+      },
+      {
+        "text": "A",
+        "start": 153.611,
+        "end": 153.83
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "start": 153.83,
+    "end": 155.135,
+    "words": [
+      {
+        "text": "SHORE",
+        "start": 153.83,
+        "end": 154.301
+      },
+      {
+        "text": "ACROSS",
+        "start": 154.401,
+        "end": 154.805
+      },
+      {
+        "text": "THE",
+        "start": 154.805,
+        "end": 155.145
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "start": 155.145,
+    "end": 157.329,
+    "words": [
+      {
+        "text": "BALTIC.",
+        "start": 155.145,
+        "end": 155.788
+      },
+      {
+        "text": "IN",
+        "start": 156.04,
+        "end": 156.374
+      },
+      {
+        "text": "2008,",
+        "start": 156.875,
+        "end": 157.209
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "start": 157.56,
+    "end": 158.544,
+    "words": [
+      {
+        "text": "CONSTRUCTION",
+        "start": 157.56,
+        "end": 157.894
+      },
+      {
+        "text": "WORKERS",
+        "start": 157.978,
+        "end": 158.295
+      },
+      {
+        "text": "AT",
+        "start": 158.295,
+        "end": 158.554
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "start": 158.554,
+    "end": 159.438,
+    "words": [
+      {
+        "text": "SALME",
+        "start": 158.554,
+        "end": 158.939
+      },
+      {
+        "text": "CUT",
+        "start": 158.939,
+        "end": 159.206
+      },
+      {
+        "text": "INTO",
+        "start": 159.206,
+        "end": 159.448
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "start": 159.448,
+    "end": 160.637,
+    "words": [
+      {
+        "text": "AN",
+        "start": 159.448,
+        "end": 159.665
+      },
+      {
+        "text": "OLD",
+        "start": 159.665,
+        "end": 159.882
+      },
+      {
+        "text": "SHORELINE.",
+        "start": 159.882,
+        "end": 160.517
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "start": 160.701,
+    "end": 161.618,
+    "words": [
+      {
+        "text": "THE",
+        "start": 160.701,
+        "end": 161.019
+      },
+      {
+        "text": "GROUND",
+        "start": 161.019,
+        "end": 161.319
+      },
+      {
+        "text": "HELD",
+        "start": 161.319,
+        "end": 161.628
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "start": 161.628,
+    "end": 162.625,
+    "words": [
+      {
+        "text": "SOMETHING",
+        "start": 161.628,
+        "end": 161.954
+      },
+      {
+        "text": "UNEXPECTED.",
+        "start": 162.171,
+        "end": 162.505
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "start": 163.04,
+    "end": 164.087,
+    "words": [
+      {
+        "text": "THEY",
+        "start": 163.04,
+        "end": 163.331
+      },
+      {
+        "text": "UNCOVERED",
+        "start": 163.331,
+        "end": 163.621
+      },
+      {
+        "text": "HUMAN",
+        "start": 163.653,
+        "end": 163.967
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "start": 164.171,
+    "end": 165.449,
+    "words": [
+      {
+        "text": "BONES,",
+        "start": 164.171,
+        "end": 164.485
+      },
+      {
+        "text": "SWORD",
+        "start": 164.658,
+        "end": 164.972
+      },
+      {
+        "text": "FRAGMENTS,",
+        "start": 165.113,
+        "end": 165.427
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "start": 165.459,
+    "end": 166.611,
+    "words": [
+      {
+        "text": "AND",
+        "start": 165.459,
+        "end": 165.749
+      },
+      {
+        "text": "IRON",
+        "start": 165.749,
+        "end": 166.032
+      },
+      {
+        "text": "RIVETS.",
+        "start": 166.032,
+        "end": 166.495
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "start": 166.621,
+    "end": 167.695,
+    "words": [
+      {
+        "text": "ONE",
+        "start": 166.621,
+        "end": 166.935
+      },
+      {
+        "text": "CLUE",
+        "start": 167.108,
+        "end": 167.406
+      },
+      {
+        "text": "MATTERED",
+        "start": 167.406,
+        "end": 167.705
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "start": 167.705,
+    "end": 168.276,
+    "words": [
+      {
+        "text": "BECAUSE",
+        "start": 167.705,
+        "end": 167.972
+      },
+      {
+        "text": "OF",
+        "start": 167.972,
+        "end": 168.137
+      },
+      {
+        "text": "WHERE",
+        "start": 168.137,
+        "end": 168.286
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "start": 168.286,
+    "end": 168.987,
+    "words": [
+      {
+        "text": "IT",
+        "start": 168.286,
+        "end": 168.537
+      },
+      {
+        "text": "LAY.",
+        "start": 168.553,
+        "end": 168.867
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "start": 169.04,
+    "end": 169.816,
+    "words": [
+      {
+        "text": "THE",
+        "start": 169.04,
+        "end": 169.269
+      },
+      {
+        "text": "RIVETS",
+        "start": 169.269,
+        "end": 169.547
+      },
+      {
+        "text": "HELPED",
+        "start": 169.547,
+        "end": 169.811
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "start": 169.826,
+    "end": 170.894,
+    "words": [
+      {
+        "text": "ARCHAEOLOGISTS",
+        "start": 169.826,
+        "end": 170.369
+      },
+      {
+        "text": "TRACE",
+        "start": 170.426,
+        "end": 170.683
+      },
+      {
+        "text": "A",
+        "start": 170.683,
+        "end": 170.904
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "start": 170.904,
+    "end": 171.574,
+    "words": [
+      {
+        "text": "BURIED",
+        "start": 170.904,
+        "end": 171.154
+      },
+      {
+        "text": "BOAT.",
+        "start": 171.169,
+        "end": 171.454
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "start": 171.683,
+    "end": 172.651,
+    "words": [
+      {
+        "text": "THEIR",
+        "start": 171.683,
+        "end": 171.969
+      },
+      {
+        "text": "POSITIONS",
+        "start": 172.04,
+        "end": 172.326
+      },
+      {
+        "text": "FOLLOWED",
+        "start": 172.383,
+        "end": 172.661
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "start": 172.661,
+    "end": 173.289,
+    "words": [
+      {
+        "text": "A",
+        "start": 172.661,
+        "end": 172.911
+      },
+      {
+        "text": "CURVE.",
+        "start": 172.911,
+        "end": 173.169
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "start": 173.583,
+    "end": 174.347,
+    "words": [
+      {
+        "text": "INSIDE",
+        "start": 173.583,
+        "end": 173.864
+      },
+      {
+        "text": "IT",
+        "start": 173.864,
+        "end": 174.107
+      },
+      {
+        "text": "WERE",
+        "start": 174.107,
+        "end": 174.357
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "start": 174.357,
+    "end": 175.111,
+    "words": [
+      {
+        "text": "SEVEN",
+        "start": 174.357,
+        "end": 174.647
+      },
+      {
+        "text": "MEN.",
+        "start": 174.678,
+        "end": 174.991
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "start": 175.319,
+    "end": 176.209,
+    "words": [
+      {
+        "text": "NEARBY",
+        "start": 175.319,
+        "end": 175.828
+      },
+      {
+        "text": "LAY",
+        "start": 175.828,
+        "end": 176.008
+      },
+      {
+        "text": "THE",
+        "start": 176.008,
+        "end": 176.219
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "start": 176.219,
+    "end": 177.446,
+    "words": [
+      {
+        "text": "OUTLINE",
+        "start": 176.219,
+        "end": 176.469
+      },
+      {
+        "text": "OF",
+        "start": 176.469,
+        "end": 176.672
+      },
+      {
+        "text": "ANOTHER",
+        "start": 176.672,
+        "end": 176.899
+      },
+      {
+        "text": "VESSEL.",
+        "start": 177.04,
+        "end": 177.326
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "start": 177.483,
+    "end": 178.473,
+    "words": [
+      {
+        "text": "A",
+        "start": 177.483,
+        "end": 177.769
+      },
+      {
+        "text": "SECOND,",
+        "start": 177.783,
+        "end": 178.069
+      },
+      {
+        "text": "LARGER",
+        "start": 178.183,
+        "end": 178.469
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "start": 178.483,
+    "end": 179.56,
+    "words": [
+      {
+        "text": "SHIP",
+        "start": 178.483,
+        "end": 178.754
+      },
+      {
+        "text": "HELD",
+        "start": 178.754,
+        "end": 179.026
+      },
+      {
+        "text": "34.",
+        "start": 179.154,
+        "end": 179.44
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "start": 179.883,
+    "end": 180.523,
+    "words": [
+      {
+        "text": "THE",
+        "start": 179.883,
+        "end": 180.119
+      },
+      {
+        "text": "MEN",
+        "start": 180.119,
+        "end": 180.311
+      },
+      {
+        "text": "LAY",
+        "start": 180.311,
+        "end": 180.533
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "start": 180.533,
+    "end": 182.473,
+    "words": [
+      {
+        "text": "CLOSE",
+        "start": 180.533,
+        "end": 180.797
+      },
+      {
+        "text": "TOGETHER",
+        "start": 180.84,
+        "end": 181.126
+      },
+      {
+        "text": "INSIDE.",
+        "start": 181.34,
+        "end": 181.626
+      },
+      {
+        "text": "SEVERAL",
+        "start": 182.011,
+        "end": 182.247
+      },
+      {
+        "text": "OF",
+        "start": 182.247,
+        "end": 182.39
+      },
+      {
+        "text": "THE",
+        "start": 182.39,
+        "end": 182.483
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "start": 182.483,
+    "end": 183.474,
+    "words": [
+      {
+        "text": "MEN",
+        "start": 182.483,
+        "end": 182.626
+      },
+      {
+        "text": "HAD",
+        "start": 182.626,
+        "end": 182.826
+      },
+      {
+        "text": "DIED",
+        "start": 182.826,
+        "end": 183.069
+      },
+      {
+        "text": "VIOLENTLY.",
+        "start": 183.069,
+        "end": 183.354
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "start": 183.869,
+    "end": 184.559,
+    "words": [
+      {
+        "text": "ONE",
+        "start": 183.869,
+        "end": 184.09
+      },
+      {
+        "text": "HAD",
+        "start": 184.09,
+        "end": 184.283
+      },
+      {
+        "text": "TAKEN",
+        "start": 184.283,
+        "end": 184.54
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "start": 184.569,
+    "end": 185.301,
+    "words": [
+      {
+        "text": "REPEATED",
+        "start": 184.569,
+        "end": 184.854
+      },
+      {
+        "text": "BLOWS",
+        "start": 184.897,
+        "end": 185.126
+      },
+      {
+        "text": "TO",
+        "start": 185.126,
+        "end": 185.311
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "start": 185.311,
+    "end": 186.03,
+    "words": [
+      {
+        "text": "HIS",
+        "start": 185.311,
+        "end": 185.49
+      },
+      {
+        "text": "UPPER",
+        "start": 185.49,
+        "end": 185.711
+      },
+      {
+        "text": "ARM.",
+        "start": 185.74,
+        "end": 186.026
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "start": 186.04,
+    "end": 186.887,
+    "words": [
+      {
+        "text": "IN",
+        "start": 186.04,
+        "end": 186.326
+      },
+      {
+        "text": "THE",
+        "start": 186.354,
+        "end": 186.597
+      },
+      {
+        "text": "LARGER",
+        "start": 186.597,
+        "end": 186.84
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "start": 186.897,
+    "end": 187.816,
+    "words": [
+      {
+        "text": "SHIP,",
+        "start": 186.897,
+        "end": 187.183
+      },
+      {
+        "text": "THE",
+        "start": 187.183,
+        "end": 187.545
+      },
+      {
+        "text": "DEAD",
+        "start": 187.545,
+        "end": 187.826
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "start": 187.826,
+    "end": 188.552,
+    "words": [
+      {
+        "text": "HAD",
+        "start": 187.826,
+        "end": 188.059
+      },
+      {
+        "text": "BEEN",
+        "start": 188.059,
+        "end": 188.258
+      },
+      {
+        "text": "LAID",
+        "start": 188.258,
+        "end": 188.562
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "start": 188.562,
+    "end": 189.804,
+    "words": [
+      {
+        "text": "OUT",
+        "start": 188.562,
+        "end": 188.854
+      },
+      {
+        "text": "IN",
+        "start": 188.854,
+        "end": 189.193
+      },
+      {
+        "text": "LAYERS,",
+        "start": 189.217,
+        "end": 189.684
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "start": 189.941,
+    "end": 191.17,
+    "words": [
+      {
+        "text": "ONE",
+        "start": 189.941,
+        "end": 190.409
+      },
+      {
+        "text": "ABOVE",
+        "start": 190.432,
+        "end": 190.818
+      },
+      {
+        "text": "THE",
+        "start": 190.818,
+        "end": 191.18
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "start": 191.18,
+    "end": 191.744,
+    "words": [
+      {
+        "text": "NEXT.",
+        "start": 191.18,
+        "end": 191.624
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "start": 191.928,
+    "end": 193.356,
+    "words": [
+      {
+        "text": "THE",
+        "start": 191.928,
+        "end": 192.326
+      },
+      {
+        "text": "UPPERMOST",
+        "start": 192.326,
+        "end": 192.992
+      },
+      {
+        "text": "BODIES",
+        "start": 192.992,
+        "end": 193.366
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "start": 193.366,
+    "end": 194.487,
+    "words": [
+      {
+        "text": "WERE",
+        "start": 193.366,
+        "end": 193.67
+      },
+      {
+        "text": "FOUND",
+        "start": 193.67,
+        "end": 193.997
+      },
+      {
+        "text": "WITH",
+        "start": 193.997,
+        "end": 194.497
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "start": 194.497,
+    "end": 196.16,
+    "words": [
+      {
+        "text": "SHIELDS",
+        "start": 194.497,
+        "end": 195.04
+      },
+      {
+        "text": "PLACED",
+        "start": 195.069,
+        "end": 195.554
+      },
+      {
+        "text": "OVER",
+        "start": 195.554,
+        "end": 196.04
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "start": 196.269,
+    "end": 196.96,
+    "words": [
+      {
+        "text": "THEM.",
+        "start": 196.269,
+        "end": 196.84
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "start": 197.04,
+    "end": 198.16,
+    "words": [
+      {
+        "text": "WHOEVER",
+        "start": 197.04,
+        "end": 197.492
+      },
+      {
+        "text": "BURIED",
+        "start": 197.537,
+        "end": 197.91
+      },
+      {
+        "text": "THE",
+        "start": 197.91,
+        "end": 198.17
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "start": 198.17,
+    "end": 199.177,
+    "words": [
+      {
+        "text": "MEN",
+        "start": 198.17,
+        "end": 198.419
+      },
+      {
+        "text": "HAD",
+        "start": 198.419,
+        "end": 198.769
+      },
+      {
+        "text": "TAKEN",
+        "start": 198.769,
+        "end": 199.187
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "start": 199.187,
+    "end": 200.149,
+    "words": [
+      {
+        "text": "CARE",
+        "start": 199.187,
+        "end": 199.582
+      },
+      {
+        "text": "OVER",
+        "start": 199.582,
+        "end": 199.91
+      },
+      {
+        "text": "WHERE",
+        "start": 199.91,
+        "end": 200.159
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "start": 200.159,
+    "end": 200.979,
+    "words": [
+      {
+        "text": "THEY",
+        "start": 200.159,
+        "end": 200.452
+      },
+      {
+        "text": "LAY.",
+        "start": 200.452,
+        "end": 200.859
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "start": 201.04,
+    "end": 202.05,
+    "words": [
+      {
+        "text": "THE",
+        "start": 201.04,
+        "end": 201.374
+      },
+      {
+        "text": "BURIALS",
+        "start": 201.374,
+        "end": 201.879
+      },
+      {
+        "text": "DATE",
+        "start": 201.879,
+        "end": 202.06
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "start": 202.06,
+    "end": 203.353,
+    "words": [
+      {
+        "text": "TO",
+        "start": 202.06,
+        "end": 202.337
+      },
+      {
+        "text": "AROUND",
+        "start": 202.337,
+        "end": 202.699
+      },
+      {
+        "text": "750,",
+        "start": 202.851,
+        "end": 203.233
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "start": 204.186,
+    "end": 205.492,
+    "words": [
+      {
+        "text": "ROUGHLY",
+        "start": 204.186,
+        "end": 204.568
+      },
+      {
+        "text": "40",
+        "start": 204.701,
+        "end": 205.073
+      },
+      {
+        "text": "YEARS",
+        "start": 205.073,
+        "end": 205.445
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "start": 205.502,
+    "end": 206.747,
+    "words": [
+      {
+        "text": "BEFORE",
+        "start": 205.502,
+        "end": 205.836
+      },
+      {
+        "text": "LINDISFARNE.",
+        "start": 205.836,
+        "end": 206.627
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "start": 206.989,
+    "end": 207.894,
+    "words": [
+      {
+        "text": "AN",
+        "start": 206.989,
+        "end": 207.313
+      },
+      {
+        "text": "ARMED",
+        "start": 207.313,
+        "end": 207.628
+      },
+      {
+        "text": "CROSSING",
+        "start": 207.628,
+        "end": 207.904
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "start": 207.904,
+    "end": 208.619,
+    "words": [
+      {
+        "text": "OF",
+        "start": 207.904,
+        "end": 208.066
+      },
+      {
+        "text": "THE",
+        "start": 208.066,
+        "end": 208.267
+      },
+      {
+        "text": "BALTIC",
+        "start": 208.267,
+        "end": 208.629
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "start": 208.629,
+    "end": 210.03,
+    "words": [
+      {
+        "text": "HAD",
+        "start": 208.629,
+        "end": 208.934
+      },
+      {
+        "text": "ALREADY",
+        "start": 208.934,
+        "end": 209.296
+      },
+      {
+        "text": "HAPPENED.",
+        "start": 209.544,
+        "end": 209.926
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "start": 210.04,
+    "end": 210.811,
+    "words": [
+      {
+        "text": "WHAT",
+        "start": 210.04,
+        "end": 210.312
+      },
+      {
+        "text": "HAD",
+        "start": 210.312,
+        "end": 210.54
+      },
+      {
+        "text": "GONE",
+        "start": 210.54,
+        "end": 210.821
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "start": 210.821,
+    "end": 212.144,
+    "words": [
+      {
+        "text": "WRONG",
+        "start": 210.821,
+        "end": 211.085
+      },
+      {
+        "text": "ON",
+        "start": 211.085,
+        "end": 211.322
+      },
+      {
+        "text": "THIS",
+        "start": 211.322,
+        "end": 211.62
+      },
+      {
+        "text": "SHORE?",
+        "start": 211.673,
+        "end": 212.024
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "start": 212.165,
+    "end": 213.164,
+    "words": [
+      {
+        "text": "THE",
+        "start": 212.165,
+        "end": 212.507
+      },
+      {
+        "text": "GRAVES",
+        "start": 212.507,
+        "end": 212.849
+      },
+      {
+        "text": "OFFERED",
+        "start": 212.849,
+        "end": 213.174
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "start": 213.174,
+    "end": 214.042,
+    "words": [
+      {
+        "text": "SOME",
+        "start": 213.174,
+        "end": 213.482
+      },
+      {
+        "text": "ANSWERS",
+        "start": 213.482,
+        "end": 213.798
+      },
+      {
+        "text": "ABOUT",
+        "start": 213.798,
+        "end": 214.052
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "start": 214.052,
+    "end": 215.052,
+    "words": [
+      {
+        "text": "THE",
+        "start": 214.052,
+        "end": 214.237
+      },
+      {
+        "text": "MEN'S",
+        "start": 214.237,
+        "end": 214.641
+      },
+      {
+        "text": "DEATHS.",
+        "start": 214.763,
+        "end": 215.062
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "start": 215.062,
+    "end": 216.035,
+    "words": [
+      {
+        "text": "THEIR",
+        "start": 215.062,
+        "end": 215.36
+      },
+      {
+        "text": "PURPOSE",
+        "start": 215.571,
+        "end": 215.843
+      },
+      {
+        "text": "IN",
+        "start": 215.843,
+        "end": 216.045
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "start": 216.045,
+    "end": 216.834,
+    "words": [
+      {
+        "text": "COMING",
+        "start": 216.045,
+        "end": 216.326
+      },
+      {
+        "text": "ACROSS",
+        "start": 216.361,
+        "end": 216.634
+      },
+      {
+        "text": "THE",
+        "start": 216.634,
+        "end": 216.844
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "start": 216.844,
+    "end": 217.782,
+    "words": [
+      {
+        "text": "BALTIC",
+        "start": 216.844,
+        "end": 217.213
+      },
+      {
+        "text": "WAS",
+        "start": 217.213,
+        "end": 217.52
+      },
+      {
+        "text": "HARDER",
+        "start": 217.52,
+        "end": 217.792
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "start": 217.792,
+    "end": 218.546,
+    "words": [
+      {
+        "text": "TO",
+        "start": 217.792,
+        "end": 218.091
+      },
+      {
+        "text": "RECOVER.",
+        "start": 218.091,
+        "end": 218.433
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "start": 218.556,
+    "end": 219.161,
+    "words": [
+      {
+        "text": "IN",
+        "start": 218.556,
+        "end": 218.802
+      },
+      {
+        "text": "THE",
+        "start": 218.802,
+        "end": 218.96
+      },
+      {
+        "text": "LAP",
+        "start": 218.96,
+        "end": 219.171
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "start": 219.171,
+    "end": 219.828,
+    "words": [
+      {
+        "text": "OF",
+        "start": 219.171,
+        "end": 219.399
+      },
+      {
+        "text": "ONE",
+        "start": 219.399,
+        "end": 219.61
+      },
+      {
+        "text": "MAN",
+        "start": 219.61,
+        "end": 219.838
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "start": 219.838,
+    "end": 220.437,
+    "words": [
+      {
+        "text": "WAS",
+        "start": 219.838,
+        "end": 220.04
+      },
+      {
+        "text": "A",
+        "start": 220.04,
+        "end": 220.222
+      },
+      {
+        "text": "SET",
+        "start": 220.222,
+        "end": 220.447
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "start": 220.447,
+    "end": 222.035,
+    "words": [
+      {
+        "text": "OF",
+        "start": 220.447,
+        "end": 220.825
+      },
+      {
+        "text": "GAMING",
+        "start": 220.825,
+        "end": 221.316
+      },
+      {
+        "text": "PIECES",
+        "start": 221.512,
+        "end": 222.045
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "start": 222.045,
+    "end": 223.875,
+    "words": [
+      {
+        "text": "AND",
+        "start": 222.045,
+        "end": 222.521
+      },
+      {
+        "text": "THREE",
+        "start": 222.521,
+        "end": 223.026
+      },
+      {
+        "text": "DICE.",
+        "start": 223.194,
+        "end": 223.755
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "start": 224.147,
+    "end": 225.511,
+    "words": [
+      {
+        "text": "THE",
+        "start": 224.147,
+        "end": 224.624
+      },
+      {
+        "text": "GRAVE",
+        "start": 224.624,
+        "end": 225.045
+      },
+      {
+        "text": "ALSO",
+        "start": 225.045,
+        "end": 225.521
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "start": 225.521,
+    "end": 227.663,
+    "words": [
+      {
+        "text": "HELD",
+        "start": 225.521,
+        "end": 226.04
+      },
+      {
+        "text": "FINELY",
+        "start": 226.04,
+        "end": 226.439
+      },
+      {
+        "text": "DECORATED",
+        "start": 226.561,
+        "end": 226.97
+      },
+      {
+        "text": "WEAPONS,",
+        "start": 227.134,
+        "end": 227.543
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "start": 227.809,
+    "end": 228.576,
+    "words": [
+      {
+        "text": "MADE",
+        "start": 227.809,
+        "end": 228.146
+      },
+      {
+        "text": "WITH",
+        "start": 228.146,
+        "end": 228.361
+      },
+      {
+        "text": "A",
+        "start": 228.361,
+        "end": 228.586
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "start": 228.586,
+    "end": 229.333,
+    "words": [
+      {
+        "text": "CARE",
+        "start": 228.586,
+        "end": 228.821
+      },
+      {
+        "text": "THAT",
+        "start": 228.821,
+        "end": 229.067
+      },
+      {
+        "text": "CAN",
+        "start": 229.067,
+        "end": 229.343
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "start": 229.343,
+    "end": 230.506,
+    "words": [
+      {
+        "text": "STILL",
+        "start": 229.343,
+        "end": 229.609
+      },
+      {
+        "text": "BE",
+        "start": 229.609,
+        "end": 229.956
+      },
+      {
+        "text": "SEEN.",
+        "start": 229.977,
+        "end": 230.386
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "start": 230.59,
+    "end": 231.301,
+    "words": [
+      {
+        "text": "THERE",
+        "start": 230.59,
+        "end": 230.856
+      },
+      {
+        "text": "WERE",
+        "start": 230.856,
+        "end": 231.04
+      },
+      {
+        "text": "THE",
+        "start": 231.04,
+        "end": 231.311
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "start": 231.311,
+    "end": 232.421,
+    "words": [
+      {
+        "text": "REMAINS",
+        "start": 231.311,
+        "end": 231.64
+      },
+      {
+        "text": "OF",
+        "start": 231.64,
+        "end": 232.035
+      },
+      {
+        "text": "DOGS",
+        "start": 232.035,
+        "end": 232.431
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "start": 232.431,
+    "end": 233.406,
+    "words": [
+      {
+        "text": "AND",
+        "start": 232.431,
+        "end": 232.748
+      },
+      {
+        "text": "BIRDS",
+        "start": 232.748,
+        "end": 233.099
+      },
+      {
+        "text": "OF",
+        "start": 233.099,
+        "end": 233.416
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "start": 233.416,
+    "end": 234.786,
+    "words": [
+      {
+        "text": "PREY,",
+        "start": 233.416,
+        "end": 233.732
+      },
+      {
+        "text": "TOO,",
+        "start": 233.845,
+        "end": 234.298
+      },
+      {
+        "text": "PLACED",
+        "start": 234.411,
+        "end": 234.796
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "start": 234.796,
+    "end": 235.775,
+    "words": [
+      {
+        "text": "WITH",
+        "start": 234.796,
+        "end": 235.056
+      },
+      {
+        "text": "THE",
+        "start": 235.056,
+        "end": 235.293
+      },
+      {
+        "text": "DEAD.",
+        "start": 235.293,
+        "end": 235.655
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "start": 236.04,
+    "end": 237.251,
+    "words": [
+      {
+        "text": "SOME",
+        "start": 236.04,
+        "end": 236.465
+      },
+      {
+        "text": "RESEARCHERS",
+        "start": 236.486,
+        "end": 236.91
+      },
+      {
+        "text": "THINK",
+        "start": 236.91,
+        "end": 237.261
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "start": 237.261,
+    "end": 238.058,
+    "words": [
+      {
+        "text": "THE",
+        "start": 237.261,
+        "end": 237.516
+      },
+      {
+        "text": "MEN",
+        "start": 237.516,
+        "end": 237.781
+      },
+      {
+        "text": "CAME",
+        "start": 237.781,
+        "end": 238.068
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "start": 238.068,
+    "end": 238.939,
+    "words": [
+      {
+        "text": "TO",
+        "start": 238.068,
+        "end": 238.407
+      },
+      {
+        "text": "RAID.",
+        "start": 238.407,
+        "end": 238.821
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "start": 238.949,
+    "end": 240.085,
+    "words": [
+      {
+        "text": "THE",
+        "start": 238.949,
+        "end": 239.373
+      },
+      {
+        "text": "WEAPONS",
+        "start": 239.394,
+        "end": 239.787
+      },
+      {
+        "text": "FIT",
+        "start": 239.787,
+        "end": 240.095
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "start": 240.095,
+    "end": 241.192,
+    "words": [
+      {
+        "text": "THAT",
+        "start": 240.095,
+        "end": 240.435
+      },
+      {
+        "text": "POSSIBILITY.",
+        "start": 240.647,
+        "end": 241.072
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "start": 241.411,
+    "end": 242.959,
+    "words": [
+      {
+        "text": "OTHERS",
+        "start": 241.411,
+        "end": 241.926
+      },
+      {
+        "text": "HAVE",
+        "start": 241.926,
+        "end": 242.44
+      },
+      {
+        "text": "SUGGESTED",
+        "start": 242.469,
+        "end": 242.969
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "start": 242.969,
+    "end": 243.83,
+    "words": [
+      {
+        "text": "THAT",
+        "start": 242.969,
+        "end": 243.269
+      },
+      {
+        "text": "THEY",
+        "start": 243.269,
+        "end": 243.526
+      },
+      {
+        "text": "WERE",
+        "start": 243.526,
+        "end": 243.84
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "start": 243.84,
+    "end": 244.76,
+    "words": [
+      {
+        "text": "PART",
+        "start": 243.84,
+        "end": 244.169
+      },
+      {
+        "text": "OF",
+        "start": 244.169,
+        "end": 244.354
+      },
+      {
+        "text": "A",
+        "start": 244.354,
+        "end": 244.64
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "start": 244.84,
+    "end": 245.531,
+    "words": [
+      {
+        "text": "DELEGATION.",
+        "start": 244.84,
+        "end": 245.411
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "start": 246.04,
+    "end": 246.903,
+    "words": [
+      {
+        "text": "PEOPLE",
+        "start": 246.04,
+        "end": 246.331
+      },
+      {
+        "text": "SENT",
+        "start": 246.418,
+        "end": 246.615
+      },
+      {
+        "text": "TO",
+        "start": 246.615,
+        "end": 246.811
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "start": 246.913,
+    "end": 247.682,
+    "words": [
+      {
+        "text": "NEGOTIATE",
+        "start": 246.913,
+        "end": 247.204
+      },
+      {
+        "text": "COULD",
+        "start": 247.204,
+        "end": 247.459
+      },
+      {
+        "text": "TRAVEL",
+        "start": 247.459,
+        "end": 247.692
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "start": 247.692,
+    "end": 248.439,
+    "words": [
+      {
+        "text": "WITH",
+        "start": 247.692,
+        "end": 247.925
+      },
+      {
+        "text": "ARMED",
+        "start": 247.925,
+        "end": 248.179
+      },
+      {
+        "text": "GUARDS",
+        "start": 248.179,
+        "end": 248.449
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "start": 248.449,
+    "end": 250.214,
+    "words": [
+      {
+        "text": "AND",
+        "start": 248.449,
+        "end": 248.703
+      },
+      {
+        "text": "COSTLY",
+        "start": 248.703,
+        "end": 248.98
+      },
+      {
+        "text": "POSSESSIONS.",
+        "start": 249.14,
+        "end": 249.431
+      },
+      {
+        "text": "THEY",
+        "start": 249.722,
+        "end": 249.955
+      },
+      {
+        "text": "MIGHT",
+        "start": 249.955,
+        "end": 250.093
+      },
+      {
+        "text": "HAVE",
+        "start": 250.093,
+        "end": 250.224
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "start": 250.224,
+    "end": 251.0,
+    "words": [
+      {
+        "text": "GONE",
+        "start": 250.224,
+        "end": 250.406
+      },
+      {
+        "text": "ASHORE",
+        "start": 250.406,
+        "end": 250.697
+      },
+      {
+        "text": "EXPECTING",
+        "start": 250.741,
+        "end": 251.01
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "start": 251.01,
+    "end": 251.626,
+    "words": [
+      {
+        "text": "TO",
+        "start": 251.01,
+        "end": 251.221
+      },
+      {
+        "text": "DELIVER",
+        "start": 251.221,
+        "end": 251.403
+      },
+      {
+        "text": "A",
+        "start": 251.403,
+        "end": 251.636
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "start": 251.636,
+    "end": 252.353,
+    "words": [
+      {
+        "text": "MESSAGE",
+        "start": 251.636,
+        "end": 251.919
+      },
+      {
+        "text": "OR",
+        "start": 251.919,
+        "end": 252.189
+      },
+      {
+        "text": "MAKE",
+        "start": 252.189,
+        "end": 252.363
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "start": 252.363,
+    "end": 252.942,
+    "words": [
+      {
+        "text": "A",
+        "start": 252.363,
+        "end": 252.545
+      },
+      {
+        "text": "DEAL.",
+        "start": 252.545,
+        "end": 252.822
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "start": 253.04,
+    "end": 254.071,
+    "words": [
+      {
+        "text": "EITHER",
+        "start": 253.04,
+        "end": 253.547
+      },
+      {
+        "text": "KIND",
+        "start": 253.547,
+        "end": 253.86
+      },
+      {
+        "text": "OF",
+        "start": 253.86,
+        "end": 254.081
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "start": 254.081,
+    "end": 255.164,
+    "words": [
+      {
+        "text": "JOURNEY",
+        "start": 254.081,
+        "end": 254.445
+      },
+      {
+        "text": "COULD",
+        "start": 254.445,
+        "end": 254.836
+      },
+      {
+        "text": "HAVE",
+        "start": 254.836,
+        "end": 255.174
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "start": 255.174,
+    "end": 256.023,
+    "words": [
+      {
+        "text": "ENDED",
+        "start": 255.174,
+        "end": 255.525
+      },
+      {
+        "text": "IN",
+        "start": 255.525,
+        "end": 255.785
+      },
+      {
+        "text": "A",
+        "start": 255.785,
+        "end": 256.033
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "start": 256.033,
+    "end": 256.595,
+    "words": [
+      {
+        "text": "FIGHT.",
+        "start": 256.033,
+        "end": 256.475
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "start": 256.735,
+    "end": 257.961,
+    "words": [
+      {
+        "text": "THE",
+        "start": 256.735,
+        "end": 257.256
+      },
+      {
+        "text": "BONES",
+        "start": 257.256,
+        "end": 257.672
+      },
+      {
+        "text": "GIVE",
+        "start": 257.672,
+        "end": 257.971
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "start": 257.971,
+    "end": 258.833,
+    "words": [
+      {
+        "text": "US",
+        "start": 257.971,
+        "end": 258.218
+      },
+      {
+        "text": "A",
+        "start": 258.218,
+        "end": 258.518
+      },
+      {
+        "text": "GLIMPSE",
+        "start": 258.518,
+        "end": 258.843
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "start": 258.843,
+    "end": 260.03,
+    "words": [
+      {
+        "text": "OF",
+        "start": 258.843,
+        "end": 259.155
+      },
+      {
+        "text": "THAT",
+        "start": 259.155,
+        "end": 259.533
+      },
+      {
+        "text": "FIGHT.",
+        "start": 259.533,
+        "end": 259.988
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "start": 260.04,
+    "end": 261.031,
+    "words": [
+      {
+        "text": "THE",
+        "start": 260.04,
+        "end": 260.462
+      },
+      {
+        "text": "PURPOSE",
+        "start": 260.462,
+        "end": 260.796
+      },
+      {
+        "text": "OF",
+        "start": 260.796,
+        "end": 261.041
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "start": 261.041,
+    "end": 261.887,
+    "words": [
+      {
+        "text": "THE",
+        "start": 261.041,
+        "end": 261.285
+      },
+      {
+        "text": "VOYAGE",
+        "start": 261.285,
+        "end": 261.596
+      },
+      {
+        "text": "IS",
+        "start": 261.596,
+        "end": 261.897
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "start": 261.897,
+    "end": 262.832,
+    "words": [
+      {
+        "text": "STILL",
+        "start": 261.897,
+        "end": 262.163
+      },
+      {
+        "text": "AN",
+        "start": 262.163,
+        "end": 262.43
+      },
+      {
+        "text": "OPEN",
+        "start": 262.43,
+        "end": 262.775
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "start": 262.842,
+    "end": 263.406,
+    "words": [
+      {
+        "text": "QUESTION.",
+        "start": 262.842,
+        "end": 263.286
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "start": 263.553,
+    "end": 264.532,
+    "words": [
+      {
+        "text": "THE",
+        "start": 263.553,
+        "end": 263.942
+      },
+      {
+        "text": "PLACE",
+        "start": 263.942,
+        "end": 264.231
+      },
+      {
+        "text": "IT",
+        "start": 264.231,
+        "end": 264.542
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "start": 264.542,
+    "end": 265.489,
+    "words": [
+      {
+        "text": "STARTED",
+        "start": 264.542,
+        "end": 264.865
+      },
+      {
+        "text": "WAS",
+        "start": 264.865,
+        "end": 265.187
+      },
+      {
+        "text": "SOMETHING",
+        "start": 265.187,
+        "end": 265.499
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "start": 265.499,
+    "end": 266.745,
+    "words": [
+      {
+        "text": "THE",
+        "start": 265.499,
+        "end": 265.832
+      },
+      {
+        "text": "RESEARCHERS",
+        "start": 265.832,
+        "end": 266.232
+      },
+      {
+        "text": "COULD",
+        "start": 266.232,
+        "end": 266.644
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "start": 266.755,
+    "end": 267.779,
+    "words": [
+      {
+        "text": "INVESTIGATE",
+        "start": 266.755,
+        "end": 267.177
+      },
+      {
+        "text": "IN",
+        "start": 267.177,
+        "end": 267.477
+      },
+      {
+        "text": "THE",
+        "start": 267.477,
+        "end": 267.789
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "start": 267.789,
+    "end": 268.342,
+    "words": [
+      {
+        "text": "LAB.",
+        "start": 267.789,
+        "end": 268.222
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "start": 268.422,
+    "end": 269.48,
+    "words": [
+      {
+        "text": "THEY",
+        "start": 268.422,
+        "end": 268.811
+      },
+      {
+        "text": "NEEDED",
+        "start": 268.811,
+        "end": 269.156
+      },
+      {
+        "text": "SOMETHING",
+        "start": 269.156,
+        "end": 269.49
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "start": 269.49,
+    "end": 270.521,
+    "words": [
+      {
+        "text": "THAT",
+        "start": 269.49,
+        "end": 269.734
+      },
+      {
+        "text": "HAD",
+        "start": 269.734,
+        "end": 270.001
+      },
+      {
+        "text": "FORMED",
+        "start": 270.001,
+        "end": 270.401
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "start": 270.535,
+    "end": 271.989,
+    "words": [
+      {
+        "text": "BEFORE",
+        "start": 270.535,
+        "end": 270.868
+      },
+      {
+        "text": "THE",
+        "start": 270.868,
+        "end": 271.146
+      },
+      {
+        "text": "MEN",
+        "start": 271.146,
+        "end": 271.435
+      },
+      {
+        "text": "SET",
+        "start": 271.435,
+        "end": 271.557
+      },
+      {
+        "text": "OUT.",
+        "start": 271.557,
+        "end": 271.611
+      },
+      {
+        "text": "THE",
+        "start": 271.569,
+        "end": 271.869
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "start": 272.983,
+    "end": 274.43,
+    "words": [
+      {
+        "text": "CLUE",
+        "start": 272.983,
+        "end": 273.554
+      },
+      {
+        "text": "LAY",
+        "start": 273.697,
+        "end": 274.154
+      },
+      {
+        "text": "IN",
+        "start": 274.154,
+        "end": 274.44
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "start": 274.44,
+    "end": 276.03,
+    "words": [
+      {
+        "text": "THE",
+        "start": 274.44,
+        "end": 274.683
+      },
+      {
+        "text": "MEN'S",
+        "start": 274.683,
+        "end": 275.411
+      },
+      {
+        "text": "TEETH.",
+        "start": 275.469,
+        "end": 276.04
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "start": 276.04,
+    "end": 276.938,
+    "words": [
+      {
+        "text": "AS",
+        "start": 276.04,
+        "end": 276.334
+      },
+      {
+        "text": "A",
+        "start": 276.334,
+        "end": 276.574
+      },
+      {
+        "text": "CHILD'S",
+        "start": 276.574,
+        "end": 276.948
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "start": 276.948,
+    "end": 277.944,
+    "words": [
+      {
+        "text": "TEETH",
+        "start": 276.948,
+        "end": 277.251
+      },
+      {
+        "text": "FORM,",
+        "start": 277.286,
+        "end": 277.642
+      },
+      {
+        "text": "THE",
+        "start": 277.66,
+        "end": 277.954
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "start": 277.954,
+    "end": 279.288,
+    "words": [
+      {
+        "text": "ENAMEL",
+        "start": 277.954,
+        "end": 278.355
+      },
+      {
+        "text": "PRESERVES",
+        "start": 278.355,
+        "end": 278.835
+      },
+      {
+        "text": "CHEMICAL",
+        "start": 278.853,
+        "end": 279.209
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "start": 279.298,
+    "end": 279.965,
+    "words": [
+      {
+        "text": "TRACES",
+        "start": 279.298,
+        "end": 279.583
+      },
+      {
+        "text": "OF",
+        "start": 279.583,
+        "end": 279.779
+      },
+      {
+        "text": "THE",
+        "start": 279.779,
+        "end": 279.975
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "start": 279.975,
+    "end": 280.668,
+    "words": [
+      {
+        "text": "FOOD",
+        "start": 279.975,
+        "end": 280.188
+      },
+      {
+        "text": "AND",
+        "start": 280.188,
+        "end": 280.429
+      },
+      {
+        "text": "WATER",
+        "start": 280.429,
+        "end": 280.678
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "start": 280.678,
+    "end": 281.84,
+    "words": [
+      {
+        "text": "THEY",
+        "start": 280.678,
+        "end": 280.874
+      },
+      {
+        "text": "GROW",
+        "start": 280.874,
+        "end": 281.07
+      },
+      {
+        "text": "UP",
+        "start": 281.07,
+        "end": 281.363
+      },
+      {
+        "text": "WITH.",
+        "start": 281.363,
+        "end": 281.72
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "start": 282.04,
+    "end": 283.626,
+    "words": [
+      {
+        "text": "RESEARCHERS",
+        "start": 282.04,
+        "end": 282.513
+      },
+      {
+        "text": "COMPARED",
+        "start": 282.655,
+        "end": 283.127
+      },
+      {
+        "text": "TRACES",
+        "start": 283.222,
+        "end": 283.636
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "start": 283.636,
+    "end": 284.406,
+    "words": [
+      {
+        "text": "IN",
+        "start": 283.636,
+        "end": 283.884
+      },
+      {
+        "text": "THE",
+        "start": 283.884,
+        "end": 284.037
+      },
+      {
+        "text": "MEN'S",
+        "start": 284.037,
+        "end": 284.416
+      }
+    ]
+  },
+  {
+    "id": 262,
+    "start": 284.416,
+    "end": 285.576,
+    "words": [
+      {
+        "text": "TEETH",
+        "start": 284.416,
+        "end": 284.735
+      },
+      {
+        "text": "WITH",
+        "start": 284.735,
+        "end": 285.101
+      },
+      {
+        "text": "MEASUREMENTS",
+        "start": 285.101,
+        "end": 285.538
+      }
+    ]
+  },
+  {
+    "id": 263,
+    "start": 285.586,
+    "end": 287.1,
+    "words": [
+      {
+        "text": "FROM",
+        "start": 285.586,
+        "end": 286.011
+      },
+      {
+        "text": "DIFFERENT",
+        "start": 286.011,
+        "end": 286.437
+      },
+      {
+        "text": "REGIONS.",
+        "start": 286.508,
+        "end": 286.98
+      }
+    ]
+  },
+  {
+    "id": 264,
+    "start": 287.382,
+    "end": 288.542,
+    "words": [
+      {
+        "text": "THAT",
+        "start": 287.382,
+        "end": 287.855
+      },
+      {
+        "text": "EVIDENCE,",
+        "start": 287.949,
+        "end": 288.422
+      }
+    ]
+  },
+  {
+    "id": 265,
+    "start": 288.682,
+    "end": 289.606,
+    "words": [
+      {
+        "text": "ALONG",
+        "start": 288.682,
+        "end": 289.06
+      },
+      {
+        "text": "WITH",
+        "start": 289.06,
+        "end": 289.332
+      },
+      {
+        "text": "THE",
+        "start": 289.332,
+        "end": 289.616
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "start": 289.616,
+    "end": 290.457,
+    "words": [
+      {
+        "text": "OBJECTS",
+        "start": 289.616,
+        "end": 289.935
+      },
+      {
+        "text": "IN",
+        "start": 289.935,
+        "end": 290.171
+      },
+      {
+        "text": "THE",
+        "start": 290.171,
+        "end": 290.467
+      }
+    ]
+  },
+  {
+    "id": 267,
+    "start": 290.467,
+    "end": 291.048,
+    "words": [
+      {
+        "text": "GRAVES,",
+        "start": 290.467,
+        "end": 290.928
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "start": 291.211,
+    "end": 292.673,
+    "words": [
+      {
+        "text": "POINTED",
+        "start": 291.211,
+        "end": 291.754
+      },
+      {
+        "text": "BACK",
+        "start": 291.754,
+        "end": 292.269
+      },
+      {
+        "text": "ACROSS",
+        "start": 292.269,
+        "end": 292.683
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "start": 292.683,
+    "end": 294.373,
+    "words": [
+      {
+        "text": "THE",
+        "start": 292.683,
+        "end": 293.054
+      },
+      {
+        "text": "BALTIC",
+        "start": 293.054,
+        "end": 293.697
+      },
+      {
+        "text": "TOWARDS",
+        "start": 293.754,
+        "end": 294.326
+      }
+    ]
+  },
+  {
+    "id": 270,
+    "start": 294.383,
+    "end": 295.703,
+    "words": [
+      {
+        "text": "CENTRAL",
+        "start": 294.383,
+        "end": 294.954
+      },
+      {
+        "text": "SWEDEN.",
+        "start": 295.011,
+        "end": 295.583
+      }
+    ]
+  },
+  {
+    "id": 271,
+    "start": 296.04,
+    "end": 297.671,
+    "words": [
+      {
+        "text": "THEN",
+        "start": 296.04,
+        "end": 296.567
+      },
+      {
+        "text": "A",
+        "start": 296.567,
+        "end": 297.038
+      },
+      {
+        "text": "DNA",
+        "start": 297.038,
+        "end": 297.551
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "start": 297.694,
+    "end": 299.124,
+    "words": [
+      {
+        "text": "STUDY",
+        "start": 297.694,
+        "end": 298.221
+      },
+      {
+        "text": "FOUND",
+        "start": 298.221,
+        "end": 298.692
+      },
+      {
+        "text": "SOMETHING",
+        "start": 298.692,
+        "end": 299.134
+      }
+    ]
+  },
+  {
+    "id": 273,
+    "start": 299.134,
+    "end": 299.753,
+    "words": [
+      {
+        "text": "MORE",
+        "start": 299.134,
+        "end": 299.633
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "start": 299.975,
+    "end": 300.665,
+    "words": [
+      {
+        "text": "PERSONAL.",
+        "start": 299.975,
+        "end": 300.545
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "start": 300.802,
+    "end": 302.032,
+    "words": [
+      {
+        "text": "IT",
+        "start": 300.802,
+        "end": 301.258
+      },
+      {
+        "text": "SHOWED",
+        "start": 301.258,
+        "end": 301.643
+      },
+      {
+        "text": "HOW",
+        "start": 301.643,
+        "end": 302.042
+      }
+    ]
+  },
+  {
+    "id": 276,
+    "start": 302.042,
+    "end": 303.127,
+    "words": [
+      {
+        "text": "SOME",
+        "start": 302.042,
+        "end": 302.37
+      },
+      {
+        "text": "OF",
+        "start": 302.37,
+        "end": 302.598
+      },
+      {
+        "text": "THE",
+        "start": 302.598,
+        "end": 302.812
+      },
+      {
+        "text": "MEN",
+        "start": 302.812,
+        "end": 303.04
+      },
+      {
+        "text": "WERE",
+        "start": 303.04,
+        "end": 303.097
+      },
+      {
+        "text": "RELATED.",
+        "start": 303.097,
+        "end": 303.137
+      }
+    ]
+  },
+  {
+    "id": 277,
+    "start": 303.137,
+    "end": 305.565,
+    "words": [
+      {
+        "text": "FOUR",
+        "start": 303.137,
+        "end": 303.339
+      },
+      {
+        "text": "MEN",
+        "start": 304.227,
+        "end": 304.509
+      },
+      {
+        "text": "LYING",
+        "start": 304.509,
+        "end": 304.792
+      },
+      {
+        "text": "SIDE-BY-SIDE",
+        "start": 304.84,
+        "end": 305.575
+      }
+    ]
+  },
+  {
+    "id": 278,
+    "start": 305.575,
+    "end": 306.138,
+    "words": [
+      {
+        "text": "IN",
+        "start": 305.575,
+        "end": 305.712
+      },
+      {
+        "text": "THE",
+        "start": 305.712,
+        "end": 305.866
+      },
+      {
+        "text": "LARGER",
+        "start": 305.866,
+        "end": 306.148
+      }
+    ]
+  },
+  {
+    "id": 279,
+    "start": 306.148,
+    "end": 307.205,
+    "words": [
+      {
+        "text": "SHIP",
+        "start": 306.148,
+        "end": 306.415
+      },
+      {
+        "text": "WERE",
+        "start": 306.415,
+        "end": 306.681
+      },
+      {
+        "text": "BROTHERS.",
+        "start": 306.762,
+        "end": 307.085
+      }
+    ]
+  },
+  {
+    "id": 280,
+    "start": 307.537,
+    "end": 308.343,
+    "words": [
+      {
+        "text": "SOMEONE",
+        "start": 307.537,
+        "end": 307.86
+      },
+      {
+        "text": "HAD",
+        "start": 307.86,
+        "end": 308.127
+      },
+      {
+        "text": "BURIED",
+        "start": 308.127,
+        "end": 308.353
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "start": 308.353,
+    "end": 309.272,
+    "words": [
+      {
+        "text": "THEM",
+        "start": 308.353,
+        "end": 308.635
+      },
+      {
+        "text": "TOGETHER.",
+        "start": 308.829,
+        "end": 309.152
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "start": 310.04,
+    "end": 310.944,
+    "words": [
+      {
+        "text": "A",
+        "start": 310.04,
+        "end": 310.345
+      },
+      {
+        "text": "VOYAGE",
+        "start": 310.345,
+        "end": 310.64
+      },
+      {
+        "text": "LIKE",
+        "start": 310.64,
+        "end": 310.954
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "start": 310.954,
+    "end": 311.948,
+    "words": [
+      {
+        "text": "THIS",
+        "start": 310.954,
+        "end": 311.25
+      },
+      {
+        "text": "BEGAN",
+        "start": 311.25,
+        "end": 311.563
+      },
+      {
+        "text": "WELL",
+        "start": 311.563,
+        "end": 311.904
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "start": 311.958,
+    "end": 312.915,
+    "words": [
+      {
+        "text": "BEFORE",
+        "start": 311.958,
+        "end": 312.316
+      },
+      {
+        "text": "ANYONE",
+        "start": 312.334,
+        "end": 312.665
+      },
+      {
+        "text": "TOOK",
+        "start": 312.665,
+        "end": 312.925
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "start": 312.925,
+    "end": 313.798,
+    "words": [
+      {
+        "text": "UP",
+        "start": 312.925,
+        "end": 313.14
+      },
+      {
+        "text": "AN",
+        "start": 313.14,
+        "end": 313.373
+      },
+      {
+        "text": "OAR.",
+        "start": 313.373,
+        "end": 313.678
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "start": 313.839,
+    "end": 314.591,
+    "words": [
+      {
+        "text": "IT",
+        "start": 313.839,
+        "end": 314.117
+      },
+      {
+        "text": "TOOK",
+        "start": 314.117,
+        "end": 314.359
+      },
+      {
+        "text": "PEOPLE",
+        "start": 314.359,
+        "end": 314.601
+      }
+    ]
+  },
+  {
+    "id": 287,
+    "start": 314.601,
+    "end": 315.287,
+    "words": [
+      {
+        "text": "WHO",
+        "start": 314.601,
+        "end": 314.807
+      },
+      {
+        "text": "COULD",
+        "start": 314.807,
+        "end": 315.04
+      },
+      {
+        "text": "SHAPE",
+        "start": 315.04,
+        "end": 315.283
+      }
+    ]
+  },
+  {
+    "id": 288,
+    "start": 315.297,
+    "end": 316.23,
+    "words": [
+      {
+        "text": "TIMBER,",
+        "start": 315.297,
+        "end": 315.583
+      },
+      {
+        "text": "MAKE",
+        "start": 315.697,
+        "end": 315.933
+      },
+      {
+        "text": "FITTINGS",
+        "start": 315.933,
+        "end": 316.24
+      }
+    ]
+  },
+  {
+    "id": 289,
+    "start": 316.24,
+    "end": 317.289,
+    "words": [
+      {
+        "text": "AND",
+        "start": 316.24,
+        "end": 316.44
+      },
+      {
+        "text": "GATHER",
+        "start": 316.44,
+        "end": 316.683
+      },
+      {
+        "text": "SUPPLIES.",
+        "start": 316.883,
+        "end": 317.169
+      }
+    ]
+  },
+  {
+    "id": 290,
+    "start": 317.583,
+    "end": 318.694,
+    "words": [
+      {
+        "text": "SOMEONE",
+        "start": 317.583,
+        "end": 317.84
+      },
+      {
+        "text": "HAD",
+        "start": 317.84,
+        "end": 318.033
+      },
+      {
+        "text": "TO",
+        "start": 318.033,
+        "end": 318.197
+      },
+      {
+        "text": "STOCK",
+        "start": 318.197,
+        "end": 318.376
+      },
+      {
+        "text": "THE",
+        "start": 318.376,
+        "end": 318.533
+      },
+      {
+        "text": "BOAT",
+        "start": 318.533,
+        "end": 318.704
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "start": 318.704,
+    "end": 319.259,
+    "words": [
+      {
+        "text": "WITH",
+        "start": 318.704,
+        "end": 318.919
+      },
+      {
+        "text": "FOOD",
+        "start": 318.919,
+        "end": 319.09
+      },
+      {
+        "text": "AND",
+        "start": 319.09,
+        "end": 319.269
+      }
+    ]
+  },
+  {
+    "id": 292,
+    "start": 319.269,
+    "end": 319.859,
+    "words": [
+      {
+        "text": "EQUIPMENT",
+        "start": 319.269,
+        "end": 319.504
+      },
+      {
+        "text": "FOR",
+        "start": 319.504,
+        "end": 319.697
+      },
+      {
+        "text": "A",
+        "start": 319.697,
+        "end": 319.869
+      }
+    ]
+  },
+  {
+    "id": 293,
+    "start": 319.869,
+    "end": 320.56,
+    "words": [
+      {
+        "text": "LONG",
+        "start": 319.869,
+        "end": 320.111
+      },
+      {
+        "text": "CROSSING.",
+        "start": 320.154,
+        "end": 320.44
+      }
+    ]
+  },
+  {
+    "id": 294,
+    "start": 320.854,
+    "end": 321.709,
+    "words": [
+      {
+        "text": "ONCE",
+        "start": 320.854,
+        "end": 321.083
+      },
+      {
+        "text": "AFLOAT,",
+        "start": 321.083,
+        "end": 321.426
+      },
+      {
+        "text": "IT",
+        "start": 321.483,
+        "end": 321.719
+      }
+    ]
+  },
+  {
+    "id": 295,
+    "start": 321.719,
+    "end": 322.941,
+    "words": [
+      {
+        "text": "DEPENDED",
+        "start": 321.719,
+        "end": 321.99
+      },
+      {
+        "text": "ON",
+        "start": 321.99,
+        "end": 322.197
+      },
+      {
+        "text": "PEOPLE",
+        "start": 322.197,
+        "end": 322.418
+      },
+      {
+        "text": "WHO",
+        "start": 322.418,
+        "end": 322.602
+      },
+      {
+        "text": "KNEW",
+        "start": 322.602,
+        "end": 322.767
+      },
+      {
+        "text": "HOW",
+        "start": 322.767,
+        "end": 322.951
+      }
+    ]
+  },
+  {
+    "id": 296,
+    "start": 322.951,
+    "end": 323.842,
+    "words": [
+      {
+        "text": "TO",
+        "start": 322.951,
+        "end": 323.246
+      },
+      {
+        "text": "SAIL,",
+        "start": 323.246,
+        "end": 323.595
+      },
+      {
+        "text": "HOW",
+        "start": 323.595,
+        "end": 323.852
+      }
+    ]
+  },
+  {
+    "id": 297,
+    "start": 323.852,
+    "end": 324.679,
+    "words": [
+      {
+        "text": "TO",
+        "start": 323.852,
+        "end": 324.11
+      },
+      {
+        "text": "ROW,",
+        "start": 324.11,
+        "end": 324.441
+      },
+      {
+        "text": "AND",
+        "start": 324.441,
+        "end": 324.689
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "start": 324.689,
+    "end": 325.516,
+    "words": [
+      {
+        "text": "WHEN",
+        "start": 324.689,
+        "end": 324.873
+      },
+      {
+        "text": "TO",
+        "start": 324.873,
+        "end": 325.149
+      },
+      {
+        "text": "LAND.",
+        "start": 325.149,
+        "end": 325.508
+      }
+    ]
+  },
+  {
+    "id": 299,
+    "start": 325.526,
+    "end": 326.555,
+    "words": [
+      {
+        "text": "TO",
+        "start": 325.526,
+        "end": 325.894
+      },
+      {
+        "text": "SEE",
+        "start": 326.023,
+        "end": 326.326
+      },
+      {
+        "text": "HOW",
+        "start": 326.326,
+        "end": 326.565
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "start": 326.565,
+    "end": 327.346,
+    "words": [
+      {
+        "text": "FAR",
+        "start": 326.565,
+        "end": 326.804
+      },
+      {
+        "text": "THOSE",
+        "start": 326.804,
+        "end": 327.062
+      },
+      {
+        "text": "CREWS",
+        "start": 327.062,
+        "end": 327.356
+      }
+    ]
+  },
+  {
+    "id": 301,
+    "start": 327.356,
+    "end": 328.659,
+    "words": [
+      {
+        "text": "COULD",
+        "start": 327.356,
+        "end": 327.696
+      },
+      {
+        "text": "GO,",
+        "start": 327.733,
+        "end": 328.101
+      },
+      {
+        "text": "START",
+        "start": 328.211,
+        "end": 328.669
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "start": 328.669,
+    "end": 329.544,
+    "words": [
+      {
+        "text": "WITH",
+        "start": 328.669,
+        "end": 328.954
+      },
+      {
+        "text": "WHAT",
+        "start": 328.954,
+        "end": 329.24
+      },
+      {
+        "text": "THE",
+        "start": 329.24,
+        "end": 329.554
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "start": 329.554,
+    "end": 331.789,
+    "words": [
+      {
+        "text": "SHIPBUILDERS",
+        "start": 329.554,
+        "end": 330.511
+      },
+      {
+        "text": "LEFT",
+        "start": 330.511,
+        "end": 330.983
+      },
+      {
+        "text": "BEHIND.",
+        "start": 331.097,
+        "end": 331.669
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "start": 332.04,
+    "end": 333.172,
+    "words": [
+      {
+        "text": "TAKE",
+        "start": 332.04,
+        "end": 332.348
+      },
+      {
+        "text": "A",
+        "start": 332.348,
+        "end": 332.655
+      },
+      {
+        "text": "PLANK.",
+        "start": 332.655,
+        "end": 333.052
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "start": 333.668,
+    "end": 334.908,
+    "words": [
+      {
+        "text": "LAY",
+        "start": 333.668,
+        "end": 334.005
+      },
+      {
+        "text": "THE",
+        "start": 334.005,
+        "end": 334.214
+      },
+      {
+        "text": "EDGE",
+        "start": 334.214,
+        "end": 334.382
+      },
+      {
+        "text": "OF",
+        "start": 334.382,
+        "end": 334.561
+      },
+      {
+        "text": "THE",
+        "start": 334.561,
+        "end": 334.72
+      },
+      {
+        "text": "NEXT",
+        "start": 334.72,
+        "end": 334.918
+      }
+    ]
+  },
+  {
+    "id": 306,
+    "start": 334.918,
+    "end": 335.722,
+    "words": [
+      {
+        "text": "ONE",
+        "start": 334.918,
+        "end": 335.186
+      },
+      {
+        "text": "OVER",
+        "start": 335.186,
+        "end": 335.464
+      },
+      {
+        "text": "IT",
+        "start": 335.464,
+        "end": 335.732
+      }
+    ]
+  },
+  {
+    "id": 307,
+    "start": 335.732,
+    "end": 336.705,
+    "words": [
+      {
+        "text": "AND",
+        "start": 335.732,
+        "end": 336.04
+      },
+      {
+        "text": "FASTEN",
+        "start": 336.04,
+        "end": 336.383
+      },
+      {
+        "text": "THEM",
+        "start": 336.383,
+        "end": 336.715
+      }
+    ]
+  },
+  {
+    "id": 308,
+    "start": 336.715,
+    "end": 337.805,
+    "words": [
+      {
+        "text": "TOGETHER",
+        "start": 336.715,
+        "end": 337.105
+      },
+      {
+        "text": "WITH",
+        "start": 337.105,
+        "end": 337.46
+      },
+      {
+        "text": "IRON",
+        "start": 337.46,
+        "end": 337.815
+      }
+    ]
+  },
+  {
+    "id": 309,
+    "start": 337.815,
+    "end": 338.586,
+    "words": [
+      {
+        "text": "RIVETS.",
+        "start": 337.815,
+        "end": 338.466
+      }
+    ]
+  },
+  {
+    "id": 310,
+    "start": 338.94,
+    "end": 339.912,
+    "words": [
+      {
+        "text": "REPEAT",
+        "start": 338.94,
+        "end": 339.378
+      },
+      {
+        "text": "THE",
+        "start": 339.378,
+        "end": 339.662
+      },
+      {
+        "text": "JOINT",
+        "start": 339.662,
+        "end": 339.922
+      }
+    ]
+  },
+  {
+    "id": 311,
+    "start": 339.922,
+    "end": 341.119,
+    "words": [
+      {
+        "text": "ALONG",
+        "start": 339.922,
+        "end": 340.301
+      },
+      {
+        "text": "THE",
+        "start": 340.301,
+        "end": 340.632
+      },
+      {
+        "text": "HULL.",
+        "start": 340.632,
+        "end": 340.999
+      }
+    ]
+  },
+  {
+    "id": 312,
+    "start": 341.354,
+    "end": 343.059,
+    "words": [
+      {
+        "text": "THE",
+        "start": 341.354,
+        "end": 341.926
+      },
+      {
+        "text": "OVERLAP",
+        "start": 342.097,
+        "end": 342.64
+      },
+      {
+        "text": "HELPED",
+        "start": 342.64,
+        "end": 343.069
+      }
+    ]
+  },
+  {
+    "id": 313,
+    "start": 343.069,
+    "end": 344.259,
+    "words": [
+      {
+        "text": "MAKE",
+        "start": 343.069,
+        "end": 343.397
+      },
+      {
+        "text": "THE",
+        "start": 343.397,
+        "end": 343.711
+      },
+      {
+        "text": "HULL",
+        "start": 343.711,
+        "end": 344.154
+      }
+    ]
+  },
+  {
+    "id": 314,
+    "start": 344.269,
+    "end": 345.63,
+    "words": [
+      {
+        "text": "STRONG",
+        "start": 344.269,
+        "end": 344.811
+      },
+      {
+        "text": "WHILE",
+        "start": 344.811,
+        "end": 345.269
+      },
+      {
+        "text": "KEEPING",
+        "start": 345.269,
+        "end": 345.64
+      }
+    ]
+  },
+  {
+    "id": 315,
+    "start": 345.64,
+    "end": 346.56,
+    "words": [
+      {
+        "text": "IT",
+        "start": 345.64,
+        "end": 345.983
+      },
+      {
+        "text": "LIGHT.",
+        "start": 345.983,
+        "end": 346.44
+      }
+    ]
+  },
+  {
+    "id": 316,
+    "start": 347.04,
+    "end": 348.228,
+    "words": [
+      {
+        "text": "WITH",
+        "start": 347.04,
+        "end": 347.446
+      },
+      {
+        "text": "RELATIVELY",
+        "start": 347.446,
+        "end": 347.853
+      },
+      {
+        "text": "LITTLE",
+        "start": 347.915,
+        "end": 348.238
+      }
+    ]
+  },
+  {
+    "id": 317,
+    "start": 348.238,
+    "end": 348.801,
+    "words": [
+      {
+        "text": "OF",
+        "start": 348.238,
+        "end": 348.457
+      },
+      {
+        "text": "THE",
+        "start": 348.457,
+        "end": 348.623
+      },
+      {
+        "text": "HULL",
+        "start": 348.623,
+        "end": 348.811
+      }
+    ]
+  },
+  {
+    "id": 318,
+    "start": 348.811,
+    "end": 349.759,
+    "words": [
+      {
+        "text": "BELOW",
+        "start": 348.811,
+        "end": 349.082
+      },
+      {
+        "text": "THE",
+        "start": 349.082,
+        "end": 349.394
+      },
+      {
+        "text": "WATER,",
+        "start": 349.394,
+        "end": 349.769
+      }
+    ]
+  },
+  {
+    "id": 319,
+    "start": 349.769,
+    "end": 350.645,
+    "words": [
+      {
+        "text": "A",
+        "start": 349.769,
+        "end": 350.134
+      },
+      {
+        "text": "SHIP",
+        "start": 350.134,
+        "end": 350.405
+      },
+      {
+        "text": "COULD",
+        "start": 350.405,
+        "end": 350.655
+      }
+    ]
+  },
+  {
+    "id": 320,
+    "start": 350.655,
+    "end": 351.426,
+    "words": [
+      {
+        "text": "COME",
+        "start": 350.655,
+        "end": 350.946
+      },
+      {
+        "text": "CLOSE",
+        "start": 350.946,
+        "end": 351.238
+      },
+      {
+        "text": "TO",
+        "start": 351.238,
+        "end": 351.436
+      }
+    ]
+  },
+  {
+    "id": 321,
+    "start": 351.436,
+    "end": 352.343,
+    "words": [
+      {
+        "text": "A",
+        "start": 351.436,
+        "end": 351.686
+      },
+      {
+        "text": "BEACH",
+        "start": 351.686,
+        "end": 352.03
+      },
+      {
+        "text": "OR",
+        "start": 352.03,
+        "end": 352.353
+      }
+    ]
+  },
+  {
+    "id": 322,
+    "start": 352.353,
+    "end": 353.702,
+    "words": [
+      {
+        "text": "ENTER",
+        "start": 352.353,
+        "end": 352.644
+      },
+      {
+        "text": "A",
+        "start": 352.644,
+        "end": 352.894
+      },
+      {
+        "text": "SHALLOW",
+        "start": 352.894,
+        "end": 353.196
+      },
+      {
+        "text": "RIVER.",
+        "start": 353.196,
+        "end": 353.582
+      }
+    ]
+  },
+  {
+    "id": 323,
+    "start": 354.04,
+    "end": 355.381,
+    "words": [
+      {
+        "text": "ON",
+        "start": 354.04,
+        "end": 354.451
+      },
+      {
+        "text": "OPEN",
+        "start": 354.451,
+        "end": 354.862
+      },
+      {
+        "text": "WATER,",
+        "start": 354.933,
+        "end": 355.391
+      }
+    ]
+  },
+  {
+    "id": 324,
+    "start": 355.391,
+    "end": 356.449,
+    "words": [
+      {
+        "text": "THE",
+        "start": 355.391,
+        "end": 355.79
+      },
+      {
+        "text": "SAIL",
+        "start": 355.79,
+        "end": 356.154
+      },
+      {
+        "text": "DID",
+        "start": 356.154,
+        "end": 356.459
+      }
+    ]
+  },
+  {
+    "id": 325,
+    "start": 356.459,
+    "end": 357.66,
+    "words": [
+      {
+        "text": "MUCH",
+        "start": 356.459,
+        "end": 356.741
+      },
+      {
+        "text": "OF",
+        "start": 356.741,
+        "end": 356.941
+      },
+      {
+        "text": "THE",
+        "start": 356.941,
+        "end": 357.141
+      },
+      {
+        "text": "WORK.",
+        "start": 357.141,
+        "end": 357.54
+      }
+    ]
+  },
+  {
+    "id": 326,
+    "start": 357.775,
+    "end": 358.986,
+    "words": [
+      {
+        "text": "THE",
+        "start": 357.775,
+        "end": 358.221
+      },
+      {
+        "text": "WIND",
+        "start": 358.221,
+        "end": 358.632
+      },
+      {
+        "text": "COULD",
+        "start": 358.632,
+        "end": 358.996
+      }
+    ]
+  },
+  {
+    "id": 327,
+    "start": 358.996,
+    "end": 359.973,
+    "words": [
+      {
+        "text": "SPARE",
+        "start": 358.996,
+        "end": 359.325
+      },
+      {
+        "text": "THE",
+        "start": 359.325,
+        "end": 359.572
+      },
+      {
+        "text": "ROWERS",
+        "start": 359.572,
+        "end": 359.983
+      }
+    ]
+  },
+  {
+    "id": 328,
+    "start": 359.983,
+    "end": 361.58,
+    "words": [
+      {
+        "text": "SOME",
+        "start": 359.983,
+        "end": 360.359
+      },
+      {
+        "text": "EFFORT.",
+        "start": 360.359,
+        "end": 360.805
+      },
+      {
+        "text": "WHEN",
+        "start": 361.04,
+        "end": 361.247
+      },
+      {
+        "text": "THE",
+        "start": 361.247,
+        "end": 361.383
+      },
+      {
+        "text": "WIND",
+        "start": 361.383,
+        "end": 361.59
+      }
+    ]
+  },
+  {
+    "id": 329,
+    "start": 361.59,
+    "end": 362.987,
+    "words": [
+      {
+        "text": "DROPPED,",
+        "start": 361.59,
+        "end": 361.869
+      },
+      {
+        "text": "ROWERS",
+        "start": 361.969,
+        "end": 362.304
+      },
+      {
+        "text": "COULD",
+        "start": 362.304,
+        "end": 362.476
+      },
+      {
+        "text": "KEEP",
+        "start": 362.476,
+        "end": 362.611
+      },
+      {
+        "text": "THE",
+        "start": 362.611,
+        "end": 362.74
+      },
+      {
+        "text": "SHIP",
+        "start": 362.74,
+        "end": 362.954
+      }
+    ]
+  },
+  {
+    "id": 330,
+    "start": 362.997,
+    "end": 364.33,
+    "words": [
+      {
+        "text": "MOVING.",
+        "start": 362.997,
+        "end": 363.283
+      },
+      {
+        "text": "OARS",
+        "start": 363.597,
+        "end": 363.969
+      },
+      {
+        "text": "HELPED",
+        "start": 363.969,
+        "end": 364.183
+      },
+      {
+        "text": "THE",
+        "start": 364.183,
+        "end": 364.34
+      }
+    ]
+  },
+  {
+    "id": 331,
+    "start": 364.34,
+    "end": 365.059,
+    "words": [
+      {
+        "text": "CREW",
+        "start": 364.34,
+        "end": 364.561
+      },
+      {
+        "text": "STEER",
+        "start": 364.561,
+        "end": 364.819
+      },
+      {
+        "text": "THROUGH",
+        "start": 364.819,
+        "end": 365.069
+      }
+    ]
+  },
+  {
+    "id": 332,
+    "start": 365.069,
+    "end": 365.817,
+    "words": [
+      {
+        "text": "NARROW",
+        "start": 365.069,
+        "end": 365.34
+      },
+      {
+        "text": "WATER.",
+        "start": 365.411,
+        "end": 365.697
+      }
+    ]
+  },
+  {
+    "id": 333,
+    "start": 365.94,
+    "end": 366.837,
+    "words": [
+      {
+        "text": "BUILDERS",
+        "start": 365.94,
+        "end": 366.361
+      },
+      {
+        "text": "ADAPTED",
+        "start": 366.361,
+        "end": 366.626
+      },
+      {
+        "text": "THE",
+        "start": 366.626,
+        "end": 366.847
+      }
+    ]
+  },
+  {
+    "id": 334,
+    "start": 366.847,
+    "end": 367.437,
+    "words": [
+      {
+        "text": "SAME",
+        "start": 366.847,
+        "end": 367.026
+      },
+      {
+        "text": "METHOD",
+        "start": 367.026,
+        "end": 367.219
+      },
+      {
+        "text": "FOR",
+        "start": 367.219,
+        "end": 367.447
+      }
+    ]
+  },
+  {
+    "id": 335,
+    "start": 367.447,
+    "end": 368.131,
+    "words": [
+      {
+        "text": "DIFFERENT",
+        "start": 367.447,
+        "end": 367.726
+      },
+      {
+        "text": "JOBS.",
+        "start": 367.726,
+        "end": 368.011
+      }
+    ]
+  },
+  {
+    "id": 336,
+    "start": 368.283,
+    "end": 369.833,
+    "words": [
+      {
+        "text": "A",
+        "start": 368.283,
+        "end": 368.749
+      },
+      {
+        "text": "LONG",
+        "start": 368.749,
+        "end": 369.214
+      },
+      {
+        "text": "NARROW",
+        "start": 369.29,
+        "end": 369.793
+      }
+    ]
+  },
+  {
+    "id": 337,
+    "start": 369.843,
+    "end": 371.016,
+    "words": [
+      {
+        "text": "WARSHIP",
+        "start": 369.843,
+        "end": 370.309
+      },
+      {
+        "text": "HAD",
+        "start": 370.309,
+        "end": 370.674
+      },
+      {
+        "text": "ROOM",
+        "start": 370.674,
+        "end": 371.026
+      }
+    ]
+  },
+  {
+    "id": 338,
+    "start": 371.026,
+    "end": 372.149,
+    "words": [
+      {
+        "text": "FOR",
+        "start": 371.026,
+        "end": 371.429
+      },
+      {
+        "text": "ROWS",
+        "start": 371.429,
+        "end": 371.769
+      },
+      {
+        "text": "OF",
+        "start": 371.769,
+        "end": 372.159
+      }
+    ]
+  },
+  {
+    "id": 339,
+    "start": 372.159,
+    "end": 372.782,
+    "words": [
+      {
+        "text": "OARS.",
+        "start": 372.159,
+        "end": 372.662
+      }
+    ]
+  },
+  {
+    "id": 340,
+    "start": 373.04,
+    "end": 374.235,
+    "words": [
+      {
+        "text": "A",
+        "start": 373.04,
+        "end": 373.423
+      },
+      {
+        "text": "BROADER",
+        "start": 373.423,
+        "end": 373.807
+      },
+      {
+        "text": "CARGO",
+        "start": 373.851,
+        "end": 374.245
+      }
+    ]
+  },
+  {
+    "id": 341,
+    "start": 374.245,
+    "end": 375.167,
+    "words": [
+      {
+        "text": "SHIP",
+        "start": 374.245,
+        "end": 374.596
+      },
+      {
+        "text": "HAD",
+        "start": 374.596,
+        "end": 374.903
+      },
+      {
+        "text": "SPACE",
+        "start": 374.903,
+        "end": 375.177
+      }
+    ]
+  },
+  {
+    "id": 342,
+    "start": 375.177,
+    "end": 376.372,
+    "words": [
+      {
+        "text": "FOR",
+        "start": 375.177,
+        "end": 375.527
+      },
+      {
+        "text": "GOODS",
+        "start": 375.527,
+        "end": 375.955
+      },
+      {
+        "text": "WITH",
+        "start": 376.02,
+        "end": 376.382
+      }
+    ]
+  },
+  {
+    "id": 343,
+    "start": 376.382,
+    "end": 377.402,
+    "words": [
+      {
+        "text": "ROOM",
+        "start": 376.382,
+        "end": 376.667
+      },
+      {
+        "text": "FOR",
+        "start": 376.667,
+        "end": 376.963
+      },
+      {
+        "text": "BUNDLES",
+        "start": 376.963,
+        "end": 377.412
+      }
+    ]
+  },
+  {
+    "id": 344,
+    "start": 377.412,
+    "end": 378.509,
+    "words": [
+      {
+        "text": "AND",
+        "start": 377.412,
+        "end": 377.773
+      },
+      {
+        "text": "CONTAINERS",
+        "start": 377.773,
+        "end": 378.212
+      },
+      {
+        "text": "THAT",
+        "start": 378.212,
+        "end": 378.519
+      }
+    ]
+  },
+  {
+    "id": 345,
+    "start": 378.519,
+    "end": 379.265,
+    "words": [
+      {
+        "text": "COULD",
+        "start": 378.519,
+        "end": 378.727
+      },
+      {
+        "text": "BE",
+        "start": 378.727,
+        "end": 378.979
+      },
+      {
+        "text": "CARRIED",
+        "start": 378.979,
+        "end": 379.275
+      }
+    ]
+  },
+  {
+    "id": 346,
+    "start": 379.275,
+    "end": 380.633,
+    "words": [
+      {
+        "text": "FROM",
+        "start": 379.275,
+        "end": 379.603
+      },
+      {
+        "text": "PORT",
+        "start": 379.603,
+        "end": 379.866
+      },
+      {
+        "text": "TO",
+        "start": 379.866,
+        "end": 380.129
+      },
+      {
+        "text": "PORT.",
+        "start": 380.129,
+        "end": 380.513
+      }
+    ]
+  },
+  {
+    "id": 347,
+    "start": 380.929,
+    "end": 382.167,
+    "words": [
+      {
+        "text": "THAT",
+        "start": 380.929,
+        "end": 381.302
+      },
+      {
+        "text": "GAVE",
+        "start": 381.302,
+        "end": 381.641
+      },
+      {
+        "text": "CREWS",
+        "start": 381.641,
+        "end": 382.047
+      }
+    ]
+  },
+  {
+    "id": 348,
+    "start": 382.222,
+    "end": 383.067,
+    "words": [
+      {
+        "text": "CHOICES",
+        "start": 382.222,
+        "end": 382.605
+      },
+      {
+        "text": "WHEN",
+        "start": 382.605,
+        "end": 382.847
+      },
+      {
+        "text": "THEY",
+        "start": 382.847,
+        "end": 383.077
+      }
+    ]
+  },
+  {
+    "id": 349,
+    "start": 383.077,
+    "end": 384.316,
+    "words": [
+      {
+        "text": "REACHED",
+        "start": 383.077,
+        "end": 383.34
+      },
+      {
+        "text": "A",
+        "start": 383.34,
+        "end": 383.493
+      },
+      {
+        "text": "NEW",
+        "start": 383.493,
+        "end": 383.756
+      },
+      {
+        "text": "COAST.",
+        "start": 383.866,
+        "end": 384.304
+      }
+    ]
+  },
+  {
+    "id": 350,
+    "start": 384.326,
+    "end": 385.93,
+    "words": [
+      {
+        "text": "A",
+        "start": 384.326,
+        "end": 384.897
+      },
+      {
+        "text": "BEACH",
+        "start": 385.126,
+        "end": 385.583
+      },
+      {
+        "text": "COULD",
+        "start": 385.583,
+        "end": 385.94
+      }
+    ]
+  },
+  {
+    "id": 351,
+    "start": 385.94,
+    "end": 387.16,
+    "words": [
+      {
+        "text": "BECOME",
+        "start": 385.94,
+        "end": 386.311
+      },
+      {
+        "text": "A",
+        "start": 386.311,
+        "end": 386.626
+      },
+      {
+        "text": "LANDING",
+        "start": 386.626,
+        "end": 387.04
+      }
+    ]
+  },
+  {
+    "id": 352,
+    "start": 387.354,
+    "end": 388.03,
+    "words": [
+      {
+        "text": "PLACE.",
+        "start": 387.354,
+        "end": 387.926
+      }
+    ]
+  },
+  {
+    "id": 353,
+    "start": 388.04,
+    "end": 389.171,
+    "words": [
+      {
+        "text": "A",
+        "start": 388.04,
+        "end": 388.308
+      },
+      {
+        "text": "RIVER",
+        "start": 388.308,
+        "end": 388.524
+      },
+      {
+        "text": "MOUTH",
+        "start": 388.524,
+        "end": 388.74
+      },
+      {
+        "text": "COULD",
+        "start": 388.74,
+        "end": 388.896
+      },
+      {
+        "text": "BE",
+        "start": 388.896,
+        "end": 389.034
+      },
+      {
+        "text": "THE",
+        "start": 389.034,
+        "end": 389.181
+      }
+    ]
+  },
+  {
+    "id": 354,
+    "start": 389.181,
+    "end": 390.891,
+    "words": [
+      {
+        "text": "WAY",
+        "start": 389.181,
+        "end": 389.345
+      },
+      {
+        "text": "TO",
+        "start": 389.345,
+        "end": 389.509
+      },
+      {
+        "text": "A",
+        "start": 389.509,
+        "end": 389.682
+      },
+      {
+        "text": "MARKET",
+        "start": 389.682,
+        "end": 389.959
+      },
+      {
+        "text": "DEEP",
+        "start": 390.028,
+        "end": 390.373
+      },
+      {
+        "text": "INLAND.",
+        "start": 390.425,
+        "end": 390.771
+      }
+    ]
+  },
+  {
+    "id": 355,
+    "start": 391.03,
+    "end": 392.083,
+    "words": [
+      {
+        "text": "AT",
+        "start": 391.03,
+        "end": 391.315
+      },
+      {
+        "text": "THAT",
+        "start": 391.315,
+        "end": 391.6
+      },
+      {
+        "text": "MARKET,",
+        "start": 391.618,
+        "end": 391.963
+      }
+    ]
+  },
+  {
+    "id": 356,
+    "start": 392.102,
+    "end": 392.887,
+    "words": [
+      {
+        "text": "CARGO",
+        "start": 392.102,
+        "end": 392.396
+      },
+      {
+        "text": "COULD",
+        "start": 392.396,
+        "end": 392.655
+      },
+      {
+        "text": "PASS",
+        "start": 392.655,
+        "end": 392.897
+      }
+    ]
+  },
+  {
+    "id": 357,
+    "start": 392.897,
+    "end": 393.699,
+    "words": [
+      {
+        "text": "TO",
+        "start": 392.897,
+        "end": 393.096
+      },
+      {
+        "text": "ANOTHER",
+        "start": 393.096,
+        "end": 393.363
+      },
+      {
+        "text": "BOAT",
+        "start": 393.381,
+        "end": 393.709
+      }
+    ]
+  },
+  {
+    "id": 358,
+    "start": 393.709,
+    "end": 394.814,
+    "words": [
+      {
+        "text": "OR",
+        "start": 393.709,
+        "end": 394.02
+      },
+      {
+        "text": "ANOTHER",
+        "start": 394.02,
+        "end": 394.349
+      },
+      {
+        "text": "TRADER.",
+        "start": 394.349,
+        "end": 394.694
+      }
+    ]
+  },
+  {
+    "id": 359,
+    "start": 395.04,
+    "end": 395.9,
+    "words": [
+      {
+        "text": "SOME",
+        "start": 395.04,
+        "end": 395.347
+      },
+      {
+        "text": "CREWS",
+        "start": 395.347,
+        "end": 395.645
+      },
+      {
+        "text": "FOLLOWED",
+        "start": 395.645,
+        "end": 395.91
+      }
+    ]
+  },
+  {
+    "id": 360,
+    "start": 395.91,
+    "end": 396.853,
+    "words": [
+      {
+        "text": "THE",
+        "start": 395.91,
+        "end": 396.117
+      },
+      {
+        "text": "VOLGA",
+        "start": 396.117,
+        "end": 396.457
+      },
+      {
+        "text": "TOWARDS",
+        "start": 396.457,
+        "end": 396.764
+      }
+    ]
+  },
+  {
+    "id": 361,
+    "start": 396.863,
+    "end": 397.516,
+    "words": [
+      {
+        "text": "MARKETS",
+        "start": 396.863,
+        "end": 397.17
+      },
+      {
+        "text": "TIED",
+        "start": 397.17,
+        "end": 397.394
+      },
+      {
+        "text": "TO",
+        "start": 397.394,
+        "end": 397.526
+      }
+    ]
+  },
+  {
+    "id": 362,
+    "start": 397.526,
+    "end": 398.594,
+    "words": [
+      {
+        "text": "THE",
+        "start": 397.526,
+        "end": 397.717
+      },
+      {
+        "text": "ISLAMIC",
+        "start": 397.717,
+        "end": 398.023
+      },
+      {
+        "text": "WORLD,",
+        "start": 398.222,
+        "end": 398.554
+      }
+    ]
+  },
+  {
+    "id": 363,
+    "start": 398.604,
+    "end": 399.754,
+    "words": [
+      {
+        "text": "TRAVELING",
+        "start": 398.604,
+        "end": 399.159
+      },
+      {
+        "text": "FAR",
+        "start": 399.159,
+        "end": 399.449
+      },
+      {
+        "text": "BEYOND",
+        "start": 399.465,
+        "end": 399.764
+      }
+    ]
+  },
+  {
+    "id": 364,
+    "start": 399.764,
+    "end": 400.779,
+    "words": [
+      {
+        "text": "THE",
+        "start": 399.764,
+        "end": 399.963
+      },
+      {
+        "text": "BALTIC",
+        "start": 399.963,
+        "end": 400.327
+      },
+      {
+        "text": "COAST.",
+        "start": 400.327,
+        "end": 400.659
+      }
+    ]
+  },
+  {
+    "id": 365,
+    "start": 401.04,
+    "end": 401.997,
+    "words": [
+      {
+        "text": "OTHERS",
+        "start": 401.04,
+        "end": 401.469
+      },
+      {
+        "text": "TOOK",
+        "start": 401.469,
+        "end": 401.762
+      },
+      {
+        "text": "THE",
+        "start": 401.762,
+        "end": 402.007
+      }
+    ]
+  },
+  {
+    "id": 366,
+    "start": 402.007,
+    "end": 403.197,
+    "words": [
+      {
+        "text": "DNIEPER",
+        "start": 402.007,
+        "end": 402.607
+      },
+      {
+        "text": "SOUTH",
+        "start": 402.632,
+        "end": 403.024
+      },
+      {
+        "text": "TO",
+        "start": 403.024,
+        "end": 403.207
+      }
+    ]
+  },
+  {
+    "id": 367,
+    "start": 403.207,
+    "end": 404.336,
+    "words": [
+      {
+        "text": "THE",
+        "start": 403.207,
+        "end": 403.428
+      },
+      {
+        "text": "BLACK",
+        "start": 403.428,
+        "end": 403.844
+      },
+      {
+        "text": "SEA",
+        "start": 403.844,
+        "end": 404.322
+      }
+    ]
+  },
+  {
+    "id": 368,
+    "start": 404.346,
+    "end": 405.438,
+    "words": [
+      {
+        "text": "AND",
+        "start": 404.346,
+        "end": 404.75
+      },
+      {
+        "text": "ON",
+        "start": 404.75,
+        "end": 405.056
+      },
+      {
+        "text": "TO",
+        "start": 405.056,
+        "end": 405.448
+      }
+    ]
+  },
+  {
+    "id": 369,
+    "start": 405.448,
+    "end": 406.744,
+    "words": [
+      {
+        "text": "CONSTANTINOPLE.",
+        "start": 405.448,
+        "end": 406.624
+      }
+    ]
+  },
+  {
+    "id": 370,
+    "start": 407.04,
+    "end": 408.122,
+    "words": [
+      {
+        "text": "FURS",
+        "start": 407.04,
+        "end": 407.535
+      },
+      {
+        "text": "AND",
+        "start": 407.535,
+        "end": 407.792
+      },
+      {
+        "text": "AMBER",
+        "start": 407.792,
+        "end": 408.132
+      }
+    ]
+  },
+  {
+    "id": 371,
+    "start": 408.132,
+    "end": 409.527,
+    "words": [
+      {
+        "text": "MOVED",
+        "start": 408.132,
+        "end": 408.444
+      },
+      {
+        "text": "THROUGH",
+        "start": 408.444,
+        "end": 408.691
+      },
+      {
+        "text": "THESE",
+        "start": 408.691,
+        "end": 408.985
+      },
+      {
+        "text": "NETWORKS.",
+        "start": 409.04,
+        "end": 409.407
+      }
+    ]
+  },
+  {
+    "id": 372,
+    "start": 409.957,
+    "end": 411.461,
+    "words": [
+      {
+        "text": "SILVER",
+        "start": 409.957,
+        "end": 410.324
+      },
+      {
+        "text": "REACHED",
+        "start": 410.416,
+        "end": 410.783
+      },
+      {
+        "text": "SCANDINAVIA",
+        "start": 410.783,
+        "end": 411.471
+      }
+    ]
+  },
+  {
+    "id": 373,
+    "start": 411.471,
+    "end": 412.369,
+    "words": [
+      {
+        "text": "IN",
+        "start": 411.471,
+        "end": 411.737
+      },
+      {
+        "text": "COINS",
+        "start": 411.737,
+        "end": 412.068
+      },
+      {
+        "text": "CALLED",
+        "start": 412.068,
+        "end": 412.379
+      }
+    ]
+  },
+  {
+    "id": 374,
+    "start": 412.379,
+    "end": 413.03,
+    "words": [
+      {
+        "text": "DIRHAMS.",
+        "start": 412.379,
+        "end": 413.04
+      }
+    ]
+  },
+  {
+    "id": 375,
+    "start": 413.04,
+    "end": 414.233,
+    "words": [
+      {
+        "text": "TRADERS",
+        "start": 413.04,
+        "end": 413.812
+      },
+      {
+        "text": "COULD",
+        "start": 413.812,
+        "end": 414.027
+      },
+      {
+        "text": "WEIGH",
+        "start": 414.027,
+        "end": 414.243
+      }
+    ]
+  },
+  {
+    "id": 376,
+    "start": 414.243,
+    "end": 414.951,
+    "words": [
+      {
+        "text": "THE",
+        "start": 414.243,
+        "end": 414.485
+      },
+      {
+        "text": "COINS",
+        "start": 414.485,
+        "end": 414.727
+      },
+      {
+        "text": "AND",
+        "start": 414.727,
+        "end": 414.961
+      }
+    ]
+  },
+  {
+    "id": 377,
+    "start": 414.961,
+    "end": 415.543,
+    "words": [
+      {
+        "text": "TRADE",
+        "start": 414.961,
+        "end": 415.185
+      },
+      {
+        "text": "THEM",
+        "start": 415.185,
+        "end": 415.373
+      },
+      {
+        "text": "FOR",
+        "start": 415.373,
+        "end": 415.553
+      }
+    ]
+  },
+  {
+    "id": 378,
+    "start": 415.553,
+    "end": 416.624,
+    "words": [
+      {
+        "text": "THEIR",
+        "start": 415.553,
+        "end": 415.768
+      },
+      {
+        "text": "SILVER",
+        "start": 415.768,
+        "end": 416.055
+      },
+      {
+        "text": "VALUE.",
+        "start": 416.145,
+        "end": 416.504
+      }
+    ]
+  },
+  {
+    "id": 379,
+    "start": 416.845,
+    "end": 417.966,
+    "words": [
+      {
+        "text": "AN",
+        "start": 416.845,
+        "end": 417.204
+      },
+      {
+        "text": "UNFAMILIAR",
+        "start": 417.204,
+        "end": 417.563
+      },
+      {
+        "text": "COIN",
+        "start": 417.671,
+        "end": 417.976
+      }
+    ]
+  },
+  {
+    "id": 380,
+    "start": 417.976,
+    "end": 418.657,
+    "words": [
+      {
+        "text": "COULD",
+        "start": 417.976,
+        "end": 418.227
+      },
+      {
+        "text": "STILL",
+        "start": 418.227,
+        "end": 418.469
+      },
+      {
+        "text": "BE",
+        "start": 418.469,
+        "end": 418.667
+      }
+    ]
+  },
+  {
+    "id": 381,
+    "start": 418.667,
+    "end": 419.258,
+    "words": [
+      {
+        "text": "WORTH",
+        "start": 418.667,
+        "end": 418.855
+      },
+      {
+        "text": "ITS",
+        "start": 418.855,
+        "end": 419.053
+      },
+      {
+        "text": "WEIGHT",
+        "start": 419.053,
+        "end": 419.268
+      }
+    ]
+  },
+  {
+    "id": 382,
+    "start": 419.268,
+    "end": 419.945,
+    "words": [
+      {
+        "text": "IN",
+        "start": 419.268,
+        "end": 419.519
+      },
+      {
+        "text": "SILVER.",
+        "start": 419.519,
+        "end": 419.825
+      }
+    ]
+  },
+  {
+    "id": 383,
+    "start": 420.04,
+    "end": 421.417,
+    "words": [
+      {
+        "text": "A",
+        "start": 420.04,
+        "end": 420.486
+      },
+      {
+        "text": "SMALL",
+        "start": 420.486,
+        "end": 420.933
+      },
+      {
+        "text": "BRONZE",
+        "start": 420.957,
+        "end": 421.427
+      }
+    ]
+  },
+  {
+    "id": 384,
+    "start": 421.427,
+    "end": 422.587,
+    "words": [
+      {
+        "text": "BUDDHA",
+        "start": 421.427,
+        "end": 421.898
+      },
+      {
+        "text": "FOUND",
+        "start": 421.946,
+        "end": 422.356
+      },
+      {
+        "text": "ON",
+        "start": 422.356,
+        "end": 422.597
+      }
+    ]
+  },
+  {
+    "id": 385,
+    "start": 422.597,
+    "end": 423.576,
+    "words": [
+      {
+        "text": "THE",
+        "start": 422.597,
+        "end": 422.814
+      },
+      {
+        "text": "SWEDISH",
+        "start": 422.814,
+        "end": 423.2
+      },
+      {
+        "text": "ISLAND",
+        "start": 423.2,
+        "end": 423.586
+      }
+    ]
+  },
+  {
+    "id": 386,
+    "start": 423.586,
+    "end": 424.952,
+    "words": [
+      {
+        "text": "OF",
+        "start": 423.586,
+        "end": 423.876
+      },
+      {
+        "text": "HELGÖ",
+        "start": 423.876,
+        "end": 424.551
+      },
+      {
+        "text": "GIVES",
+        "start": 424.576,
+        "end": 424.962
+      }
+    ]
+  },
+  {
+    "id": 387,
+    "start": 424.962,
+    "end": 425.796,
+    "words": [
+      {
+        "text": "A",
+        "start": 424.962,
+        "end": 425.227
+      },
+      {
+        "text": "SENSE",
+        "start": 425.227,
+        "end": 425.504
+      },
+      {
+        "text": "OF",
+        "start": 425.504,
+        "end": 425.806
+      }
+    ]
+  },
+  {
+    "id": 388,
+    "start": 425.806,
+    "end": 426.773,
+    "words": [
+      {
+        "text": "HOW",
+        "start": 425.806,
+        "end": 426.132
+      },
+      {
+        "text": "FAR",
+        "start": 426.132,
+        "end": 426.445
+      },
+      {
+        "text": "AN",
+        "start": 426.445,
+        "end": 426.783
+      }
+    ]
+  },
+  {
+    "id": 389,
+    "start": 426.783,
+    "end": 428.194,
+    "words": [
+      {
+        "text": "OBJECT",
+        "start": 426.783,
+        "end": 427.157
+      },
+      {
+        "text": "COULD",
+        "start": 427.157,
+        "end": 427.567
+      },
+      {
+        "text": "TRAVEL.",
+        "start": 427.591,
+        "end": 428.074
+      }
+    ]
+  },
+  {
+    "id": 390,
+    "start": 428.411,
+    "end": 429.744,
+    "words": [
+      {
+        "text": "THE",
+        "start": 428.411,
+        "end": 428.897
+      },
+      {
+        "text": "FIGURE",
+        "start": 428.897,
+        "end": 429.283
+      },
+      {
+        "text": "WAS",
+        "start": 429.283,
+        "end": 429.754
+      }
+    ]
+  },
+  {
+    "id": 391,
+    "start": 429.754,
+    "end": 430.916,
+    "words": [
+      {
+        "text": "PROBABLY",
+        "start": 429.754,
+        "end": 430.283
+      },
+      {
+        "text": "MADE",
+        "start": 430.283,
+        "end": 430.654
+      },
+      {
+        "text": "IN",
+        "start": 430.654,
+        "end": 430.926
+      }
+    ]
+  },
+  {
+    "id": 392,
+    "start": 430.926,
+    "end": 432.273,
+    "words": [
+      {
+        "text": "THE",
+        "start": 430.926,
+        "end": 431.169
+      },
+      {
+        "text": "SWAT",
+        "start": 431.169,
+        "end": 431.669
+      },
+      {
+        "text": "VALLEY",
+        "start": 431.754,
+        "end": 432.283
+      }
+    ]
+  },
+  {
+    "id": 393,
+    "start": 432.283,
+    "end": 433.173,
+    "words": [
+      {
+        "text": "IN",
+        "start": 432.283,
+        "end": 432.611
+      },
+      {
+        "text": "WHAT",
+        "start": 432.611,
+        "end": 432.854
+      },
+      {
+        "text": "IS",
+        "start": 432.854,
+        "end": 433.183
+      }
+    ]
+  },
+  {
+    "id": 394,
+    "start": 433.183,
+    "end": 434.417,
+    "words": [
+      {
+        "text": "NOW",
+        "start": 433.183,
+        "end": 433.64
+      },
+      {
+        "text": "PAKISTAN.",
+        "start": 433.726,
+        "end": 434.297
+      }
+    ]
+  },
+  {
+    "id": 395,
+    "start": 435.04,
+    "end": 435.749,
+    "words": [
+      {
+        "text": "IT",
+        "start": 435.04,
+        "end": 435.311
+      },
+      {
+        "text": "COULD",
+        "start": 435.311,
+        "end": 435.488
+      },
+      {
+        "text": "HAVE",
+        "start": 435.488,
+        "end": 435.759
+      }
+    ]
+  },
+  {
+    "id": 396,
+    "start": 435.759,
+    "end": 436.947,
+    "words": [
+      {
+        "text": "CHANGED",
+        "start": 435.759,
+        "end": 436.113
+      },
+      {
+        "text": "HANDS",
+        "start": 436.113,
+        "end": 436.478
+      },
+      {
+        "text": "MANY",
+        "start": 436.478,
+        "end": 436.853
+      }
+    ]
+  },
+  {
+    "id": 397,
+    "start": 436.957,
+    "end": 437.863,
+    "words": [
+      {
+        "text": "TIMES",
+        "start": 436.957,
+        "end": 437.353
+      },
+      {
+        "text": "BEFORE",
+        "start": 437.353,
+        "end": 437.655
+      },
+      {
+        "text": "IT",
+        "start": 437.655,
+        "end": 437.873
+      }
+    ]
+  },
+  {
+    "id": 398,
+    "start": 437.873,
+    "end": 438.551,
+    "words": [
+      {
+        "text": "REACHED",
+        "start": 437.873,
+        "end": 438.092
+      },
+      {
+        "text": "A",
+        "start": 438.092,
+        "end": 438.321
+      },
+      {
+        "text": "HOUSE",
+        "start": 438.321,
+        "end": 438.561
+      }
+    ]
+  },
+  {
+    "id": 399,
+    "start": 438.561,
+    "end": 439.389,
+    "words": [
+      {
+        "text": "IN",
+        "start": 438.561,
+        "end": 438.873
+      },
+      {
+        "text": "SWEDEN.",
+        "start": 438.873,
+        "end": 439.269
+      }
+    ]
+  },
+  {
+    "id": 400,
+    "start": 439.644,
+    "end": 440.738,
+    "words": [
+      {
+        "text": "ITS",
+        "start": 439.644,
+        "end": 439.998
+      },
+      {
+        "text": "ROUTE",
+        "start": 439.998,
+        "end": 440.353
+      },
+      {
+        "text": "IS",
+        "start": 440.353,
+        "end": 440.748
+      }
+    ]
+  },
+  {
+    "id": 401,
+    "start": 440.748,
+    "end": 441.743,
+    "words": [
+      {
+        "text": "STILL",
+        "start": 440.748,
+        "end": 441.144
+      },
+      {
+        "text": "UNKNOWN.",
+        "start": 441.207,
+        "end": 441.623
+      }
+    ]
+  },
+  {
+    "id": 402,
+    "start": 442.04,
+    "end": 443.244,
+    "words": [
+      {
+        "text": "PEOPLE",
+        "start": 442.04,
+        "end": 442.319
+      },
+      {
+        "text": "WERE",
+        "start": 442.319,
+        "end": 442.583
+      },
+      {
+        "text": "FORCED",
+        "start": 442.583,
+        "end": 442.811
+      },
+      {
+        "text": "ALONG",
+        "start": 442.811,
+        "end": 443.026
+      },
+      {
+        "text": "THESE",
+        "start": 443.026,
+        "end": 443.197
+      },
+      {
+        "text": "ROUTES",
+        "start": 443.197,
+        "end": 443.254
+      }
+    ]
+  },
+  {
+    "id": 403,
+    "start": 443.254,
+    "end": 444.98,
+    "words": [
+      {
+        "text": "TOO.",
+        "start": 443.254,
+        "end": 443.283
+      },
+      {
+        "text": "THE",
+        "start": 443.261,
+        "end": 443.411
+      },
+      {
+        "text": "SAME",
+        "start": 444.297,
+        "end": 444.569
+      },
+      {
+        "text": "SHIPS",
+        "start": 444.569,
+        "end": 444.797
+      },
+      {
+        "text": "THAT",
+        "start": 444.797,
+        "end": 444.99
+      }
+    ]
+  },
+  {
+    "id": 404,
+    "start": 444.99,
+    "end": 445.866,
+    "words": [
+      {
+        "text": "CARRIED",
+        "start": 444.99,
+        "end": 445.226
+      },
+      {
+        "text": "GOODS",
+        "start": 445.283,
+        "end": 445.569
+      },
+      {
+        "text": "COULD",
+        "start": 445.626,
+        "end": 445.876
+      }
+    ]
+  },
+  {
+    "id": 405,
+    "start": 445.876,
+    "end": 446.731,
+    "words": [
+      {
+        "text": "CARRY",
+        "start": 445.876,
+        "end": 446.126
+      },
+      {
+        "text": "CAPTIVES.",
+        "start": 446.154,
+        "end": 446.611
+      }
+    ]
+  },
+  {
+    "id": 406,
+    "start": 446.926,
+    "end": 448.073,
+    "words": [
+      {
+        "text": "RAIDERS",
+        "start": 446.926,
+        "end": 447.34
+      },
+      {
+        "text": "CAPTURED",
+        "start": 447.411,
+        "end": 447.697
+      },
+      {
+        "text": "MEN,",
+        "start": 447.754,
+        "end": 448.04
+      }
+    ]
+  },
+  {
+    "id": 407,
+    "start": 448.083,
+    "end": 448.959,
+    "words": [
+      {
+        "text": "WOMEN",
+        "start": 448.083,
+        "end": 448.326
+      },
+      {
+        "text": "AND",
+        "start": 448.326,
+        "end": 448.561
+      },
+      {
+        "text": "CHILDREN,",
+        "start": 448.561,
+        "end": 448.84
+      }
+    ]
+  },
+  {
+    "id": 408,
+    "start": 448.969,
+    "end": 450.042,
+    "words": [
+      {
+        "text": "AND",
+        "start": 448.969,
+        "end": 449.254
+      },
+      {
+        "text": "TRADERS",
+        "start": 449.269,
+        "end": 449.677
+      },
+      {
+        "text": "SOLD",
+        "start": 449.677,
+        "end": 450.052
+      }
+    ]
+  },
+  {
+    "id": 409,
+    "start": 450.052,
+    "end": 451.615,
+    "words": [
+      {
+        "text": "THEM",
+        "start": 450.052,
+        "end": 450.404
+      },
+      {
+        "text": "FAR",
+        "start": 450.404,
+        "end": 450.722
+      },
+      {
+        "text": "FROM",
+        "start": 450.722,
+        "end": 451.075
+      },
+      {
+        "text": "HOME.",
+        "start": 451.075,
+        "end": 451.495
+      }
+    ]
+  },
+  {
+    "id": 410,
+    "start": 452.04,
+    "end": 452.973,
+    "words": [
+      {
+        "text": "SOME",
+        "start": 452.04,
+        "end": 452.247
+      },
+      {
+        "text": "OF",
+        "start": 452.247,
+        "end": 452.347
+      },
+      {
+        "text": "THE",
+        "start": 452.347,
+        "end": 452.469
+      },
+      {
+        "text": "WEALTH",
+        "start": 452.469,
+        "end": 452.64
+      },
+      {
+        "text": "THAT",
+        "start": 452.64,
+        "end": 452.797
+      },
+      {
+        "text": "MADE",
+        "start": 452.797,
+        "end": 452.983
+      }
+    ]
+  },
+  {
+    "id": 411,
+    "start": 452.983,
+    "end": 454.13,
+    "words": [
+      {
+        "text": "VOYAGES",
+        "start": 452.983,
+        "end": 453.454
+      },
+      {
+        "text": "PROFITABLE",
+        "start": 453.469,
+        "end": 453.754
+      },
+      {
+        "text": "CAME",
+        "start": 453.911,
+        "end": 454.14
+      }
+    ]
+  },
+  {
+    "id": 412,
+    "start": 454.14,
+    "end": 455.017,
+    "words": [
+      {
+        "text": "FROM",
+        "start": 454.14,
+        "end": 454.347
+      },
+      {
+        "text": "THOSE",
+        "start": 454.347,
+        "end": 454.611
+      },
+      {
+        "text": "SALES.",
+        "start": 454.611,
+        "end": 454.897
+      }
+    ]
+  },
+  {
+    "id": 413,
+    "start": 455.097,
+    "end": 456.046,
+    "words": [
+      {
+        "text": "FOR",
+        "start": 455.097,
+        "end": 455.369
+      },
+      {
+        "text": "THOSE",
+        "start": 455.369,
+        "end": 455.64
+      },
+      {
+        "text": "TAKEN,",
+        "start": 455.64,
+        "end": 455.926
+      }
+    ]
+  },
+  {
+    "id": 414,
+    "start": 456.126,
+    "end": 456.83,
+    "words": [
+      {
+        "text": "A",
+        "start": 456.126,
+        "end": 456.376
+      },
+      {
+        "text": "VOYAGE",
+        "start": 456.376,
+        "end": 456.597
+      },
+      {
+        "text": "COULD",
+        "start": 456.597,
+        "end": 456.84
+      }
+    ]
+  },
+  {
+    "id": 415,
+    "start": 456.84,
+    "end": 458.089,
+    "words": [
+      {
+        "text": "MEAN",
+        "start": 456.84,
+        "end": 457.111
+      },
+      {
+        "text": "PERMANENT",
+        "start": 457.154,
+        "end": 457.44
+      },
+      {
+        "text": "SEPARATION.",
+        "start": 457.683,
+        "end": 457.969
+      }
+    ]
+  },
+  {
+    "id": 416,
+    "start": 458.34,
+    "end": 460.193,
+    "words": [
+      {
+        "text": "IN",
+        "start": 458.34,
+        "end": 458.626
+      },
+      {
+        "text": "865,",
+        "start": 458.683,
+        "end": 459.783
+      },
+      {
+        "text": "A",
+        "start": 459.869,
+        "end": 460.203
+      }
+    ]
+  },
+  {
+    "id": 417,
+    "start": 460.203,
+    "end": 461.267,
+    "words": [
+      {
+        "text": "VIKING",
+        "start": 460.203,
+        "end": 460.537
+      },
+      {
+        "text": "ARMY",
+        "start": 460.537,
+        "end": 460.898
+      },
+      {
+        "text": "ARRIVED",
+        "start": 461.006,
+        "end": 461.277
+      }
+    ]
+  },
+  {
+    "id": 418,
+    "start": 461.277,
+    "end": 462.047,
+    "words": [
+      {
+        "text": "IN",
+        "start": 461.277,
+        "end": 461.548
+      },
+      {
+        "text": "ENGLAND.",
+        "start": 461.566,
+        "end": 461.927
+      }
+    ]
+  },
+  {
+    "id": 419,
+    "start": 462.324,
+    "end": 463.943,
+    "words": [
+      {
+        "text": "THE",
+        "start": 462.324,
+        "end": 462.677
+      },
+      {
+        "text": "SCALE",
+        "start": 462.677,
+        "end": 463.029
+      },
+      {
+        "text": "HAD",
+        "start": 463.047,
+        "end": 463.408
+      },
+      {
+        "text": "CHANGED.",
+        "start": 463.462,
+        "end": 463.823
+      }
+    ]
+  },
+  {
+    "id": 420,
+    "start": 464.04,
+    "end": 465.015,
+    "words": [
+      {
+        "text": "THE",
+        "start": 464.04,
+        "end": 464.334
+      },
+      {
+        "text": "FOLLOWING",
+        "start": 464.466,
+        "end": 464.761
+      },
+      {
+        "text": "YEAR,",
+        "start": 464.775,
+        "end": 465.025
+      }
+    ]
+  },
+  {
+    "id": 421,
+    "start": 465.025,
+    "end": 466.559,
+    "words": [
+      {
+        "text": "IT",
+        "start": 465.025,
+        "end": 465.246
+      },
+      {
+        "text": "TOOK",
+        "start": 465.246,
+        "end": 465.511
+      },
+      {
+        "text": "YORK.",
+        "start": 465.511,
+        "end": 465.805
+      },
+      {
+        "text": "SOME",
+        "start": 466.114,
+        "end": 466.305
+      },
+      {
+        "text": "OF",
+        "start": 466.305,
+        "end": 466.4
+      },
+      {
+        "text": "THE",
+        "start": 466.4,
+        "end": 466.569
+      }
+    ]
+  },
+  {
+    "id": 422,
+    "start": 466.569,
+    "end": 467.498,
+    "words": [
+      {
+        "text": "NEWCOMERS",
+        "start": 466.569,
+        "end": 467.011
+      },
+      {
+        "text": "STAYED.",
+        "start": 467.084,
+        "end": 467.378
+      }
+    ]
+  },
+  {
+    "id": 423,
+    "start": 467.614,
+    "end": 468.662,
+    "words": [
+      {
+        "text": "AND,",
+        "start": 467.614,
+        "end": 467.856
+      },
+      {
+        "text": "UNDER",
+        "start": 467.856,
+        "end": 468.077
+      },
+      {
+        "text": "SCANDINAVIAN",
+        "start": 468.077,
+        "end": 468.614
+      }
+    ]
+  },
+  {
+    "id": 424,
+    "start": 468.672,
+    "end": 469.848,
+    "words": [
+      {
+        "text": "RULE,",
+        "start": 468.672,
+        "end": 468.966
+      },
+      {
+        "text": "YORK",
+        "start": 469.04,
+        "end": 469.483
+      },
+      {
+        "text": "GREW",
+        "start": 469.483,
+        "end": 469.858
+      }
+    ]
+  },
+  {
+    "id": 425,
+    "start": 469.858,
+    "end": 471.024,
+    "words": [
+      {
+        "text": "INTO",
+        "start": 469.858,
+        "end": 470.176
+      },
+      {
+        "text": "A",
+        "start": 470.176,
+        "end": 470.506
+      },
+      {
+        "text": "BUSY",
+        "start": 470.506,
+        "end": 470.904
+      }
+    ]
+  },
+  {
+    "id": 426,
+    "start": 471.04,
+    "end": 472.092,
+    "words": [
+      {
+        "text": "TRADING",
+        "start": 471.04,
+        "end": 471.495
+      },
+      {
+        "text": "CITY.",
+        "start": 471.517,
+        "end": 471.972
+      }
+    ]
+  },
+  {
+    "id": 427,
+    "start": 472.335,
+    "end": 473.394,
+    "words": [
+      {
+        "text": "BENEATH",
+        "start": 472.335,
+        "end": 472.858
+      },
+      {
+        "text": "A",
+        "start": 472.858,
+        "end": 473.074
+      },
+      {
+        "text": "STREET",
+        "start": 473.074,
+        "end": 473.404
+      }
+    ]
+  },
+  {
+    "id": 428,
+    "start": 473.404,
+    "end": 474.865,
+    "words": [
+      {
+        "text": "CALLED",
+        "start": 473.404,
+        "end": 473.835
+      },
+      {
+        "text": "COPPERGATE,",
+        "start": 473.904,
+        "end": 474.745
+      }
+    ]
+  },
+  {
+    "id": 429,
+    "start": 475.04,
+    "end": 476.414,
+    "words": [
+      {
+        "text": "ARCHAEOLOGISTS",
+        "start": 475.04,
+        "end": 475.652
+      },
+      {
+        "text": "FOUND",
+        "start": 475.712,
+        "end": 476.003
+      },
+      {
+        "text": "TIMBER",
+        "start": 476.003,
+        "end": 476.294
+      }
+    ]
+  },
+  {
+    "id": 430,
+    "start": 476.488,
+    "end": 477.746,
+    "words": [
+      {
+        "text": "BUILDINGS,",
+        "start": 476.488,
+        "end": 476.786
+      },
+      {
+        "text": "LEATHER",
+        "start": 476.906,
+        "end": 477.204
+      },
+      {
+        "text": "SHOES,",
+        "start": 477.368,
+        "end": 477.667
+      }
+    ]
+  },
+  {
+    "id": 431,
+    "start": 477.756,
+    "end": 478.523,
+    "words": [
+      {
+        "text": "AND",
+        "start": 477.756,
+        "end": 478.033
+      },
+      {
+        "text": "WASTE",
+        "start": 478.033,
+        "end": 478.294
+      },
+      {
+        "text": "LEFT",
+        "start": 478.294,
+        "end": 478.533
+      }
+    ]
+  },
+  {
+    "id": 432,
+    "start": 478.533,
+    "end": 479.172,
+    "words": [
+      {
+        "text": "BY",
+        "start": 478.533,
+        "end": 478.764
+      },
+      {
+        "text": "PEOPLE",
+        "start": 478.764,
+        "end": 478.98
+      },
+      {
+        "text": "WHO",
+        "start": 478.98,
+        "end": 479.182
+      }
+    ]
+  },
+  {
+    "id": 433,
+    "start": 479.182,
+    "end": 479.891,
+    "words": [
+      {
+        "text": "WORKED",
+        "start": 479.182,
+        "end": 479.443
+      },
+      {
+        "text": "METAL.",
+        "start": 479.473,
+        "end": 479.771
+      }
+    ]
+  },
+  {
+    "id": 434,
+    "start": 480.04,
+    "end": 480.857,
+    "words": [
+      {
+        "text": "A",
+        "start": 480.04,
+        "end": 480.336
+      },
+      {
+        "text": "CITY",
+        "start": 480.336,
+        "end": 480.606
+      },
+      {
+        "text": "TAKEN",
+        "start": 480.606,
+        "end": 480.867
+      }
+    ]
+  },
+  {
+    "id": 435,
+    "start": 480.867,
+    "end": 481.589,
+    "words": [
+      {
+        "text": "BY",
+        "start": 480.867,
+        "end": 481.085
+      },
+      {
+        "text": "AN",
+        "start": 481.085,
+        "end": 481.312
+      },
+      {
+        "text": "ARMY",
+        "start": 481.312,
+        "end": 481.599
+      }
+    ]
+  },
+  {
+    "id": 436,
+    "start": 481.599,
+    "end": 482.347,
+    "words": [
+      {
+        "text": "HAD",
+        "start": 481.599,
+        "end": 481.886
+      },
+      {
+        "text": "BECOME",
+        "start": 481.886,
+        "end": 482.113
+      },
+      {
+        "text": "A",
+        "start": 482.113,
+        "end": 482.357
+      }
+    ]
+  },
+  {
+    "id": 437,
+    "start": 482.357,
+    "end": 482.921,
+    "words": [
+      {
+        "text": "PLACE",
+        "start": 482.357,
+        "end": 482.583
+      },
+      {
+        "text": "TO",
+        "start": 482.583,
+        "end": 482.757
+      },
+      {
+        "text": "MAKE",
+        "start": 482.757,
+        "end": 482.931
+      }
+    ]
+  },
+  {
+    "id": 438,
+    "start": 482.931,
+    "end": 483.574,
+    "words": [
+      {
+        "text": "A",
+        "start": 482.931,
+        "end": 483.149
+      },
+      {
+        "text": "LIVING.",
+        "start": 483.149,
+        "end": 483.454
+      }
+    ]
+  },
+  {
+    "id": 439,
+    "start": 483.768,
+    "end": 484.672,
+    "words": [
+      {
+        "text": "THE",
+        "start": 483.768,
+        "end": 484.055
+      },
+      {
+        "text": "LEATHER",
+        "start": 484.055,
+        "end": 484.342
+      },
+      {
+        "text": "SHOE",
+        "start": 484.395,
+        "end": 484.682
+      }
+    ]
+  },
+  {
+    "id": 440,
+    "start": 484.682,
+    "end": 485.526,
+    "words": [
+      {
+        "text": "BRINGS",
+        "start": 484.682,
+        "end": 484.943
+      },
+      {
+        "text": "US",
+        "start": 484.943,
+        "end": 485.239
+      },
+      {
+        "text": "CLOSER",
+        "start": 485.239,
+        "end": 485.536
+      }
+    ]
+  },
+  {
+    "id": 441,
+    "start": 485.536,
+    "end": 486.292,
+    "words": [
+      {
+        "text": "TO",
+        "start": 485.536,
+        "end": 485.823
+      },
+      {
+        "text": "THOSE",
+        "start": 485.823,
+        "end": 486.084
+      },
+      {
+        "text": "WHO",
+        "start": 486.084,
+        "end": 486.302
+      }
+    ]
+  },
+  {
+    "id": 442,
+    "start": 486.302,
+    "end": 487.11,
+    "words": [
+      {
+        "text": "WALKED",
+        "start": 486.302,
+        "end": 486.546
+      },
+      {
+        "text": "ITS",
+        "start": 486.546,
+        "end": 486.755
+      },
+      {
+        "text": "STREETS.",
+        "start": 486.755,
+        "end": 486.99
+      }
+    ]
+  },
+  {
+    "id": 443,
+    "start": 487.425,
+    "end": 488.416,
+    "words": [
+      {
+        "text": "TWO",
+        "start": 487.425,
+        "end": 487.774
+      },
+      {
+        "text": "CENTURIES",
+        "start": 487.948,
+        "end": 488.296
+      }
+    ]
+  },
+  {
+    "id": 444,
+    "start": 488.558,
+    "end": 489.628,
+    "words": [
+      {
+        "text": "LATER,",
+        "start": 488.558,
+        "end": 488.88
+      },
+      {
+        "text": "THE",
+        "start": 488.88,
+        "end": 489.185
+      },
+      {
+        "text": "NORWEGIAN",
+        "start": 489.185,
+        "end": 489.516
+      }
+    ]
+  },
+  {
+    "id": 445,
+    "start": 489.638,
+    "end": 491.603,
+    "words": [
+      {
+        "text": "KING",
+        "start": 489.638,
+        "end": 489.969
+      },
+      {
+        "text": "HARALD",
+        "start": 489.969,
+        "end": 490.511
+      },
+      {
+        "text": "HARDRADA",
+        "start": 490.626,
+        "end": 491.483
+      }
+    ]
+  },
+  {
+    "id": 446,
+    "start": 491.626,
+    "end": 492.801,
+    "words": [
+      {
+        "text": "CROSSED",
+        "start": 491.626,
+        "end": 492.154
+      },
+      {
+        "text": "THE",
+        "start": 492.154,
+        "end": 492.511
+      },
+      {
+        "text": "SEA",
+        "start": 492.511,
+        "end": 492.811
+      }
+    ]
+  },
+  {
+    "id": 447,
+    "start": 492.811,
+    "end": 494.03,
+    "words": [
+      {
+        "text": "TO",
+        "start": 492.811,
+        "end": 493.197
+      },
+      {
+        "text": "CLAIM",
+        "start": 493.197,
+        "end": 493.611
+      },
+      {
+        "text": "THE",
+        "start": 493.611,
+        "end": 494.04
+      }
+    ]
+  },
+  {
+    "id": 448,
+    "start": 494.04,
+    "end": 494.833,
+    "words": [
+      {
+        "text": "ENGLISH",
+        "start": 494.04,
+        "end": 494.305
+      },
+      {
+        "text": "THRONE.",
+        "start": 494.411,
+        "end": 494.713
+      }
+    ]
+  },
+  {
+    "id": 449,
+    "start": 494.88,
+    "end": 495.566,
+    "words": [
+      {
+        "text": "HE",
+        "start": 494.88,
+        "end": 495.137
+      },
+      {
+        "text": "WAS",
+        "start": 495.137,
+        "end": 495.357
+      },
+      {
+        "text": "KILLED",
+        "start": 495.357,
+        "end": 495.576
+      }
+    ]
+  },
+  {
+    "id": 450,
+    "start": 495.576,
+    "end": 496.436,
+    "words": [
+      {
+        "text": "AT",
+        "start": 495.576,
+        "end": 495.803
+      },
+      {
+        "text": "STAMFORD",
+        "start": 495.803,
+        "end": 496.075
+      },
+      {
+        "text": "BRIDGE",
+        "start": 496.181,
+        "end": 496.446
+      }
+    ]
+  },
+  {
+    "id": 451,
+    "start": 496.446,
+    "end": 497.314,
+    "words": [
+      {
+        "text": "NEAR",
+        "start": 496.446,
+        "end": 496.711
+      },
+      {
+        "text": "YORK",
+        "start": 496.741,
+        "end": 497.044
+      },
+      {
+        "text": "IN",
+        "start": 497.059,
+        "end": 497.324
+      }
+    ]
+  },
+  {
+    "id": 452,
+    "start": 497.324,
+    "end": 498.132,
+    "words": [
+      {
+        "text": "1066.",
+        "start": 497.324,
+        "end": 498.012
+      }
+    ]
+  },
+  {
+    "id": 453,
+    "start": 498.421,
+    "end": 500.03,
+    "words": [
+      {
+        "text": "HIS",
+        "start": 498.421,
+        "end": 498.723
+      },
+      {
+        "text": "CLAIM",
+        "start": 498.754,
+        "end": 499.056
+      },
+      {
+        "text": "ENDED",
+        "start": 499.177,
+        "end": 499.48
+      },
+      {
+        "text": "THERE.",
+        "start": 499.616,
+        "end": 499.919
+      }
+    ]
+  },
+  {
+    "id": 454,
+    "start": 500.04,
+    "end": 501.087,
+    "words": [
+      {
+        "text": "THAT",
+        "start": 500.04,
+        "end": 500.452
+      },
+      {
+        "text": "DEFEAT",
+        "start": 500.452,
+        "end": 500.801
+      },
+      {
+        "text": "IS",
+        "start": 500.801,
+        "end": 501.097
+      }
+    ]
+  },
+  {
+    "id": 455,
+    "start": 501.097,
+    "end": 501.976,
+    "words": [
+      {
+        "text": "OFTEN",
+        "start": 501.097,
+        "end": 501.457
+      },
+      {
+        "text": "USED",
+        "start": 501.457,
+        "end": 501.774
+      },
+      {
+        "text": "TO",
+        "start": 501.774,
+        "end": 501.986
+      }
+    ]
+  },
+  {
+    "id": 456,
+    "start": 501.986,
+    "end": 502.79,
+    "words": [
+      {
+        "text": "MARK",
+        "start": 501.986,
+        "end": 502.271
+      },
+      {
+        "text": "THE",
+        "start": 502.271,
+        "end": 502.557
+      },
+      {
+        "text": "END",
+        "start": 502.557,
+        "end": 502.8
+      }
+    ]
+  },
+  {
+    "id": 457,
+    "start": 502.8,
+    "end": 503.509,
+    "words": [
+      {
+        "text": "OF",
+        "start": 502.8,
+        "end": 503.011
+      },
+      {
+        "text": "THE",
+        "start": 503.011,
+        "end": 503.202
+      },
+      {
+        "text": "VIKING",
+        "start": 503.202,
+        "end": 503.519
+      }
+    ]
+  },
+  {
+    "id": 458,
+    "start": 503.519,
+    "end": 504.643,
+    "words": [
+      {
+        "text": "AGE",
+        "start": 503.519,
+        "end": 503.836
+      },
+      {
+        "text": "IN",
+        "start": 503.836,
+        "end": 504.132
+      },
+      {
+        "text": "ENGLAND.",
+        "start": 504.132,
+        "end": 504.523
+      }
+    ]
+  },
+  {
+    "id": 459,
+    "start": 504.925,
+    "end": 506.089,
+    "words": [
+      {
+        "text": "ANOTHER",
+        "start": 504.925,
+        "end": 505.348
+      },
+      {
+        "text": "DATE",
+        "start": 505.433,
+        "end": 505.803
+      },
+      {
+        "text": "ENTERED",
+        "start": 505.803,
+        "end": 506.099
+      }
+    ]
+  },
+  {
+    "id": 460,
+    "start": 506.099,
+    "end": 507.03,
+    "words": [
+      {
+        "text": "THE",
+        "start": 506.099,
+        "end": 506.448
+      },
+      {
+        "text": "STORY.",
+        "start": 506.532,
+        "end": 506.955
+      }
+    ]
+  },
+  {
+    "id": 461,
+    "start": 507.04,
+    "end": 507.673,
+    "words": [
+      {
+        "text": "THE",
+        "start": 507.04,
+        "end": 507.304
+      },
+      {
+        "text": "PEOPLE",
+        "start": 507.304,
+        "end": 507.519
+      },
+      {
+        "text": "WHO",
+        "start": 507.519,
+        "end": 507.683
+      }
+    ]
+  },
+  {
+    "id": 462,
+    "start": 507.683,
+    "end": 508.687,
+    "words": [
+      {
+        "text": "WROTE",
+        "start": 507.683,
+        "end": 507.861
+      },
+      {
+        "text": "ABOUT",
+        "start": 507.861,
+        "end": 508.061
+      },
+      {
+        "text": "LINDISFARNE",
+        "start": 508.061,
+        "end": 508.64
+      }
+    ]
+  },
+  {
+    "id": 463,
+    "start": 508.697,
+    "end": 509.301,
+    "words": [
+      {
+        "text": "RECORDED",
+        "start": 508.697,
+        "end": 508.947
+      },
+      {
+        "text": "WHAT",
+        "start": 508.947,
+        "end": 509.147
+      },
+      {
+        "text": "THE",
+        "start": 509.147,
+        "end": 509.311
+      }
+    ]
+  },
+  {
+    "id": 464,
+    "start": 509.311,
+    "end": 509.887,
+    "words": [
+      {
+        "text": "RAID",
+        "start": 509.311,
+        "end": 509.469
+      },
+      {
+        "text": "HAD",
+        "start": 509.469,
+        "end": 509.683
+      },
+      {
+        "text": "COST",
+        "start": 509.683,
+        "end": 509.897
+      }
+    ]
+  },
+  {
+    "id": 465,
+    "start": 509.897,
+    "end": 511.266,
+    "words": [
+      {
+        "text": "THEIR",
+        "start": 509.897,
+        "end": 510.126
+      },
+      {
+        "text": "COMMUNITY.",
+        "start": 510.126,
+        "end": 510.411
+      },
+      {
+        "text": "WE",
+        "start": 510.726,
+        "end": 510.94
+      },
+      {
+        "text": "CAN",
+        "start": 510.94,
+        "end": 511.097
+      },
+      {
+        "text": "READ",
+        "start": 511.097,
+        "end": 511.276
+      }
+    ]
+  },
+  {
+    "id": 466,
+    "start": 511.276,
+    "end": 512.737,
+    "words": [
+      {
+        "text": "THAT",
+        "start": 511.276,
+        "end": 511.511
+      },
+      {
+        "text": "HISTORY",
+        "start": 511.511,
+        "end": 511.797
+      },
+      {
+        "text": "BECAUSE",
+        "start": 511.911,
+        "end": 512.19
+      },
+      {
+        "text": "THEIR",
+        "start": 512.19,
+        "end": 512.469
+      },
+      {
+        "text": "WORDS",
+        "start": 512.469,
+        "end": 512.676
+      },
+      {
+        "text": "SURVIVED.",
+        "start": 512.676,
+        "end": 512.747
+      }
+    ]
+  },
+  {
+    "id": 467,
+    "start": 512.747,
+    "end": 514.43,
+    "words": [
+      {
+        "text": "THE",
+        "start": 512.747,
+        "end": 512.897
+      },
+      {
+        "text": "MEN",
+        "start": 513.554,
+        "end": 513.776
+      },
+      {
+        "text": "AT",
+        "start": 513.776,
+        "end": 513.976
+      },
+      {
+        "text": "SALME",
+        "start": 513.976,
+        "end": 514.383
+      }
+    ]
+  },
+  {
+    "id": 468,
+    "start": 514.44,
+    "end": 515.287,
+    "words": [
+      {
+        "text": "REMAIN",
+        "start": 514.44,
+        "end": 514.726
+      },
+      {
+        "text": "NAMELESS.",
+        "start": 514.826,
+        "end": 515.183
+      }
+    ]
+  },
+  {
+    "id": 469,
+    "start": 515.297,
+    "end": 516.182,
+    "words": [
+      {
+        "text": "WE",
+        "start": 515.297,
+        "end": 515.611
+      },
+      {
+        "text": "CAN",
+        "start": 515.611,
+        "end": 515.897
+      },
+      {
+        "text": "STILL",
+        "start": 515.897,
+        "end": 516.192
+      }
+    ]
+  },
+  {
+    "id": 470,
+    "start": 516.192,
+    "end": 517.113,
+    "words": [
+      {
+        "text": "SEE",
+        "start": 516.192,
+        "end": 516.441
+      },
+      {
+        "text": "WHERE",
+        "start": 516.441,
+        "end": 516.717
+      },
+      {
+        "text": "SOMEONE",
+        "start": 516.717,
+        "end": 517.068
+      }
+    ]
+  },
+  {
+    "id": 471,
+    "start": 517.123,
+    "end": 517.869,
+    "words": [
+      {
+        "text": "CHOSE",
+        "start": 517.123,
+        "end": 517.409
+      },
+      {
+        "text": "TO",
+        "start": 517.409,
+        "end": 517.621
+      },
+      {
+        "text": "LAY",
+        "start": 517.621,
+        "end": 517.879
+      }
+    ]
+  },
+  {
+    "id": 472,
+    "start": 517.879,
+    "end": 519.086,
+    "words": [
+      {
+        "text": "FOUR",
+        "start": 517.879,
+        "end": 518.165
+      },
+      {
+        "text": "BROTHERS",
+        "start": 518.165,
+        "end": 518.488
+      },
+      {
+        "text": "TOGETHER",
+        "start": 518.635,
+        "end": 519.004
+      }
+    ]
+  },
+  {
+    "id": 473,
+    "start": 519.096,
+    "end": 519.87,
+    "words": [
+      {
+        "text": "AND",
+        "start": 519.096,
+        "end": 519.373
+      },
+      {
+        "text": "THE",
+        "start": 519.373,
+        "end": 519.613
+      },
+      {
+        "text": "THINGS",
+        "start": 519.613,
+        "end": 519.88
+      }
+    ]
+  },
+  {
+    "id": 474,
+    "start": 519.88,
+    "end": 521.319,
+    "words": [
+      {
+        "text": "THEY",
+        "start": 519.88,
+        "end": 520.074
+      },
+      {
+        "text": "PUT",
+        "start": 520.074,
+        "end": 520.332
+      },
+      {
+        "text": "BESIDE",
+        "start": 520.351,
+        "end": 520.719
+      },
+      {
+        "text": "THEM.",
+        "start": 520.83,
+        "end": 521.199
+      }
+    ]
+  },
+  {
+    "id": 475,
+    "start": 521.365,
+    "end": 522.323,
+    "words": [
+      {
+        "text": "ONE",
+        "start": 521.365,
+        "end": 521.715
+      },
+      {
+        "text": "SMALL",
+        "start": 521.715,
+        "end": 522.047
+      },
+      {
+        "text": "PIECE",
+        "start": 522.047,
+        "end": 522.333
+      }
+    ]
+  },
+  {
+    "id": 476,
+    "start": 522.333,
+    "end": 522.978,
+    "words": [
+      {
+        "text": "FROM",
+        "start": 522.333,
+        "end": 522.527
+      },
+      {
+        "text": "A",
+        "start": 522.527,
+        "end": 522.72
+      },
+      {
+        "text": "BOARD",
+        "start": 522.72,
+        "end": 522.988
+      }
+    ]
+  },
+  {
+    "id": 477,
+    "start": 522.988,
+    "end": 523.734,
+    "words": [
+      {
+        "text": "GAME",
+        "start": 522.988,
+        "end": 523.255
+      },
+      {
+        "text": "LAY",
+        "start": 523.255,
+        "end": 523.504
+      },
+      {
+        "text": "THERE",
+        "start": 523.504,
+        "end": 523.744
+      }
+    ]
+  },
+  {
+    "id": 478,
+    "start": 523.744,
+    "end": 524.435,
+    "words": [
+      {
+        "text": "FOR",
+        "start": 523.744,
+        "end": 523.993
+      },
+      {
+        "text": "MORE",
+        "start": 523.993,
+        "end": 524.233
+      },
+      {
+        "text": "THAN",
+        "start": 524.233,
+        "end": 524.445
+      }
+    ]
+  },
+  {
+    "id": 479,
+    "start": 524.445,
+    "end": 525.819,
+    "words": [
+      {
+        "text": "A",
+        "start": 524.445,
+        "end": 524.722
+      },
+      {
+        "text": "THOUSAND",
+        "start": 524.722,
+        "end": 525.072
+      },
+      {
+        "text": "YEARS.",
+        "start": 525.33,
+        "end": 525.699
+      }
+    ]
+  },
+  {
+    "id": 480,
+    "start": 526.179,
+    "end": 527.411,
+    "words": [
+      {
+        "text": "WHEN",
+        "start": 526.179,
+        "end": 526.664
+      },
+      {
+        "text": "A",
+        "start": 526.664,
+        "end": 527.007
+      },
+      {
+        "text": "STORY",
+        "start": 527.007,
+        "end": 527.421
+      }
+    ]
+  },
+  {
+    "id": 481,
+    "start": 527.421,
+    "end": 528.654,
+    "words": [
+      {
+        "text": "BEGINS",
+        "start": 527.421,
+        "end": 527.936
+      },
+      {
+        "text": "WITH",
+        "start": 527.936,
+        "end": 528.279
+      },
+      {
+        "text": "A",
+        "start": 528.279,
+        "end": 528.664
+      }
+    ]
+  },
+  {
+    "id": 482,
+    "start": 528.664,
+    "end": 529.356,
+    "words": [
+      {
+        "text": "DATE,",
+        "start": 528.664,
+        "end": 529.236
+      }
+    ]
+  },
+  {
+    "id": 483,
+    "start": 529.493,
+    "end": 531.197,
+    "words": [
+      {
+        "text": "ASK",
+        "start": 529.493,
+        "end": 530.064
+      },
+      {
+        "text": "WHOSE",
+        "start": 530.064,
+        "end": 530.636
+      },
+      {
+        "text": "ACCOUNT",
+        "start": 530.721,
+        "end": 531.207
+      }
+    ]
+  },
+  {
+    "id": 484,
+    "start": 531.207,
+    "end": 532.397,
+    "words": [
+      {
+        "text": "GAVE",
+        "start": 531.207,
+        "end": 531.607
+      },
+      {
+        "text": "US",
+        "start": 531.607,
+        "end": 532.007
+      },
+      {
+        "text": "THAT",
+        "start": 532.007,
+        "end": 532.407
+      }
+    ]
+  },
+  {
+    "id": 485,
+    "start": 532.407,
+    "end": 533.013,
+    "words": [
+      {
+        "text": "DATE.",
+        "start": 532.407,
+        "end": 532.893
+      }
+    ]
+  },
+  {
+    "id": 486,
+    "start": 533.379,
+    "end": 534.754,
+    "words": [
+      {
+        "text": "THEN,",
+        "start": 533.379,
+        "end": 533.95
+      },
+      {
+        "text": "LOOK",
+        "start": 534.064,
+        "end": 534.493
+      },
+      {
+        "text": "FOR",
+        "start": 534.493,
+        "end": 534.764
+      }
+    ]
+  },
+  {
+    "id": 487,
+    "start": 534.764,
+    "end": 535.783,
+    "words": [
+      {
+        "text": "THE",
+        "start": 534.764,
+        "end": 535.121
+      },
+      {
+        "text": "PEOPLE",
+        "start": 535.121,
+        "end": 535.521
+      },
+      {
+        "text": "WHO",
+        "start": 535.521,
+        "end": 535.793
+      }
+    ]
+  },
+  {
+    "id": 488,
+    "start": 535.793,
+    "end": 539.3,
+    "words": [
+      {
+        "text": "WERE",
+        "start": 535.793,
+        "end": 536.05
+      },
+      {
+        "text": "THERE",
+        "start": 536.05,
+        "end": 536.493
+      },
+      {
+        "text": "BEFORE",
+        "start": 536.607,
+        "end": 537.179
+      },
+      {
+        "text": "ANYONE",
+        "start": 537.464,
+        "end": 538.021
+      },
+      {
+        "text": "WROTE",
+        "start": 538.021,
+        "end": 538.393
+      },
+      {
+        "text": "THE",
+        "start": 538.393,
+        "end": 538.493
+      },
+      {
+        "text": "STORY",
+        "start": 538.493,
+        "end": 538.55
+      },
+      {
+        "text": "DOWN.",
+        "start": 538.493,
+        "end": 538.779
+      }
+    ]
+  }
+]

@@ -382,5 +382,20 @@
   "studio_playback": "Verified: narration loaded, playback advances with audio active",
   "opening_render": "Verified H.264/AAC 1920x1080 24 fps excerpt",
   "repository_packaging_check": "Passed: HyperFrames assets prepared locally; zero runtime/layout/motion/audio errors",
-  "portable_player_check": "Passed: playback advances with audio; seeking to 289 seconds selects image 052; images load ahead of playback"
+  "portable_player_check": "Passed: playback advances with audio; seeking to 289 seconds selects image 052; images load ahead of playback",
+  "editorial_text_removed": true,
+  "captions": {
+    "family": "Arial",
+    "size": 72,
+    "weight": 900,
+    "case": "UPPERCASE",
+    "colors": [
+      "#FFFFFF",
+      "#FFE400"
+    ],
+    "outline": "6px #000000"
+  },
+  "voice_cues_aligned": 89,
+  "image_boundary_overlap": false,
+  "render_status": "Final 1920x1080 render in progress"
 }

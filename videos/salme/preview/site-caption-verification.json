@@ -1,0 +1,20 @@
+{
+  "playing": {
+    "time": 3.427643,
+    "paused": false
+  },
+  "audit": {
+    "visibleImages": [
+      "shot-039"
+    ],
+    "caption": "TO AROUND 750,",
+    "font": "Arial, sans-serif",
+    "size": "72px",
+    "weight": "900",
+    "outline": "6px rgb(0, 0, 0)",
+    "oldTextCount": 0
+  },
+  "errors": [
+    "404 http://127.0.0.1:8780/render-manifest.json"
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "source_duration": 553.4040833333333,
   "output_duration": 540,
-  "source_start_in_video": 2,
-  "pitch_preserving_speed": 1.0305476412166357,
-  "method": "FFmpeg atempo; 2 second lead-in, 1 second final hold; no spoken content removed"
+  "method": "Pitch-preserving section fitting using RubberBand; 89 spoken cues aligned inside fixed image slots",
+  "alignment": "captions/narration-alignment.json",
+  "image_schedule_unchanged": true
 }

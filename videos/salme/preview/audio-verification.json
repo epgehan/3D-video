@@ -1,0 +1,168 @@
+{
+  "expected_words": 1467,
+  "recognized_words": 1468,
+  "recognition_difference_ratio": 0.0276,
+  "differences": [
+    {
+      "kind": "replace",
+      "expected": "were the",
+      "recognized": "with a"
+    },
+    {
+      "kind": "replace",
+      "expected": "bore",
+      "recognized": "were"
+    },
+    {
+      "kind": "replace",
+      "expected": "alcuin an",
+      "recognized": "alquen and"
+    },
+    {
+      "kind": "replace",
+      "expected": "other",
+      "recognized": "the"
+    },
+    {
+      "kind": "replace",
+      "expected": "crews",
+      "recognized": "cruise"
+    },
+    {
+      "kind": "replace",
+      "expected": "seize",
+      "recognized": "sees"
+    },
+    {
+      "kind": "replace",
+      "expected": "a shore",
+      "recognized": "ashore"
+    },
+    {
+      "kind": "replace",
+      "expected": "salme",
+      "recognized": "salma"
+    },
+    {
+      "kind": "replace",
+      "expected": "uppermost",
+      "recognized": "upper most"
+    },
+    {
+      "kind": "replace",
+      "expected": "burials",
+      "recognized": "burial's"
+    },
+    {
+      "kind": "replace",
+      "expected": "four men",
+      "recognized": "formen"
+    },
+    {
+      "kind": "replace",
+      "expected": "oar",
+      "recognized": "ore"
+    },
+    {
+      "kind": "replace",
+      "expected": "afloat",
+      "recognized": "a float"
+    },
+    {
+      "kind": "replace",
+      "expected": "row",
+      "recognized": "roll"
+    },
+    {
+      "kind": "replace",
+      "expected": "shipbuilders",
+      "recognized": "ship builders"
+    },
+    {
+      "kind": "replace",
+      "expected": "overlap",
+      "recognized": "overlapped"
+    },
+    {
+      "kind": "replace",
+      "expected": "rowers",
+      "recognized": "roars"
+    },
+    {
+      "kind": "replace",
+      "expected": "rowers",
+      "recognized": "roars"
+    },
+    {
+      "kind": "replace",
+      "expected": "oars",
+      "recognized": "ors"
+    },
+    {
+      "kind": "replace",
+      "expected": "a long",
+      "recognized": "along"
+    },
+    {
+      "kind": "replace",
+      "expected": "oars",
+      "recognized": "ours"
+    },
+    {
+      "kind": "replace",
+      "expected": "volga",
+      "recognized": "vulga"
+    },
+    {
+      "kind": "replace",
+      "expected": "markets",
+      "recognized": "market"
+    },
+    {
+      "kind": "replace",
+      "expected": "the dnieper",
+      "recognized": "that neaper"
+    },
+    {
+      "kind": "replace",
+      "expected": "dirhams traders",
+      "recognized": "deirums traitors"
+    },
+    {
+      "kind": "replace",
+      "expected": "helg",
+      "recognized": "helgo"
+    },
+    {
+      "kind": "replace",
+      "expected": "voyages",
+      "recognized": "voyage's"
+    },
+    {
+      "kind": "replace",
+      "expected": "coppergate",
+      "recognized": "copper gate"
+    },
+    {
+      "kind": "replace",
+      "expected": "harald",
+      "recognized": "harold"
+    },
+    {
+      "kind": "replace",
+      "expected": "stamford",
+      "recognized": "stanford"
+    },
+    {
+      "kind": "replace",
+      "expected": "salme",
+      "recognized": "sala"
+    },
+    {
+      "kind": "replace",
+      "expected": "a thousand",
+      "recognized": "1 000"
+    }
+  ],
+  "note": "Independent speech-recognition check; phonetic differences reviewed, including Salme and Scandinavian names. Contextual board-game caption errors corrected before final rendering."
+}
