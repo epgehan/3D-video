@@ -1,6 +1,6 @@
 # The Viking Ships Beneath Salme
 
-90 original landscape PNG exports for the Salme history video, numbered `001_2s.png` through `090_8s.png`. Every image is **1920 × 1080 pixels (16:9)**. Nine images were revised on 2026-11-08; the other 81 original exports are unchanged.
+90 original landscape PNG exports for the Salme history video, numbered `001_00-00–00-02.png` through `090_08-52–09-00.png`. Every image is **1920 × 1080 pixels (16:9)**. Nine images were revised on 2026-11-08; the other 81 original exports are unchanged.
 
 - [Video preview player](preview/) — see its README to watch locally or open HyperFrames Studio.
 - [Images](images/)
@@ -19,4 +19,4 @@ See [delivery notes](README-delivery.md) for export details.
 
 ## Image filenames
 
-The 90 scene images use `number_duration` names, with duration in seconds: `001_2s.png`, `002_3s.png`, and so on. Durations match the exact video schedule. See [image-durations.csv](image-durations.csv) for all filenames, durations, and start/end times.
+The 90 scene images use `number_start–end` names copied from the image prompt brief. For example, prompt 001 is `00:00–00:02`, so its filename is `001_00-00–00-02.png`. Colons are replaced with hyphens for Windows compatibility. See [image-durations.csv](image-durations.csv) for the exact original time ranges, filenames, and durations.
