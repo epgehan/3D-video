@@ -1,0 +1,26 @@
+{
+  "video": "Salme_Final_1920x1080.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 24,
+  "duration": 540.0,
+  "frame_count": 12960,
+  "size": 353789259,
+  "sampled_image_checks": 270,
+  "correct_nearest_image": 270,
+  "image_checks_requiring_review": [],
+  "decode_warnings": "",
+  "sha256": "d3c9f169a64126c694a9794cf059eba51bd7156af0a2c84cedcf0f06f5fa2c1f",
+  "checks": {
+    "hyperframes_check": "passed",
+    "complete_decode": "passed",
+    "all_90_image_slots": "270/270 first, middle, last-frame samples passed",
+    "timestamps": "audio and video start at 0 and end at 540 seconds",
+    "caption_proofs": "board game corrections visually verified",
+    "preview_play_seek": "passed",
+    "site_deployment": "succeeded",
+    "github_commit": "7ed097c204e77036184c5c74e29e28a5d1423861",
+    "browser_download": "passed: 353789259 bytes, 22 SHA-256 checked parts, writable stream closed"
+  },
+  "preview_url": "https://salme-video-preview.dev9x.chatgpt.site"
+}
