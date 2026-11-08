@@ -1,0 +1,21 @@
+{
+  "canvas": [
+    2560,
+    1440
+  ],
+  "text": "CLIP SCOUT",
+  "safe_area": {
+    "x": 507,
+    "y": 509,
+    "width": 1546,
+    "height": 423
+  },
+  "measured_wordmark_bounds_including_outline_shadow": [
+    632,
+    585,
+    1928,
+    857
+  ],
+  "safe_area_check": "passed",
+  "png_bytes": 2115034
+}
