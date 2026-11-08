@@ -817,9 +817,10 @@
       ],
       "review_note": "Start on rivets tracing the boat at 02:52; the preceding clue setup stays with the close-up finds.",
       "boundary_basis": "supplied transcript timestamp",
-      "sha256": "0c82caff055b2eb17a0e5f6d29da308f52e18de1cecf3c8fec5477781ca0cda2",
+      "sha256": "87d8feebbd7a8c7abfd15fc66a987def9ee99d1f4a7e3d289b4dc7e0788f1d14",
       "visual_prompt": "Landscape 16:9 illustration for a 1920 × 1080 animated history video.\n\nMacro-to-wide composition of an arc of corroded iron rivets curving from the upper left down\nacross gritty umber soil. One rivet is especially sharp and large in the foreground while the\nremaining dots get smaller in the distance. A teal sleeve edge gives scale. Use thin warm\noutlines against slate-blue shadow to let the eye complete the curve.\n\nUse flat 2D cel shading, thick near-black contours, simple rounded faces, small eyes,\nexpressive brows and slim dark limbs where people appear. Stage clean foreground, middle and\nbackground shapes with believable perspective. Use lightly painted texture and crisp shadow\nedges. Keep the lower centre quiet for captions and the right edge clear of essential detail.\nExclude lettering, captions, logos, watermarks, interface elements, photorealism, 3D\nrendering, gore, fantasy armour and horned helmets.",
-      "match_review": "Visual prompt and transcript passage reviewed."
+      "match_review": "Visual prompt and transcript passage reviewed.",
+      "revision_review": "Accepted: two curving rivet rows and the buried boat stain clearly connect the iron evidence to the hull outline. Ink, soil, brush, palette and caption clearance match the guide."
     },
     {
       "id": "033",
@@ -840,9 +841,10 @@
       ],
       "review_note": "Matched to the transcript passage at this boundary.",
       "boundary_basis": "supplied transcript timestamp",
-      "sha256": "16fb80be072f7abd3dded63ca47a21ab77a0347d2e1afef2154e417fb01deaf1",
+      "sha256": "3d65e3f7f4ce147e010333c12844ea51579eda6b7600cc885f371cd5d316fb3b",
       "visual_prompt": "Landscape 16:9 illustration for a 1920 × 1080 animated history video.\n\nA clean overhead schematic of one short, slender boat trace on matte umber paper with a dark\nblue surround. Mark the plank perimeter with faint reddish rivet points, leaving the middle\nsoftly lit and mostly open for an editor count. At the top corner, put the faint silhouette of\na field notebook and measuring cord, with details simplified and unfocused.\n\nUse flat 2D cel shading, thick near-black contours, simple rounded faces, small eyes,\nexpressive brows and slim dark limbs where people appear. Stage clean foreground, middle and\nbackground shapes with believable perspective. Use lightly painted texture and crisp shadow\nedges. Keep the lower centre quiet for captions and the right edge clear of essential detail.\nExclude lettering, captions, logos, watermarks, interface elements, photorealism, 3D\nrendering, gore, fantasy armour and horned helmets.",
-      "match_review": "Visual prompt and transcript passage reviewed."
+      "match_review": "Visual prompt and transcript passage reviewed.",
+      "revision_review": "Accepted: exactly seven visible flat cartoon men, arranged four plus three; consistent cream faces, closed eyes, capsule clothing and thin limbs. Illustrative layout, not a measured field plan."
     },
     {
       "id": "034",
@@ -871,9 +873,10 @@
       ],
       "review_note": "Start on another vessel at 03:00; the count of 34 follows at 03:02.",
       "boundary_basis": "supplied transcript timestamp",
-      "sha256": "9919f39ac6e762d3e27e68b0d0498533216d5129d8f6767764e4c8d2632973dd",
+      "sha256": "49634a423fe80e78c4125443dc4a9d39992870fc8191dcf6522714b81b7fa4fc",
       "visual_prompt": "Landscape 16:9 illustration for a 1920 × 1080 animated history video.\n\nOverhead schematic on the same umber-and-indigo field surface. A longer, wider hull outline\nnow dominates the landscape frame. Keep the outline high and slightly right with staggered dark\nmarks inside suggesting density without representing each burial. The smaller hull is a faint\ncomparison shape along the left. Amber illumination outlines the larger vessel and leaves a\nsimple area for a count.\n\nUse flat 2D cel shading, thick near-black contours, simple rounded faces, small eyes,\nexpressive brows and slim dark limbs where people appear. Stage clean foreground, middle and\nbackground shapes with believable perspective. Use lightly painted texture and crisp shadow\nedges. Keep the lower centre quiet for captions and the right edge clear of essential detail.\nExclude lettering, captions, logos, watermarks, interface elements, photorealism, 3D\nrendering, gore, fantasy armour and horned helmets.",
-      "match_review": "Visual prompt and transcript passage reviewed."
+      "match_review": "Visual prompt and transcript passage reviewed.",
+      "revision_review": "Accepted: exactly 34 figures, counted in six bands of 5+6+6+6+6+5. Large burial and small comparison hull read clearly. This organized graphic layout represents the count, not a measured burial arrangement."
     },
     {
       "id": "035",
@@ -898,9 +901,10 @@
       ],
       "review_note": "Start on violent deaths at 03:07, then upper-arm blows at 03:09.",
       "boundary_basis": "supplied transcript timestamp",
-      "sha256": "7c93b58261ef36b8edb4466238aa1c2d66bec83549cc6b6099aefc32298ed6d0",
+      "sha256": "35ea5ba87099cea6b79c4a823de5277908f31de4d247d8a0d30e7f71853f72b2",
       "visual_prompt": "Landscape 16:9 illustration for a 1920 × 1080 animated history video.\n\nForensic still life of an aged upper-arm bone on a charcoal sample pad under a soft amber\nlamp. Use an ivory silhouette and a few short, shallow blade marks drawn in restrained dark\nink. A muted steel-blue pointer rests beside the bone at a distance. The rest of the frame is\na matte cool field, with all emphasis on the evidence.\n\nUse flat 2D cel shading, thick near-black contours, simple rounded faces, small eyes,\nexpressive brows and slim dark limbs where people appear. Stage clean foreground, middle and\nbackground shapes with believable perspective. Use lightly painted texture and crisp shadow\nedges. Keep the lower centre quiet for captions and the right edge clear of essential detail.\nExclude lettering, captions, logos, watermarks, interface elements, photorealism, 3D\nrendering, gore, fantasy armour and horned helmets.",
-      "match_review": "Visual prompt and transcript passage reviewed."
+      "match_review": "Visual prompt and transcript passage reviewed.",
+      "revision_review": "Accepted: a simplified upper-arm bone with three visible old impact notches under an amber work lamp; matching ink treatment and cool sample mat, no blood or text."
     },
     {
       "id": "036",
@@ -925,9 +929,10 @@
       ],
       "review_note": "Matched to the transcript passage at this boundary.",
       "boundary_basis": "supplied transcript timestamp",
-      "sha256": "f0da9b25366a8a039576a2e0b6c0e2df2d91b5edc0a3ad9bcc7384bbd62774ec",
+      "sha256": "5c0ea53d8a9a2df07ff5b82503811772f2d82f7ead1d7c0949ed23eca63fdc1c",
       "visual_prompt": "Landscape 16:9 illustration for a 1920 × 1080 animated history video.\n\nSide cutaway illustration of a low boat-shaped hollow in the earth. Depict the arranged\nburials as several staggered ivory silhouettes under thin dark-blue separation lines. Use\ngeometric forms and a warm cross-section of ochre soil, with a pale rim of daylight at the top\nedge. Keep the section visually simple enough to read as layers at phone size.\n\nUse flat 2D cel shading, thick near-black contours, simple rounded faces, small eyes,\nexpressive brows and slim dark limbs where people appear. Stage clean foreground, middle and\nbackground shapes with believable perspective. Use lightly painted texture and crisp shadow\nedges. Keep the lower centre quiet for captions and the right edge clear of essential detail.\nExclude lettering, captions, logos, watermarks, interface elements, photorealism, 3D\nrendering, gore, fantasy armour and horned helmets.",
-      "match_review": "Visual prompt and transcript passage reviewed."
+      "match_review": "Visual prompt and transcript passage reviewed.",
+      "revision_review": "Accepted after correction: three close burial levels read clearly in a side cutaway. Rejected first draft had mountains; final has a low flat Baltic horizon. Layer count and arrangement are illustrative, not measured reconstruction."
     },
     {
       "id": "037",
@@ -948,9 +953,10 @@
       ],
       "review_note": "Matched to the transcript passage at this boundary.",
       "boundary_basis": "supplied transcript timestamp",
-      "sha256": "dc60855093a577e2b81f6e069a788c948abdf6f80fe94b2b964552b69e571753",
+      "sha256": "0bd970d9cdbd83c01b9bf6da10670d0f9e139a1e52d47f142342b17f82b9ecd5",
       "visual_prompt": "Landscape 16:9 illustration for a 1920 × 1080 animated history video.\n\nOverhead view of a few overlapping round shields laid quietly inside the boat's dark timber\noutline. Simple slate-blue and muted ochre painted boards with dark iron bosses catch a thin\nwarm raking light. Show only faint pale forms beneath the shield edges and leave the central\nlower space subdued. The round shield shapes carry the entire composition.\n\nUse flat 2D cel shading, thick near-black contours, simple rounded faces, small eyes,\nexpressive brows and slim dark limbs where people appear. Stage clean foreground, middle and\nbackground shapes with believable perspective. Use lightly painted texture and crisp shadow\nedges. Keep the lower centre quiet for captions and the right edge clear of essential detail.\nExclude lettering, captions, logos, watermarks, interface elements, photorealism, 3D\nrendering, gore, fantasy armour and horned helmets.",
-      "match_review": "Visual prompt and transcript passage reviewed."
+      "match_review": "Visual prompt and transcript passage reviewed.",
+      "revision_review": "Accepted: overlapping blue/ochre shields physically cover lying men; visible pale heads and thin limbs distinguish covered bodies from stored shields. Contacts and occlusion checked."
     },
     {
       "id": "038",
@@ -971,9 +977,10 @@
       ],
       "review_note": "Matched to the transcript passage at this boundary.",
       "boundary_basis": "supplied transcript timestamp",
-      "sha256": "3be5a3c019da32edde693acc5177b891f37578fad9c1ffd0e921eec6185f0050",
+      "sha256": "95951f31458eaaa29e208a057cd684ff0b1cff86a286680fc06d5d0044a07bdd",
       "visual_prompt": "Landscape 16:9 illustration for a 1920 × 1080 animated history video.\n\nClose reconstruction of two anonymous early medieval hands with plain brown wool cuffs\nlowering a small folded cloth beside a round shield inside a dark boat. Frame the hands and\nobject upper centre, without showing faces. Use gentle amber rim light on the cloth and deep\nblue earth around it. Keep the gesture deliberate and quiet.\n\nUse flat 2D cel shading, thick near-black contours, simple rounded faces, small eyes,\nexpressive brows and slim dark limbs where people appear. Stage clean foreground, middle and\nbackground shapes with believable perspective. Use lightly painted texture and crisp shadow\nedges. Keep the lower centre quiet for captions and the right edge clear of essential detail.\nExclude lettering, captions, logos, watermarks, interface elements, photorealism, 3D\nrendering, gore, fantasy armour and horned helmets.",
-      "match_review": "Visual prompt and transcript passage reviewed."
+      "match_review": "Visual prompt and transcript passage reviewed.",
+      "revision_review": "Accepted after correction: hands support the folded cloth beside the shield-covered man; a thick exposed arm and smiling expression were replaced by thin graphic limb and neutral mouth. Folded cloth is an illustrative burial-care gesture, not a claimed recovered artifact."
     },
     {
       "id": "039",
@@ -1002,9 +1009,10 @@
       ],
       "review_note": "Matched to the transcript passage at this boundary.",
       "boundary_basis": "supplied transcript timestamp",
-      "sha256": "073fb9e442a95c06291bc4256d232a2e5c74b7665a3872ba698b624b700eeb19",
+      "sha256": "627e00c47aa6c98b2fd84c2b7b023b268b522d918839485122f2124d2f29af65",
       "visual_prompt": "Landscape 16:9 illustration for a 1920 × 1080 animated history video.\n\nA clean landscape background for a two-date timeline. The upper half is amber parchment with an\nindistinct manuscript curl at its edge. The lower half is cobalt soil texture with one small\npale rivet at the edge. Leave a wide, uncluttered band from the top third into the middle for\na manually drawn timeline and two date labels. Keep decorative marks far from that band.\n\nUse flat 2D cel shading, thick near-black contours, simple rounded faces, small eyes,\nexpressive brows and slim dark limbs where people appear. Stage clean foreground, middle and\nbackground shapes with believable perspective. Use lightly painted texture and crisp shadow\nedges. Keep the lower centre quiet for captions and the right edge clear of essential detail.\nExclude lettering, captions, logos, watermarks, interface elements, photorealism, 3D\nrendering, gore, fantasy armour and horned helmets.",
-      "match_review": "Visual prompt and transcript passage reviewed."
+      "match_review": "Visual prompt and transcript passage reviewed.",
+      "revision_review": "Accepted: burial evidence and plain Lindisfarne church appear in two vignettes on a simple two-point timeline. No date text is burned in; spoken dates belong in captions. Vignettes simplify evidence and architecture."
     },
     {
       "id": "040",
@@ -1033,9 +1041,10 @@
       ],
       "review_note": "Matched to the transcript passage at this boundary.",
       "boundary_basis": "supplied transcript timestamp",
-      "sha256": "56dd80048b414bdc3be4fd5a7cfad09aef9f7dcedaab37c5eba0d5cc685b8190",
+      "sha256": "1b5c45523cd18e00315639485b06ca59ca5b5e05dfd32e462398e877078d142c",
       "visual_prompt": "Landscape 16:9 illustration for a 1920 × 1080 animated history video.\n\nWide twilight reconstruction looking along an anonymous Baltic shore with a low boat pulled\npartly onto wet sand. One or two distant indistinct figures stand beside the hull, with\nnothing indicating how the crew arrived or who fought. Deep cobalt water and low violet cloud\nsurround the small amber reflection of the wooden hull. Dark grasses at the edge create depth.\n\nUse flat 2D cel shading, thick near-black contours, simple rounded faces, small eyes,\nexpressive brows and slim dark limbs where people appear. Stage clean foreground, middle and\nbackground shapes with believable perspective. Use lightly painted texture and crisp shadow\nedges. Keep the lower centre quiet for captions and the right edge clear of essential detail.\nExclude lettering, captions, logos, watermarks, interface elements, photorealism, 3D\nrendering, gore, fantasy armour and horned helmets.",
-      "match_review": "Visual prompt and transcript passage reviewed."
+      "match_review": "Visual prompt and transcript passage reviewed.",
+      "revision_review": "Accepted: low flat Salme shore, plain clinker boat, two anonymous graphic figures, amber reflection and violet-blue water. No invented fight, perpetrators or certain voyage motive."
     },
     {
       "id": "041",

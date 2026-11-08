@@ -1,0 +1,119 @@
+{
+  "image_count": 9,
+  "range": "02:52–03:45",
+  "export_size": [
+    1920,
+    1080
+  ],
+  "other_81_images_unchanged": true,
+  "filenames_and_timing_unchanged": true,
+  "all_nine_visually_reviewed": true,
+  "embedded_text": "none",
+  "review_basis": [
+    "DESIGN_GUIDE.md",
+    "cartoon-3d-short skill",
+    "original visual prompts",
+    "transcript.txt"
+  ],
+  "checks": [
+    {
+      "id": "032",
+      "image": "032_duration 6s_02-52-02-58.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "87d8feebbd7a8c7abfd15fc66a987def9ee99d1f4a7e3d289b4dc7e0788f1d14",
+      "time_range": "02:52–02:58",
+      "duration": 6,
+      "review": "Accepted: two curving rivet rows and the buried boat stain clearly connect the iron evidence to the hull outline. Ink, soil, brush, palette and caption clearance match the guide.",
+      "status": "accepted"
+    },
+    {
+      "id": "033",
+      "image": "033_duration 2s_02-58-03-00.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "3d65e3f7f4ce147e010333c12844ea51579eda6b7600cc885f371cd5d316fb3b",
+      "time_range": "02:58–03:00",
+      "duration": 2,
+      "review": "Accepted: exactly seven visible flat cartoon men, arranged four plus three; consistent cream faces, closed eyes, capsule clothing and thin limbs. Illustrative layout, not a measured field plan.",
+      "status": "accepted"
+    },
+    {
+      "id": "034",
+      "image": "034_duration 7s_03-00-03-07.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "49634a423fe80e78c4125443dc4a9d39992870fc8191dcf6522714b81b7fa4fc",
+      "time_range": "03:00–03:07",
+      "duration": 7,
+      "review": "Accepted: exactly 34 figures, counted in six bands of 5+6+6+6+6+5. Large burial and small comparison hull read clearly. This organized graphic layout represents the count, not a measured burial arrangement.",
+      "status": "accepted"
+    },
+    {
+      "id": "035",
+      "image": "035_duration 5s_03-07-03-12.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "35ea5ba87099cea6b79c4a823de5277908f31de4d247d8a0d30e7f71853f72b2",
+      "time_range": "03:07–03:12",
+      "duration": 5,
+      "review": "Accepted: a simplified upper-arm bone with three visible old impact notches under an amber work lamp; matching ink treatment and cool sample mat, no blood or text.",
+      "status": "accepted"
+    },
+    {
+      "id": "036",
+      "image": "036_duration 6s_03-12-03-18.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "5c0ea53d8a9a2df07ff5b82503811772f2d82f7ead1d7c0949ed23eca63fdc1c",
+      "time_range": "03:12–03:18",
+      "duration": 6,
+      "review": "Accepted after correction: three close burial levels read clearly in a side cutaway. Rejected first draft had mountains; final has a low flat Baltic horizon. Layer count and arrangement are illustrative, not measured reconstruction.",
+      "status": "accepted"
+    },
+    {
+      "id": "037",
+      "image": "037_duration 4s_03-18-03-22.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "0bd970d9cdbd83c01b9bf6da10670d0f9e139a1e52d47f142342b17f82b9ecd5",
+      "time_range": "03:18–03:22",
+      "duration": 4,
+      "review": "Accepted: overlapping blue/ochre shields physically cover lying men; visible pale heads and thin limbs distinguish covered bodies from stored shields. Contacts and occlusion checked.",
+      "status": "accepted"
+    },
+    {
+      "id": "038",
+      "image": "038_duration 4s_03-22-03-26.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "95951f31458eaaa29e208a057cd684ff0b1cff86a286680fc06d5d0044a07bdd",
+      "time_range": "03:22–03:26",
+      "duration": 4,
+      "review": "Accepted after correction: hands support the folded cloth beside the shield-covered man; a thick exposed arm and smiling expression were replaced by thin graphic limb and neutral mouth. Folded cloth is an illustrative burial-care gesture, not a claimed recovered artifact.",
+      "status": "accepted"
+    },
+    {
+      "id": "039",
+      "image": "039_duration 8s_03-26-03-34.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "627e00c47aa6c98b2fd84c2b7b023b268b522d918839485122f2124d2f29af65",
+      "time_range": "03:26–03:34",
+      "duration": 8,
+      "review": "Accepted: burial evidence and plain Lindisfarne church appear in two vignettes on a simple two-point timeline. No date text is burned in; spoken dates belong in captions. Vignettes simplify evidence and architecture.",
+      "status": "accepted"
+    },
+    {
+      "id": "040",
+      "image": "040_duration 11s_03-34-03-45.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "1b5c45523cd18e00315639485b06ca59ca5b5e05dfd32e462398e877078d142c",
+      "time_range": "03:34–03:45",
+      "duration": 11,
+      "review": "Accepted: low flat Salme shore, plain clinker boat, two anonymous graphic figures, amber reflection and violet-blue water. No invented fight, perpetrators or certain voyage motive.",
+      "status": "accepted"
+    }
+  ]
+}

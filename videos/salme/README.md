@@ -1,9 +1,11 @@
 # The Viking Ships Beneath Salme
 
-90 original landscape PNG exports for the Salme history video, numbered `001_duration 1s_00-00-00-01.png` through `090_duration 5.404s_09-08-09-13.404.png`. Every image is **1920 × 1080 pixels (16:9)**. Nine images were revised on 2026-11-08; the other 81 original exports are unchanged.
+90 original landscape PNG exports for the Salme history video, numbered `001_duration 1s_00-00-00-01.png` through `090_duration 5.404s_09-08-09-13.404.png`. Every image is **1920 × 1080 pixels (16:9)**. The earlier nine-image revision remains, and images 032–040 have now been regenerated to clarify the burial sequence.
 
 - [Video preview player](preview/) — see its README to watch locally or open HyperFrames Studio.
 - [Images](images/)
+- [Regenerated burial sequence 032–040: visual review](BURIAL_SEQUENCE_REVIEW.md)
+- [Download revised burial images 032–040](Salme_032-040_Revised_1920x1080.zip)
 - [Nine revised images — ZIP download](Salme_9_Revisions_1920x1080.zip)
 - [Revision details and individual design reviews](REVISIONS.md)
 - [Gallery](index.html) — download/clone the repository and open this HTML file locally to browse.

@@ -17,3 +17,7 @@ The first 087 draft introduced a modern metal pen nib; it was rejected and repla
 Map coastlines and the Volga reference course were guided by public-domain Natural Earth 1:50m land, lakes, and rivers data (https://www.naturalearthdata.com/). Final maps are stylized illustrations; route marks are schematic, not precise historical itineraries. The central Sweden highlight denotes a region rather than an identified settlement. Modern coastlines are orientation guides, not reconstructed eighth-century shorelines.
 
 The user explicitly requested maps be added in 026, 052, and 069, superseding those prompts’ blank-map overlay instructions. Dates and other lettering remain reserved for the video editor. Original prompt text is preserved in the source brief and manifest; revision details are recorded separately. Native generated images were resized with Lanczos to the required export dimensions and saved as losslessly compressed PNG.
+
+## Burial sequence 032–040
+
+These nine images have now been regenerated following the transcript and design guide. See [the per-image visual review](BURIAL_SEQUENCE_REVIEW.md) and [verification checksums](burial-sequence-verification.json). All nine exports are 1920 × 1080; current duration/range filenames are retained. Other scene images were unchanged during this revision.

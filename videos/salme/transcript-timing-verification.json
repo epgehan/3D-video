@@ -1,6 +1,6 @@
 {
   "images": 90,
-  "all_original_hashes_unchanged": true,
+  "all_original_hashes_unchanged": false,
   "coverage_start": 0,
   "coverage_end": 553.404,
   "gaps": 0,
@@ -261,74 +261,83 @@
     {
       "id": "032",
       "filename": "032_duration 6s_02-52-02-58.png",
-      "sha256": "0c82caff055b2eb17a0e5f6d29da308f52e18de1cecf3c8fec5477781ca0cda2",
-      "unchanged_image_bytes": true,
+      "sha256": "87d8feebbd7a8c7abfd15fc66a987def9ee99d1f4a7e3d289b4dc7e0788f1d14",
+      "unchanged_image_bytes": false,
       "duration_matches_range": true,
-      "start_is_transcript_anchor": true
+      "start_is_transcript_anchor": true,
+      "regenerated": true
     },
     {
       "id": "033",
       "filename": "033_duration 2s_02-58-03-00.png",
-      "sha256": "16fb80be072f7abd3dded63ca47a21ab77a0347d2e1afef2154e417fb01deaf1",
-      "unchanged_image_bytes": true,
+      "sha256": "3d65e3f7f4ce147e010333c12844ea51579eda6b7600cc885f371cd5d316fb3b",
+      "unchanged_image_bytes": false,
       "duration_matches_range": true,
-      "start_is_transcript_anchor": true
+      "start_is_transcript_anchor": true,
+      "regenerated": true
     },
     {
       "id": "034",
       "filename": "034_duration 7s_03-00-03-07.png",
-      "sha256": "9919f39ac6e762d3e27e68b0d0498533216d5129d8f6767764e4c8d2632973dd",
-      "unchanged_image_bytes": true,
+      "sha256": "49634a423fe80e78c4125443dc4a9d39992870fc8191dcf6522714b81b7fa4fc",
+      "unchanged_image_bytes": false,
       "duration_matches_range": true,
-      "start_is_transcript_anchor": true
+      "start_is_transcript_anchor": true,
+      "regenerated": true
     },
     {
       "id": "035",
       "filename": "035_duration 5s_03-07-03-12.png",
-      "sha256": "7c93b58261ef36b8edb4466238aa1c2d66bec83549cc6b6099aefc32298ed6d0",
-      "unchanged_image_bytes": true,
+      "sha256": "35ea5ba87099cea6b79c4a823de5277908f31de4d247d8a0d30e7f71853f72b2",
+      "unchanged_image_bytes": false,
       "duration_matches_range": true,
-      "start_is_transcript_anchor": true
+      "start_is_transcript_anchor": true,
+      "regenerated": true
     },
     {
       "id": "036",
       "filename": "036_duration 6s_03-12-03-18.png",
-      "sha256": "f0da9b25366a8a039576a2e0b6c0e2df2d91b5edc0a3ad9bcc7384bbd62774ec",
-      "unchanged_image_bytes": true,
+      "sha256": "5c0ea53d8a9a2df07ff5b82503811772f2d82f7ead1d7c0949ed23eca63fdc1c",
+      "unchanged_image_bytes": false,
       "duration_matches_range": true,
-      "start_is_transcript_anchor": true
+      "start_is_transcript_anchor": true,
+      "regenerated": true
     },
     {
       "id": "037",
       "filename": "037_duration 4s_03-18-03-22.png",
-      "sha256": "dc60855093a577e2b81f6e069a788c948abdf6f80fe94b2b964552b69e571753",
-      "unchanged_image_bytes": true,
+      "sha256": "0bd970d9cdbd83c01b9bf6da10670d0f9e139a1e52d47f142342b17f82b9ecd5",
+      "unchanged_image_bytes": false,
       "duration_matches_range": true,
-      "start_is_transcript_anchor": true
+      "start_is_transcript_anchor": true,
+      "regenerated": true
     },
     {
       "id": "038",
       "filename": "038_duration 4s_03-22-03-26.png",
-      "sha256": "3be5a3c019da32edde693acc5177b891f37578fad9c1ffd0e921eec6185f0050",
-      "unchanged_image_bytes": true,
+      "sha256": "95951f31458eaaa29e208a057cd684ff0b1cff86a286680fc06d5d0044a07bdd",
+      "unchanged_image_bytes": false,
       "duration_matches_range": true,
-      "start_is_transcript_anchor": true
+      "start_is_transcript_anchor": true,
+      "regenerated": true
     },
     {
       "id": "039",
       "filename": "039_duration 8s_03-26-03-34.png",
-      "sha256": "073fb9e442a95c06291bc4256d232a2e5c74b7665a3872ba698b624b700eeb19",
-      "unchanged_image_bytes": true,
+      "sha256": "627e00c47aa6c98b2fd84c2b7b023b268b522d918839485122f2124d2f29af65",
+      "unchanged_image_bytes": false,
       "duration_matches_range": true,
-      "start_is_transcript_anchor": true
+      "start_is_transcript_anchor": true,
+      "regenerated": true
     },
     {
       "id": "040",
       "filename": "040_duration 11s_03-34-03-45.png",
-      "sha256": "56dd80048b414bdc3be4fd5a7cfad09aef9f7dcedaab37c5eba0d5cc685b8190",
-      "unchanged_image_bytes": true,
+      "sha256": "1b5c45523cd18e00315639485b06ca59ca5b5e05dfd32e462398e877078d142c",
+      "unchanged_image_bytes": false,
       "duration_matches_range": true,
-      "start_is_transcript_anchor": true
+      "start_is_transcript_anchor": true,
+      "regenerated": true
     },
     {
       "id": "041",
@@ -730,5 +739,17 @@
       "duration_matches_range": true,
       "start_is_transcript_anchor": true
     }
-  ]
+  ],
+  "regenerated_after_timing_review": [
+    "032",
+    "033",
+    "034",
+    "035",
+    "036",
+    "037",
+    "038",
+    "039",
+    "040"
+  ],
+  "note": "The timing-renaming checks originally preserved every image. Images032–040 have subsequently been intentionally regenerated; current checksums are updated. Timings unchanged."
 }
