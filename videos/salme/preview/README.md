@@ -38,4 +38,4 @@ The browser player is static and can be hosted by GitHub Pages or any static HTT
 
 ## Download the finished MP4
 
-Use the Download 1080p MP4 button on the hosted preview. The full export is 1920 × 1080 at 24 fps, exactly 09:00. Its download is stored in verified parts to fit GitHub file limits. To reconstruct it locally, run `python download-render.py` in this directory; each part and the complete MP4 are checked with SHA-256. The parts are binary storage pieces, not individually playable videos.
+Use the Download 1080p MP4 button on the hosted preview. In an embedded preview, wait for the parts to finish downloading, then click “Save MP4 to your computer.” This uses a normal browser download because embedded pages cannot open the system file picker. The full export is 1920 × 1080 at 24 fps, exactly 09:00. Its download is stored in verified parts to fit GitHub file limits. To reconstruct it locally, run `python download-render.py` in this directory; each part and the complete MP4 are checked with SHA-256. The parts are binary storage pieces, not individually playable videos.

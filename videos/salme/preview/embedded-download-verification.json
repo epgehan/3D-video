@@ -1,0 +1,5 @@
+{
+  "cross_origin_iframe_download": "passed: actual downloaded bytes match",
+  "blocked_top_level_picker_fallback": "passed",
+  "fixture_sha256": "5395d33c3ff741add9836eb4a7120d4815caa85d2313bfea01f867ed17357f77"
+}
