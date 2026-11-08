@@ -1,6 +1,6 @@
 {
   "playing": {
-    "time": 3.427643,
+    "time": 3.40973,
     "paused": false
   },
   "audit": {
@@ -14,7 +14,5 @@
     "outline": "6px rgb(0, 0, 0)",
     "oldTextCount": 0
   },
-  "errors": [
-    "404 http://127.0.0.1:8780/render-manifest.json"
-  ]
+  "errors": []
 }
